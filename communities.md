@@ -1,6 +1,8 @@
 
 **Chinese-speaking:**
 * [华文小学 ( SJKC ) 教育分享站](https://www.facebook.com/groups/294156912415733) 
+* [教育资讯分享群](https://www.facebook.com/groups/965203110896756)
+* [大马教育资讯分享区](https://www.facebook.com/groups/1573507399538439)
 
 
 **Malay-speaking:**

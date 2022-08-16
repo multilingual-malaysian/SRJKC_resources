@@ -12,3 +12,4 @@ gem "jekyll-include-cache", "~> 0.2"
 gem "jemoji", "~> 0.12"
 gem "jekyll-remote-theme", "~> 0.3"
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
+gem "webrick", "~> 1.7"

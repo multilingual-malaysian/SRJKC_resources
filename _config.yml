@@ -129,11 +129,11 @@ navigation_header:
 - title: Blog
   url: /home2/blog/
 - title: Categories
-  url: /categories/
+  url: /home2/categories/
 - title: Search
   url: /search/
-- title: Fork Alembic   
-  url: https://github.com/daviddarnes/alembic
+- title: Communities
+  url: /home2/communities/
 
 navigation_footer:
 - title: Created by David Darnes

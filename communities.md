@@ -13,6 +13,7 @@ feature_image: /home2/assets/images/fb_groups.jpg
 
 **Malay-speaking:**
 * [Kumpulan Sokongan Ibu Bapa - Anak Sekolah Cina](https://www.facebook.com/groups/113869955774848)
+* [GROUP SRJKC](https://www.facebook.com/groups/1861472734108917)
 
 
 **English-speaking:**

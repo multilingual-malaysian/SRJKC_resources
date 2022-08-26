@@ -12,9 +12,9 @@ Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather
 <iframe width="50%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1331635966&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/meisin-lee-338497804" title="meisin lee" target="_blank" style="color: #cccccc; text-decoration: none;">meisin lee</a> · <a href="https://soundcloud.com/meisin-lee-338497804/passage-10" title="Passage #10" target="_blank" style="color: #cccccc; text-decoration: none;">Passage #10</a></div>
 
 
-<object data="/home2/doc/BC_4_Passage10.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="/home2/doc/BC_4_Passage10.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/home2/doc/BC_4_Passage10.pdf">Download PDF</a>.</p>
+<object data="/doc/BC_4_Passage10.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="/doc/BC_4_Passage10.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/doc/BC_4_Passage10.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 

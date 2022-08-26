@@ -14,7 +14,7 @@ Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather
 
 <object data="/doc/BC_4_Passage10.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="/doc/BC_4_Passage10.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/doc/BC_4_Passage10.pdf">Download PDF</a>.</p>
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/home2/doc/BC_4_Passage10.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 

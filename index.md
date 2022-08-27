@@ -1,7 +1,7 @@
 ---
-title: 四年级华语 - Bahasa Cina Tahun 4
+title: Resource Centre
 feature_text: |
-  ## Resource Centre <a href="top"></a>
+  ## 四年级华语 - Bahasa Cina Tahun 4 <a href="top"></a>
   Audio files, passage with pinyin and its English translaction.
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."

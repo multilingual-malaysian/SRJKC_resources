@@ -1,5 +1,5 @@
 ---
-title: About Multilingual Malaysian
+title: 四年级华语
 feature_text: |
   ## Alembic
   A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
@@ -8,7 +8,7 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
 ---
 [单元一 - 成长之旅]\
 [1. 踏上学习的征途]\
-[2. 棋王的心事]\
+[2. 棋王的心事]
 
 
 [Passage #10](#passage10)

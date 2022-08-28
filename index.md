@@ -2,9 +2,8 @@
 title: Resource Centre
 feature_text: |
   <a href="top"></a>
-  Audio files, passage with pinyin and its English translaction.
 feature_image: "/home2/assets/images/BC_4_cover.jpg"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: "Research centre for Bahasa Cina Tahun 4 text book"
 ---
 [单元一 - 成长之旅]\
 [1. 踏上学习的征途]\

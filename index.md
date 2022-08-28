@@ -39,7 +39,7 @@ Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather
    </embed>
 </object>
 
-<a href="https://www.facebook.com/sharer/sharer.php?u=example.org" target="_blank">
+<a href="https://www.facebook.com/sharer/sharer.php?u=https://multilingual-malaysian.github.io/home2/ target="_blank">
   Share on Facebook
 </a>
 

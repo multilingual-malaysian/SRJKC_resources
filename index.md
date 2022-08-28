@@ -39,6 +39,10 @@ Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather
    </embed>
 </object>
 
+<a href="https://www.facebook.com/sharer/sharer.php?u=example.org" target="_blank">
+  Share on Facebook
+</a>
+
 [Back to Top](#top)
 
 ----

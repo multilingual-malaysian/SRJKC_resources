@@ -5,8 +5,32 @@ feature_text: |
 feature_image: "/home2/assets/images/BC_4_cover1.jpg"
 excerpt: "Research centre for Bahasa Cina Tahun 4 text book"
 ---
-[单元一 - 成长之旅]\
-[1. 踏上学习的征途] - *coming soon*\
+[1. 上学的路] - *coming soon*\
+[2. 魔豆传心意] - *coming soon*\
+[3. 鸟儿筑巢] - *coming soon*\
+[4.1. 爸爸的大手] - *coming soon*\
+[4.2. 百衲被的故事] - *coming soon*\
+[5.1. 被子的大地] - *coming soon*\
+[5.2. 月亮渴了] - *coming soon*\
+[6. 小猫和老虎] - *coming soon*\
+[7. 纸船] - *coming soon*\
+[8. 神奇的三维打印] - *coming soon*\
+[9. 马来亚橡胶之父——陈齐贤] - *coming soon*\
+[10. 天鹅长住的地方] - *coming soon*\
+[11. 竹筒饭] - *coming soon*\
+[12. 蔡伦造纸] - *coming soon*\
+[13.1. 快乐识字] - *coming soon*\
+[13.2. 丰收歌] - *coming soon*\
+[14. 掩耳盗铃] - *coming soon*\
+[15. 上天送来的小彩虹] - *coming soon*\
+[16. 退休的鞋子] - *coming soon*\
+[17. 争吵] - *coming soon*\
+[18.1. 草的告白] - *coming soon*\
+[18.2. 自然界的时钟] - *coming soon*\
+[19. 建筑界的长颈鹿] - *coming soon*\
+[20.1 不一样的表演] - *coming soon*\
+[20.2 特别任务] - *coming soon*\
+
 
 ----
 ### 第10课 - 宽大为怀 <a name="passage10"></a>

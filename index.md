@@ -22,9 +22,6 @@ excerpt: "Research centre for Bahasa Cina Tahun 4 text book"
 [单元三 - 探秘之旅]\
 [11. 卑微里的大力量]
 
-<style>Back to Top {text-align: right}</style>
-
-
 
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
 

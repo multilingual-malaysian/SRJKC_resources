@@ -2,7 +2,7 @@
 title: Resource Centre
 feature_text: |
   <a href="top"></a>
-feature_image: "/home2/assets/images/BC_4_cover.jpg"
+feature_image: "/home2/assets/images/BC_4_cover1.jpg"
 excerpt: "Research centre for Bahasa Cina Tahun 4 text book"
 ---
 [单元一 - 成长之旅]\

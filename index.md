@@ -1,6 +1,7 @@
 ---
 title: Home
 feature_text: |
+  What this website is about....
   <a href="top"></a>
 feature_image: "/home2/assets/images/BC_4_cover1.jpg"
 excerpt: "Research centre for Bahasa Cina Tahun 4 text book"

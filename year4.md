@@ -49,10 +49,6 @@ excerpt: "Research centre for Bahasa Cina Tahun 4 text book"
    </embed>
 </object>
 
-<a href="https://www.facebook.com/sharer/sharer.php?u=https://multilingual-malaysian.github.io/home2/blog/" target="_blank">
-  Share on Facebook
-</a>
-
 [Back to Top](#top)
 
 ----

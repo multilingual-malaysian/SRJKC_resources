@@ -41,11 +41,9 @@ excerpt: "Research centre for Bahasa Cina Tahun 4 text book"
 **PDF with English Translation**:
 <object data="/home2/doc/BC_4_Passage10.pdf" type="application/pdf" width="700px" height="700px">
    <embed src="/home2/doc/BC_4_Passage10.pdf">
-        <p>This browser does not support displaying of PDFs. Please download the PDF to view it: <a href="/home2/doc/BC_4_Passage10.pdf">![PDF](/assets/images/pdf_icon.png)</a>.</p>
+        <p>This browser does not support displaying of PDFs. Please download the PDF to view it: <a href="/home2/doc/BC_4_Passage10.pdf"><img src="/home2/assets/images/pdf_icon.png" width="40" height="50"></a>.</p>
    </embed>
 </object>
-
-<img src="/home2/assets/images/pdf_icon.png" width="40" height="50">
 
 <a href="https://www.facebook.com/sharer/sharer.php?u=https://multilingual-malaysian.github.io/home2/blog/" target="_blank">
   Share on Facebook

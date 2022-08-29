@@ -5,6 +5,9 @@ feature_text: |
 feature_image: "/home2/assets/images/BC_4_cover1.jpg"
 excerpt: "Research centre for Bahasa Cina Tahun 4 text book"
 ---
+
+{% include button.html text="Share" icon="facebook" link="https://github.com/daviddarnes/alembic" color="#0366d6" %}  {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %}
+
 [单元一 - 成长之旅]\
 [1. 踏上学习的征途] - *coming soon*\
 [2. 棋王的心事] - *coming soon*\
@@ -32,6 +35,7 @@ excerpt: "Research centre for Bahasa Cina Tahun 4 text book"
 [18. 框住美景]\
 [19. 稻香]\
 [20, 鼓声的召唤]
+
 
 ----
 ### 第10课 - 宽大为怀 <a name="passage10"></a>

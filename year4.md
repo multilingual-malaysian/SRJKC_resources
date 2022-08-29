@@ -45,7 +45,7 @@ excerpt: "Research centre for Bahasa Cina Tahun 4 text book"
    </embed>
 </object>
 
-<img src="/assets/images/pdf_icon.png" width="50" height="50">
+<img src="/assets/images/pdf_icon.png" width="30" height="50">
 
 <a href="https://www.facebook.com/sharer/sharer.php?u=https://multilingual-malaysian.github.io/home2/blog/" target="_blank">
   Share on Facebook

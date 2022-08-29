@@ -41,7 +41,7 @@ excerpt: "Research centre for Bahasa Cina Tahun 4 text book"
 **PDF with English Translation**:
 <object data="/home2/doc/BC_4_Passage10.pdf" type="application/pdf" width="700px" height="700px">
    <embed src="/home2/doc/BC_4_Passage10.pdf">
-        <p>This browser does not support displaying of PDFs. Please download the PDF to view it: <a href="/home2/doc/BC_4_Passage10.pdf"><img src="/home2/assets/images/pdf_icon.png" width="40" height="50"></a>.</p>
+        <p>This browser does not support displaying of PDFs. Please download the PDF to view: <a href="/home2/doc/BC_4_Passage10.pdf"><img src="/home2/assets/images/pdf_icon.png" width="40" height="50"></a>.</p>
    </embed>
 </object>
 

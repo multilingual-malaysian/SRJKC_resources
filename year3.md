@@ -21,7 +21,8 @@ excerpt: "Research centre for Bahasa Cina Tahun 4 text book"
 [12. 蔡伦造纸] - *coming soon*\
 [13.1. 快乐识字] - *coming soon*\
 [13.2. 丰收歌] - *coming soon*\
-[14. 掩耳盗铃] - *coming soon*\
+[14.1. 掩耳盗铃] - *coming soon*\
+[14.6. 刻舟求剑] - *coming soon*\
 [15. 上天送来的小彩虹] - *coming soon*\
 [16. 退休的鞋子] - *coming soon*\
 [17. 争吵] - *coming soon*\
@@ -33,7 +34,7 @@ excerpt: "Research centre for Bahasa Cina Tahun 4 text book"
 
 
 ----
-### 第10课 - 宽大为怀 <a name="passage10"></a>
+### 14.1. 掩耳盗铃 <a name="14.1"></a>
 **Audio Book**： 
 <iframe width="70%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1331635966&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/meisin-lee-338497804" title="meisin lee" target="_blank" style="color: #cccccc; text-decoration: none;">meisin lee</a> · <a href="https://soundcloud.com/meisin-lee-338497804/passage-10" title="Passage #10" target="_blank" style="color: #cccccc; text-decoration: none;">Passage #10</a></div>
 

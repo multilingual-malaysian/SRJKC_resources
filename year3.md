@@ -39,15 +39,6 @@ excerpt: "Research centre for Bahasa Cina Tahun 4 text book"
 <iframe width="70%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1494548539&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/sets/srjkc-chinese-year-3" title="SRJKC Chinese Year 3" target="_blank" style="color: #cccccc; text-decoration: none;">SRJKC Chinese Year 3</a></div>
 
 **PDF with English Translation**:
-<object data="/home2/doc/BC_4_Passage10.pdf" type="application/pdf" width="700px" height="700px">
-   <embed src="/home2/doc/BC_4_Passage10.pdf">
-        <p>This browser does not support displaying of PDFs. Please download the PDF to view it: <a href="/home2/doc/BC_4_Passage10.pdf">Download PDF</a>.</p>
-   </embed>
-</object>
-
-<a href="https://www.facebook.com/sharer/sharer.php?u=https://multilingual-malaysian.github.io/home2/blog/" target="_blank">
-  Share on Facebook
-</a>
 
 [Back to Top](#top)
 

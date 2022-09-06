@@ -43,5 +43,13 @@ excerpt: "Research centre for Bahasa Cina Tahun 4 text book"
 [Back to Top](#top)
 
 ----
+### 14.6. 刻舟求剑<a name="14.6"></a>
+**Audio Book**：
+<iframe width="60%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1338948136&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year3-146" title="Year3 14.6 刻舟求剑" target="_blank" style="color: #cccccc; text-decoration: none;">Year3 14.6 刻舟求剑</a></div>
 
+**PDF with English Translation**:
+
+[Back to Top](#top)
+
+----
 

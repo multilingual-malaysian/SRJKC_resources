@@ -23,7 +23,7 @@ excerpt: "Research centre for Bahasa Cina Tahun 3 text book"
 [13.2. 丰收歌] - *coming soon*\
 [14.1. 掩耳盗铃](#14.1)\
 [14.6. 刻舟求剑](#14.6)\
-[15. 上天送来的小彩虹] - *coming soon*\
+[15. 上天送来的小彩虹](#15)\
 [16. 退休的鞋子] - *coming soon*\
 [17. 争吵] - *coming soon*\
 [18.1. 草的告白] - *coming soon*\
@@ -48,10 +48,15 @@ excerpt: "Research centre for Bahasa Cina Tahun 3 text book"
 **PDF with English Translation**:
 [Back to Top](#top)
 ----
-### 15. 上天送来的小彩虹
+### 15. 上天送来的小彩虹<a name="15"></a>
+**Audio Book**：
+<iframe width="60%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1339041664&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year3-15" title="Year3 15 上天送来的小彩虹" target="_blank" style="color: #cccccc; text-decoration: none;">Year3 15 上天送来的小彩虹</a></div>
+**PDF with English Translation**:
+[Back to Top](#top)
 
 ----
 ### 16. 退休的鞋子
+**Audio Book**：
 ----
 ### 17. 争吵
 ----

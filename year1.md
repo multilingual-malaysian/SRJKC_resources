@@ -1,9 +1,9 @@
 ---
-title: 二年级 Year 2 
+title: 一年级 Year 1 
 feature_text: |
   <a href="top"></a>
 feature_image: "/home2/assets/images/BC_4_cover1.jpg"
-excerpt: "Research centre for Bahasa Cina Tahun 2 text book"
+excerpt: "Resource centre for Bahasa Cina Tahun 1 text book"
 ---
 Resources available for each chapter: **Audio books** （课文朗读）, **Pinyin**（拼音注音） and **Translation (into English)**（英文翻译）
 
@@ -91,15 +91,6 @@ Resources available for each chapter: **Audio books** （课文朗读）, **Piny
 ----
 ### 第10课 - 宽大为怀 <a name="passage10"></a>
 **Audio Book**： 
-<iframe width="70%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1331635966&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/meisin-lee-338497804" title="meisin lee" target="_blank" style="color: #cccccc; text-decoration: none;">meisin lee</a> · <a href="https://soundcloud.com/meisin-lee-338497804/passage-10" title="Passage #10" target="_blank" style="color: #cccccc; text-decoration: none;">Passage #10</a></div>
-
-**PDF with English Translation**:
-<object data="/home2/doc/BC_4_Passage10.pdf" type="application/pdf" width="700px" height="700px">
-   <embed src="/home2/doc/BC_4_Passage10.pdf">
-        <p>Download the PDF to view: <a href="/home2/doc/BC_4_Passage10.pdf"><img src="/home2/assets/images/pdf_icon.png" width="40" height="50"></a>.</p>
-   </embed>
-</object>
 
 [Back to Top](#top)
-
 ----

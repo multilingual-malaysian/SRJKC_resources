@@ -2,7 +2,7 @@
 title: 二年级 Year 2 
 feature_text: |
   <a href="top"></a>
-feature_image: "/home2/assets/images/BC_2_cover.jpg"
+feature_image: "/home2/assets/images/BC_2_cover.png"
 excerpt: "Resource centre for Bahasa Cina Tahun 2 text book"
 ---
 Resources available for each chapter: **Audio books** （课文朗读）, **Pinyin**（拼音注音） and **Translation (into English)**（英文翻译）

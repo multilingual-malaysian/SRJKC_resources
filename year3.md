@@ -3,7 +3,7 @@ title: 三年级 Year 3
 feature_text: |
   <a href="top"></a>
 feature_image: "/home2/assets/images/BC_3_cover1.png"
-excerpt: "Research centre for Bahasa Cina Tahun 3 text book"
+excerpt: "Resource centre for Bahasa Cina Tahun 3 text book"
 ---
 [1. 上学的路] - *coming soon*\
 [2. 魔豆传心意] - *coming soon*\

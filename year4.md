@@ -3,7 +3,7 @@ title: 四年级 Year 4
 feature_text: |
   <a href="top"></a>
 feature_image: "/home2/assets/images/BC_4_cover1.jpg"
-excerpt: "Research centre for Bahasa Cina Tahun 4 text book"
+excerpt: "Resource centre for Bahasa Cina Tahun 4 text book"
 ---
 Resources available for each chapter: **Audio books**, **Pinyin** and **Translation (into English)**
 

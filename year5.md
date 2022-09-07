@@ -2,7 +2,7 @@
 title: 五年级 Year 5 
 feature_text: |
   <a href="top"></a>
-feature_image: "/home2/assets/images/BC_4_cover1.jpg"
+feature_image: "/home2/assets/images/BC_5_cover.jpg"
 excerpt: "Resource centre for Bahasa Cina Tahun 5 text book"
 ---
 Resources available for each chapter: **Audio books** （课文朗读）, **Pinyin**（拼音注音） and **Translation (into English)**（英文翻译）

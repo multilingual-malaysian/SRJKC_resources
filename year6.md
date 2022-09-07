@@ -10,8 +10,8 @@ Resources available for each chapter: **Audio books** （课文朗读）, **Piny
 {% include button.html text="Share" icon="facebook" link="https://www.facebook.com/sharer/sharer.php?u=https://multilingual-malaysian.github.io/home2/year4/" color="#0366d6" target="_blank" %}  {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %}
 
 [单元一 智慧之旅]\
-[1. 动物大迁徙有感]、
-[2. 草船借箭]、
+[1. 动物大迁徙有感]\
+[2. 草船借箭]\
 [3. 与众不同的一本书]\
 [4. 谁拿走了钱袋]\
 [5. "虫" 不可貌相]\

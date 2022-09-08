@@ -91,17 +91,30 @@ excerpt: "Resource centre for Bahasa Cina Tahun 3 text book"
 ----
 ### 16. 退休的鞋子<a name="16"></a>
 **Audio Book**：
-
+<iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1339806514&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year3-16" title="Year3 16 退休的鞋子" target="_blank" style="color: #cccccc; text-decoration: none;">Year3 16 退休的鞋子</a></div>
 
 **PDF**:
 [Back to Top](#top)
 
 ----
 ### 17. 争吵<a name="17"></a>
+**Audio Book**:
+<iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1339806901&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year3-17" title="Year3 17 争吵" target="_blank" style="color: #cccccc; text-decoration: none;">Year3 17 争吵</a></div>
+
+**PDF**:
+[Back to Top](#top)
+
 ----
 ### 18.1. 草的告白<a name="18.1"></a>
+**Audio Book**:
+<iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1339807657&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year3-181" title="Year3 18.1 草的告白" target="_blank" style="color: #cccccc; text-decoration: none;">Year3 18.1 草的告白</a></div>
+
+**PDF**:
+[Back to Top](#top)
+
 ----
 ### 18.2. 自然界的时钟<a name="18.2"></a>
+
 ----
 ### 19. 建筑界的长颈鹿<a name="19"></a>
 ----

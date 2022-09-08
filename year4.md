@@ -21,7 +21,7 @@ Resources available for each chapter: **Audio books**, **Pinyin** and **Translat
 [7. 数学王子] - *coming soon*\
 [8.  牵动人心的椰子] - *coming soon*\
 [9. 表弟来了] - *coming soon*\
-[10. 宽大为怀](#passage10)
+[10. 宽大为怀](#10)
 
 [单元三 - 探秘之旅]\
 [11. 卑微里的大力量]\
@@ -39,9 +39,9 @@ Resources available for each chapter: **Audio books**, **Pinyin** and **Translat
 
 
 ----
-### 第10课 - 宽大为怀 <a name="passage10"></a>
+### 10. 宽大为怀 <a name="10"></a>
 **Audio Book**： 
-<iframe width="70%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1331635966&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/meisin-lee-338497804" title="meisin lee" target="_blank" style="color: #cccccc; text-decoration: none;">meisin lee</a> · <a href="https://soundcloud.com/meisin-lee-338497804/passage-10" title="Passage #10" target="_blank" style="color: #cccccc; text-decoration: none;">Passage #10</a></div>
+<iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1339803664&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year4-10" title="Year4 10 宽大为怀" target="_blank" style="color: #cccccc; text-decoration: none;">Year4 10 宽大为怀</a></div>
 
 **PDF with English Translation**:
 <object data="/home2/doc/BC_4_Passage10.pdf" type="application/pdf" width="700px" height="700px">
@@ -53,5 +53,15 @@ Resources available for each chapter: **Audio books**, **Pinyin** and **Translat
 [Back to Top](#top)
 
 ----
+### 11. 卑微里的大力量<a name="11"></a>
+**Audio Book**:
+<iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1339804555&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year4-11" title="Year4 11 卑微里的大力量" target="_blank" style="color: #cccccc; text-decoration: none;">Year4 11 卑微里的大力量</a></div>
 
+**PDF**:
+[Back to Top](#top)
+
+----
+
+[12. 伽利略的落体实验]\
+[13. 街头魔术师]\
 

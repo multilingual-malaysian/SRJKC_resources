@@ -61,7 +61,21 @@ Resources available for each chapter: **Audio books**, **Pinyin** and **Translat
 [Back to Top](#top)
 
 ----
+### 12. 伽利略的落体实验<a name="12"></a>
+**Audio Book**:
+<iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1339805104&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year4-12" title="Year4 12  伽利略的落体实验" target="_blank" style="color: #cccccc; text-decoration: none;">Year4 12  伽利略的落体实验</a></div>
 
-[12. 伽利略的落体实验]\
-[13. 街头魔术师]\
+**PDF**:
+[Back to Top](#top)
+
+----
+### 13. 街头魔术师<a name="13"></a>
+**Audio Book**:
+<iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1339805713&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year4-13" title="Year4 13 街头魔术师" target="_blank" style="color: #cccccc; text-decoration: none;">Year4 13 街头魔术师</a></div>
+
+**PDF**:
+[Back to Top](#top)
+
+----
+
 

@@ -22,9 +22,9 @@ Resources available for each chapter: **Audio books** （课文朗读）, **Piny
 [9. 笑谈端午]\
 [10. 无声合唱团]\
 [单元三 知性之旅]\
-[11.1 诗情画意的世界]\
+[11.1 诗情画意的世界](#11.1)\
 [11.2 午后的风]\
-[12. 走入传统马来屋]\
+[12. 走入传统马来屋](#12)
 [13. 鸡场街里的年轻梦]\
 [14. 太空旅人]\
 [15. 探索生态公园]\
@@ -37,9 +37,9 @@ Resources available for each chapter: **Audio books** （课文朗读）, **Piny
 [20. 勇于抗战的斗士]
 
 ----
-### 第10课 - 宽大为怀 <a name="passage10"></a>
+### 11.1 诗情画意的世界<a name="11.1"></a>
 **Audio Book**： 
-<iframe width="70%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1331635966&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/meisin-lee-338497804" title="meisin lee" target="_blank" style="color: #cccccc; text-decoration: none;">meisin lee</a> · <a href="https://soundcloud.com/meisin-lee-338497804/passage-10" title="Passage #10" target="_blank" style="color: #cccccc; text-decoration: none;">Passage #10</a></div>
+<iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1339055026&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year5-11" title="Year5 11 诗情画意的世界" target="_blank" style="color: #cccccc; text-decoration: none;">Year5 11 诗情画意的世界</a></div>
 
 **PDF with English Translation**:
 <object data="/home2/doc/BC_4_Passage10.pdf" type="application/pdf" width="700px" height="700px">
@@ -51,3 +51,12 @@ Resources available for each chapter: **Audio books** （课文朗读）, **Piny
 [Back to Top](#top)
 
 ----
+### 12 走入传统马来屋<a name="12"></a>
+**Audio Book**:
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1339802665&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year5-12" title="Year5 12 走入传统马来屋" target="_blank" style="color: #cccccc; text-decoration: none;">Year5 12 走入传统马来屋</a></div>
+
+**PDF**:
+[Back to Top](#top)
+
+----
+

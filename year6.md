@@ -25,8 +25,8 @@ Resources available for each chapter: **Audio books** （课文朗读）, **Piny
 [11. 淘气的鞋]\
 [12. 没有动物的马戏团]\
 [13. 凤凰山传奇]\
-[14. 细菌也搬家]\
-[15. 巧儿绣龙]\
+[14. 细菌也搬家](#14)\
+[15. 巧儿绣龙](#15)\
 [单元四 文化之旅]\
 [16. 探索尼亚洞]\
 [17. 游走于两根棍子上的精灵]\
@@ -36,9 +36,9 @@ Resources available for each chapter: **Audio books** （课文朗读）, **Piny
 
 
 ----
-### 第10课 - 宽大为怀 <a name="passage10"></a>
+### 细菌也搬家 <a name="14"></a>
 **Audio Book**： 
-<iframe width="70%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1331635966&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/meisin-lee-338497804" title="meisin lee" target="_blank" style="color: #cccccc; text-decoration: none;">meisin lee</a> · <a href="https://soundcloud.com/meisin-lee-338497804/passage-10" title="Passage #10" target="_blank" style="color: #cccccc; text-decoration: none;">Passage #10</a></div>
+<iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1339203217&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year6-14" title="Year6 14 细菌也搬家" target="_blank" style="color: #cccccc; text-decoration: none;">Year6 14 细菌也搬家</a></div>
 
 **PDF with English Translation**:
 <object data="/home2/doc/BC_4_Passage10.pdf" type="application/pdf" width="700px" height="700px">
@@ -50,3 +50,8 @@ Resources available for each chapter: **Audio books** （课文朗读）, **Piny
 [Back to Top](#top)
 
 ----
+### 15. 巧儿绣龙<a name="15"></a>
+<iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1339218613&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year6-15" title="Year6 15 巧儿绣龙" target="_blank" style="color: #cccccc; text-decoration: none;">Year6 15 巧儿绣龙</a></div>
+
+**PDF**:
+[Back to Top](#top)

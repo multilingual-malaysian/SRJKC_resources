@@ -41,12 +41,12 @@ Resources available for each chapter: **Audio books** （课文朗读）, **Piny
 [单元十三 我爱爸爸妈妈]\
 [13.1 手影]\
 [13.2 一把大雨伞]\
-[14.1 我想要的鞋子]\
+[14.1 我想要的鞋子](#14.1)\
 [14.2 蝴蝶在读香喷喷的报纸]\
 [深广课文(7) 月牙船]\
-[15 圆圆歌 (pg. 92)]\
-[15.1 红红的气球 (pg. 93)]\
-[15.2 花角鹿 (pg. 95]\
+[15 圆圆歌 (pg. 92)](#15)\
+[15.1 红红的气球 (pg. 93)](#15.1)\
+[15.2 花角鹿 (pg. 95](#15.2)\
 [16.1 我不怕黑 (pg. 100](#16.1)\
 [16.2 我不想生气 (pg. 102)](#16.2)\
 [深广课文(8)　蓝蜻蜓和小青蛙 (pg. 105)](#additional8)\
@@ -69,7 +69,48 @@ Resources available for each chapter: **Audio books** （课文朗读）, **Piny
 [深广课文(11) 错在哪里 (pg. 151)](#additional11)
 
 ----
-### 16.1 我不怕黑<a name=""></a>
+### 14.1 我想要的鞋子<a name="14.1"></a>
+**Audio books** （课文朗读）:
+<iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1341592282&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year1-141" title="Year1 14.1 我想要的鞋子" target="_blank" style="color: #cccccc; text-decoration: none;">Year1 14.1 我想要的鞋子</a></div>
+**PDF**:\
+[Back to Top](#top)
+
+----
+### 14.2 蝴蝶在读香喷喷的报纸]<a name="14.2"></a>
+**Audio books** （课文朗读）:
+
+**PDF**:\
+[Back to Top](#top)
+
+----
+### 深广课文(7) 月牙船]<a name="additional7"></a>
+**Audio books** （课文朗读）:
+**PDF**:\
+[Back to Top](#top)
+
+----
+### 15 圆圆歌<a name="15"></a>
+**Audio books** （课文朗读）:
+<iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1341589960&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year1-15" title="Year1 15 圆圆歌" target="_blank" style="color: #cccccc; text-decoration: none;">Year1 15 圆圆歌</a></div>
+**PDF**:\
+[Back to Top](#top)
+
+----
+### 15.1 红红的气球<a name="15.1"></a>
+**Audio books** （课文朗读）:
+<iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1341590158&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year1-151" title="Year1 15.1 红红的气球" target="_blank" style="color: #cccccc; text-decoration: none;">Year1 15.1 红红的气球</a></div>
+**PDF**:\
+[Back to Top](#top)
+
+----
+### 15.2 花角鹿<a name="15.2"></a>
+**Audio books** （课文朗读）:
+<iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1341590347&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year1-152" title="Year1 15.2 花角鹿" target="_blank" style="color: #cccccc; text-decoration: none;">Year1 15.2 花角鹿</a></div>
+**PDF**:\
+[Back to Top](#top)
+
+----
+### 16.1 我不怕黑<a name="16.1"></a>
 **Audio books** （课文朗读）:
 <iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1341278848&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year1-161" title="Year1 16.1 我不怕黑" target="_blank" style="color: #cccccc; text-decoration: none;">Year1 16.1 我不怕黑</a></div>
 
@@ -77,7 +118,7 @@ Resources available for each chapter: **Audio books** （课文朗读）, **Piny
 [Back to Top](#top)
 
 ----
-### 16.2 我不想生气<a name=""></a>
+### 16.2 我不想生气<a name="16.2"></a>
 **Audio books** （课文朗读）:
 <iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1341279187&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year1-162" title="Year1 16.2 我不想生气" target="_blank" style="color: #cccccc; text-decoration: none;">Year1 16.2 我不想生气</a></div>
 
@@ -85,7 +126,7 @@ Resources available for each chapter: **Audio books** （课文朗读）, **Piny
 [Back to Top](#top)
 
 ----
-### 深广课文(8)　蓝蜻蜓和小青蛙<a name=""></a>
+### 深广课文(8)　蓝蜻蜓和小青蛙<a name="additional8"></a>
 **Audio books** （课文朗读）:
 <iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1341274381&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year1-8" title="Year1 深广课文(8) 蓝蜻蜓和小青蛙" target="_blank" style="color: #cccccc; text-decoration: none;">Year1 深广课文(8) 蓝蜻蜓和小青蛙</a></div>
 

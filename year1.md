@@ -64,10 +64,9 @@ Resources available for each chapter: **Audio books** （课文朗读）, **Piny
 [21.1 吞只活猫 (pg. 137)](#21.1)\
 [21.2 聪明的鹿 (pg. 139)](#21.2)\
 [21.5 什么东西最好吃 ()](#21.5)\
-[22.1 谁没长大 (pg. 146)]\
-[22.2 我也跟着做 (pg. 148)]\
-[深广课文(11) 错在哪里 (pg. 151)]
-
+[22.1 谁没长大 (pg. 146)](#22.1)\
+[22.2 我也跟着做 (pg. 148)](#22.2)\
+[深广课文(11) 错在哪里 (pg. 151)](#additional11)
 
 ----
 ### 18.1 国庆<a name="18.1"></a>
@@ -144,6 +143,28 @@ Resources available for each chapter: **Audio books** （课文朗读）, **Piny
 
 ----
 ### 21.5 什么东西最好吃<a name="21.5"></a>
+**Audio books** （课文朗读）
 <iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1341264652&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year1-215" title="Year1 21.5 什么东西最好吃" target="_blank" style="color: #cccccc; text-decoration: none;">Year1 21.5 什么东西最好吃</a></div>
+**PDF**\
+[Back to Top](#top)
+
+----
+### 22.1 谁没长大<a name="22.1"></a>
+**Audio books** （课文朗读）
+<iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1341270739&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year1-221" title="Year1 22.1 谁没长大" target="_blank" style="color: #cccccc; text-decoration: none;">Year1 22.1 谁没长大</a></div>
+**PDF**\
+[Back to Top(#top)
+
+----
+### 22.2 我也跟着做<a name="22.2"></a>
+**Audio books** （课文朗读）
+<iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1341271036&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year1-222" title="Year1 22.2 我也跟着做" target="_blank" style="color: #cccccc; text-decoration: none;">Year1 22.2 我也跟着做</a></div>
+**PDF**\
+[Back to Top](#top)
+
+----
+### 深广课文(11) 错在哪里<a name="additional11"></a>
+**Audio books** （课文朗读）
+<iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1341271429&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year1-11" title="Year1 深广课文(11) 错在哪里" target="_blank" style="color: #cccccc; text-decoration: none;">Year1 深广课文(11) 错在哪里</a></div>
 **PDF**\
 [Back to Top](#top)

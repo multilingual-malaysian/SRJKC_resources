@@ -43,9 +43,9 @@ Resources available for each chapter: **Audio books** （课文朗读）, **Piny
 [13.4 大王花的自述](#13.4)\
 [14.1 垃圾山消失了](#14.1)\
 [14.2 家有环保大使](#14.2)\
-[深广课文(6) 木木的日记]\
+[深广课文(6) 木木的日记](#additional6)\
 [15.1 一行有一行的气味](#15.1)\
-[15.2 猜一猜]\
+[15.2 猜一猜](#15.2)\
 [16.1 黄鼠狼卖药]\
 [16.2 鼠鹿和鳄鱼]\
 [深广课文(7) 乌鸦兄弟]\
@@ -96,6 +96,29 @@ Resources available for each chapter: **Audio books** （课文朗读）, **Piny
 <iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1339813243&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year2-142" title="Year2 14.2 家有环保大使" target="_blank" style="color: #cccccc; text-decoration: none;">Year2 14.2 家有环保大使</a></div>
 
 **PDF**
+[Back to Top](#top)
+
+----
+### 深广课文(6) 木木的日记<a name="additional6"></a>
+**Audio Book**:
+<iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1341598234&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year2-6" title="Year2 深广课文(6) 木木的日记" target="_blank" style="color: #cccccc; text-decoration: none;">Year2 深广课文(6) 木木的日记</a></div>
+
+**PDF**
+[Back to Top](#top)
+
+----
+### 15.1 一行有一行的气味<a name="15.1"></a>
+**Audio Book**:
+<iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1341595621&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year2-151" title="Year2 15.1 一行有一行的气味" target="_blank" style="color: #cccccc; text-decoration: none;">Year2 15.1 一行有一行的气味</a></div>
+
+**PDF**\
+[Back to Top](#top)
+
+----
+### 15.2 猜一猜<a name="15.2"></a>
+**Audio Book**:
+<iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1341596329&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year2-152" title="Year2 15.2 猜一猜" target="_blank" style="color: #cccccc; text-decoration: none;">Year2 15.2 猜一猜</a></div>
+**PDF**\
 [Back to Top](#top)
 
 ----

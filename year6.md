@@ -9,30 +9,30 @@ Resources available for each chapter: **Audio books** （课文朗读）, **Piny
 
 {% include button.html text="Share" icon="facebook" link="https://www.facebook.com/sharer/sharer.php?u=https://multilingual-malaysian.github.io/home2/year6/" color="#0366d6" target="_blank" %}  {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %}
 
-[单元一 智慧之旅]\
-[1. 动物大迁徙有感]\
-[2. 草船借箭]\
-[3. 与众不同的一本书]\
-[4. 谁拿走了钱袋]\
-[5. "虫" 不可貌相]\
-[单元二 温情之旅]\
-[6. 暖心小铺]、
-[7. 母亲的叮咛]\
-[8. 传递温情的丝带]\
-[9. 网课新态度]\
-[10. 奔驰在路上的汗水]\
-[单元三 想象之旅]\
-[11. 淘气的鞋]\
-[12. 没有动物的马戏团]\
-[13. 凤凰山传奇]\
-[14. 细菌也搬家](#14)\
-[15. 巧儿绣龙](#15)\
-[单元四 文化之旅]\
-[16. 探索尼亚洞]\
-[17. 游走于两根棍子上的精灵]\
-[18. 薪火相传]\
-[19. 姓氏趣谈]\
-[20. 走一趟知知港]
+[单元一 智慧之旅 (pg. 1)]\
+[1. 动物大迁徙有感  (pg. 2)]\
+[2. 草船借箭 (pg. 9)]\
+[3. 与众不同的一本书 (pg. 17)]\
+[4. 谁拿走了钱袋 (pg. 25)]\
+[5. "虫" 不可貌相 (pg. 32)]\
+[单元二 温情之旅 (pg. 41)]\
+[6. 暖心小铺 (pg. 42)]\
+[7. 母亲的叮咛 (pg. 51)]\
+[8. 传递温情的丝带 (pg. 58)]\
+[9. 网课新态度 (pg. 65)]\
+[10. 奔驰在路上的汗水 (pg. 73)]\
+[单元三 想象之旅 (pg. 81)]\
+[11. 淘气的鞋 (pg. 82)]\
+[12. 没有动物的马戏团 (pg. 89)]\
+[13. 凤凰山传奇 (pg. 97)]\
+[14. 细菌也搬家 (pg. 104)](#14)\
+[15. 巧儿绣龙 (pg. 111)](#15)\
+[单元四 文化之旅 (pg. 119)]\
+[16. 探索尼亚洞 (pg. 120)]\
+[17. 游走于两根棍子上的精灵 (pg. 128)]\
+[18. 薪火相传 (pg. 136)]\
+[19. 姓氏趣谈 (pg. 144)]\
+[20. 走一趟知知港 (pg. 152)]
 
 
 ----

@@ -9,7 +9,7 @@ Resources available for each chapter: **Audio books** （课文朗读）, **Piny
 
 {% include button.html text="Share" icon="facebook" link="https://www.facebook.com/sharer/sharer.php?u=https://multilingual-malaysian.github.io/home2/year2/" color="#0366d6" target="_blank" %}  {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %}
 
-Note: Chapters 1 - 13 will be made available soon\
+Note: Chapters 1 - 12 will be made available soon\
 <!--
 [1.1 我们的校园故事 (pg. 2)]\
 [1.2 热闹的乐园 (pg. 4)]\

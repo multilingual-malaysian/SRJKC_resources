@@ -9,22 +9,25 @@ Resources available for each chapter: **Audio books** （课文朗读）, **Piny
 
 {% include button.html text="Share" icon="facebook" link="https://www.facebook.com/sharer/sharer.php?u=https://multilingual-malaysian.github.io/home2/year3/" color="#0366d6" target="_blank" %}  {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %}
 
-[1. 上学的路] - *coming soon*\
-[2. 魔豆传心意] - *coming soon*\
-[3. 鸟儿筑巢] - *coming soon*\
-[4.1. 爸爸的大手] - *coming soon*\
-[4.2. 百衲被的故事] - *coming soon*\
-[5.1. 被子的大地] - *coming soon*\
-[5.2. 月亮渴了] - *coming soon*\
-[6. 小猫和老虎] - *coming soon*\
-[7. 纸船] - *coming soon*\
-[8. 神奇的三维打印] - *coming soon*\
-[9. 马来亚橡胶之父——陈齐贤] - *coming soon*\
-[10. 天鹅长住的地方] - *coming soon*\
-[11. 竹筒饭] - *coming soon*\
-[12. 蔡伦造纸] - *coming soon*\
-[13.1. 快乐识字] - *coming soon*\
-[13.2. 丰收歌] - *coming soon*\
+Note: Chapters 1 - 12 will be made available soon\
+<!--
+[1. 上学的路 (pg. 2)] - *coming soon*\
+[2. 魔豆传心意 (pg. 7)] - *coming soon*\
+[3. 鸟儿筑巢 (pg. 12)] - *coming soon*\
+[4.1. 爸爸的大手 (pg. 17)] - *coming soon*\
+[4.2. 百衲被的故事 (pg. 19)] - *coming soon*\
+[5.1. 被子的大地 (pg. 28)] - *coming soon*\
+[5.2. 月亮渴了 (pg. 30)] - *coming soon*\
+[6. 小猫和老虎 (pg. 34)] - *coming soon*\
+[7. 纸船 (pg. 39)] - *coming soon*\
+[8. 神奇的三维打印 (pg. 44)] - *coming soon*\
+[9. 马来亚橡胶之父——陈齐贤 (pg. 53)] - *coming soon*\
+[10. 天鹅长住的地方 (pg. 58)] - *coming soon*\
+[11. 竹筒饭 (pg. 64)] - *coming soon*\
+[12. 蔡伦造纸 (pg. 69)] - *coming soon*\
+[13.1. 快乐识字 (pg. 78)] - *coming soon*\
+[13.2. 丰收歌 (pg. 80)] - *coming soon*\
+-->
 [14.1. 掩耳盗铃](#14.1)\
 [14.6. 刻舟求剑](#14.6)\
 [15. 上天送来的小彩虹](#15)\

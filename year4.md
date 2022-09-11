@@ -9,34 +9,33 @@ Resources available for each chapter: **Audio books** （课文朗读）, **Piny
 
 {% include button.html text="Share" icon="facebook" link="https://www.facebook.com/sharer/sharer.php?u=https://multilingual-malaysian.github.io/home2/year4/" color="#0366d6" target="_blank" %}  {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %}
 
-[单元一 - 成长之旅]\
-[1. 踏上学习的征途] - *coming soon*\
-[2. 棋王的心事] - *coming soon*\
-[3. 颂赞温情] - *coming soon*\
-[4. 桃园结义] - *coming soon*\
-[5.  蚊帐大使] - *coming soon*
+[单元一 - 成长之旅 (pg. 1)]\
+[1. 踏上学习的征途 (pg. 2)] - *coming soon*\
+[2. 棋王的心事 (pg. 10)] - *coming soon*\
+[3. 颂赞温情 (pg. 17)] - *coming soon*\
+[4. 桃园结义 (pg. 22)] - *coming soon*\
+[5.  蚊帐大使 (pg. 28)] - *coming soon*
 
-[单元二 - 生活之旅] - *coming soon*\
-[6. 亲近传统游戏] - *coming soon*\
-[7. 数学王子] - *coming soon*\
-[8.  牵动人心的椰子] - *coming soon*\
-[9. 表弟来了] - *coming soon*\
-[10. 宽大为怀](#10)
+[单元二 - 生活之旅 (pg. )] - *coming soon*\
+[6. 亲近传统游戏 (pg. 39)] - *coming soon*\
+[7. 数学王子 (pg. 46)] - *coming soon*\
+[8.  牵动人心的椰子 (pg. 54)] - *coming soon*\
+[9. 表弟来了 (pg. 61)] - *coming soon*\
+[10. 宽大为怀 (pg. 70)](#10)
 
 [单元三 - 探秘之旅]\
-[11. 卑微里的大力量](#11)\
-[12. 伽利略的落体实验](#12)\
-[13. 街头魔术师](#13)\
-[14. 最美丽的风景]\
-[15. 人工智能汽车]\
+[11. 卑微里的大力量 (pg. 78)](#11)\
+[12. 伽利略的落体实验 (pg. 86)](#12)\
+[13. 街头魔术师 (pg. 93)](#13)\
+[14. 最美丽的风景 (pg. 99)]\
+[15. 人工智能汽车 (pg. 106)]\
 
 [单元四 - 生命之旅]\
-[16.  国庆日记]\
-[17. 盲目的强大]\
-[18. 框住美景]\
-[19. 稻香]\
-[20, 鼓声的召唤]
-
+[16.  国庆日记 (pg. 116)]\
+[17. 盲目的强大 (pg. 122)]\
+[18. 框住美景 (pg. 129)]\
+[19. 稻香 (pg. 136)]\
+[20, 鼓声的召唤 (pg. 145)]
 
 ----
 ### 10. 宽大为怀 <a name="10"></a>

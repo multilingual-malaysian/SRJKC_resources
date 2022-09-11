@@ -54,7 +54,7 @@ Resources available for each chapter: **Audio books** （课文朗读）, **Piny
 [15 圆圆歌 (pg. 92)](#15)\
 [15.1 红红的气球 (pg. 93)](#15.1)\
 [15.2 花角鹿 (pg. 95](#15.2)\
-[16.1 我不怕黑 (pg. 100](#16.1)\
+[16.1 我不怕黑 (pg. 100)](#16.1)\
 [16.2 我不想生气 (pg. 102)](#16.2)\
 [深广课文(8)　蓝蜻蜓和小青蛙 (pg. 105)](#additional8)\
 [识字五 (pg. 107)](#words5)\
@@ -238,7 +238,7 @@ Resources available for each chapter: **Audio books** （课文朗读）, **Piny
 [Back to Top](#top)
 
 ----
-#### 21.5 什么东西最好吃<a name="21.5"></a>(pg. )
+#### 21.5 什么东西最好吃<a name="21.5"></a>(pg. 142)
 **Audio books** （课文朗读）
 <iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1341264652&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year1-215" title="Year1 21.5 什么东西最好吃" target="_blank" style="color: #cccccc; text-decoration: none;">Year1 21.5 什么东西最好吃</a></div>
 **PDF**\

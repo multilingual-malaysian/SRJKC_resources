@@ -9,6 +9,8 @@ Resources available for each chapter: **Audio books** （课文朗读）, **Piny
 
 {% include button.html text="Share" icon="facebook" link="https://www.facebook.com/sharer/sharer.php?u=https://multilingual-malaysian.github.io/home2/year1/" color="#0366d6" target="_blank" %}  {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %}
 
+Chapters 1 - 13 will be made available soon
+<!--- 
 [识字一 (pg. 1)] *coming soon*\
 [1.1 上学了 (pg. 2)] *coming soon*\
 [1.2 早操 (pg. 3)] *coming soon*\
@@ -45,6 +47,7 @@ Resources available for each chapter: **Audio books** （课文朗读）, **Piny
 [识字四 (pg. 80)] *coming soon*\
 [13.1 手影 (pg. 81)] *coming soon*\
 [13.2 一把大雨伞 (pg. 83)]\
+-->
 [14.1 我想要的鞋子 (pg. 87)](#14.1)\
 [14.2 蝴蝶在读香喷喷的报纸 (pg. 88)]\
 [深广课文(7) 月牙船 (pg. 91)]\

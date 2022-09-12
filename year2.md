@@ -133,91 +133,91 @@ Resources available for each chapter: **Audio books** （课文朗读）, **Piny
 ----
 #### 16.1 黄鼠狼卖药 (pg. 108)]<a name="16.1"></a>
 **Audio book** （课文朗读）:
-
+<iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1342131766&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year2-161-pg-108" title="Year2 16.1 黄鼠狼卖药 (pg. 108)" target="_blank" style="color: #cccccc; text-decoration: none;">Year2 16.1 黄鼠狼卖药 (pg. 108)</a></div>
 **PDF**\
 [Back to Top](#top)
 
 ----
 #### 16.2 鼠鹿和鳄鱼 (pg. 110)]<a name="16.2"></a>
 **Audio book** （课文朗读）:
-
+<iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1342132909&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year2-162-pg-110" title="Year2 16.2 鼠鹿和鳄鱼 (pg. 110)" target="_blank" style="color: #cccccc; text-decoration: none;">Year2 16.2 鼠鹿和鳄鱼 (pg. 110)</a></div>
 **PDF**\
 [Back to Top](#top)
 
 ----
 #### 深广课文(8) 乌鸦兄弟 (pg. 114)]<a name="additional8"></a>
 **Audio book** （课文朗读）:
-
+<iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1342134265&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year2-8-pg-114" title="Year2 深广课文(8) 乌鸦兄弟 (pg. 114)" target="_blank" style="color: #cccccc; text-decoration: none;">Year2 深广课文(8) 乌鸦兄弟 (pg. 114)</a></div>
 **PDF**\
 [Back to Top](#top)
 
 ----
 #### 识字五 分秒必争勤学习 (pg. 116)]<a name="words5"></a>
 **Audio book** （课文朗读）:
-
+<iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1342134745&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year2-pg-116" title="Year2 识字五 分秒必争勤学习 (pg. 116)" target="_blank" style="color: #cccccc; text-decoration: none;">Year2 识字五 分秒必争勤学习 (pg. 116)</a></div>
 **PDF**\
 [Back to Top](#top)
 
 ----
 #### 17.1 奇奇借时间 (pg. 117)]<a name="17.1"></a>
 **Audio book** （课文朗读）:
-
+<iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1342135168&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year2-171-pg-117" title="Year2 17.1 奇奇借时间 (pg. 117)" target="_blank" style="color: #cccccc; text-decoration: none;">Year2 17.1 奇奇借时间 (pg. 117)</a></div>
 **PDF**\
 [Back to Top](#top)
 
 ----
 #### 18.1 好事情 (pg. 121)]<a name="18.1"></a>
 **Audio book** （课文朗读）:
-
+<iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1342135753&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year2-181-pg-121" title="Year2 18.1 好事情 (pg. 121)" target="_blank" style="color: #cccccc; text-decoration: none;">Year2 18.1 好事情 (pg. 121)</a></div>
 **PDF**\
 [Back to Top](#top)
 
 ----
 #### 深广课文(9) 渡轮 (pg. 125)]<a name="additional9"></a>
 **Audio book** （课文朗读）:
-
+<iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1342136350&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year2-9-pg-125" title="Year2 深广课文(9) 渡轮 (pg. 125)" target="_blank" style="color: #cccccc; text-decoration: none;">Year2 深广课文(9) 渡轮 (pg. 125)</a></div>
 **PDF**\
 [Back to Top](#top)
 
 ----
 #### 19. 美丽的夜市 (pg. 130)]<a name="19.1"></a>
 **Audio book** （课文朗读）:
-
+<iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1342138834&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year2-191-pg-130" title="Year2 19.1 美丽的夜市 (pg. 130)" target="_blank" style="color: #cccccc; text-decoration: none;">Year2 19.1 美丽的夜市 (pg. 130)</a></div>
 **PDF**\
 [Back to Top](#top)
 
 ----
 #### 20. 会说话的灯 (pg. 135)]<a name="20.1"></a>
 **Audio book** （课文朗读）:
-
+<iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1342139629&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year2-201-pg-135" title="Year2 20.1 会说话的灯 (pg. 135)" target="_blank" style="color: #cccccc; text-decoration: none;">Year2 20.1 会说话的灯 (pg. 135)</a></div>
 **PDF**\
 [Back to Top](#top)
 
 ----
 #### 深广课文(10) 萤火虫和星星 (pg. 139)]<a name="additional10"></a>
 **Audio book** （课文朗读）:
-
+<iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1342139986&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year2-10-pg-139" title="Year2 深广课文(10) 萤火虫和星星 (pg. 139)" target="_blank" style="color: #cccccc; text-decoration: none;">Year2 深广课文(10) 萤火虫和星星 (pg. 139)</a></div>
 **PDF**\
 [Back to Top](#top)
 
 ----
 #### 21. 回家的脚印 (pg. 141)]<a name="21.1"></a>
 **Audio book** （课文朗读）:
-
+<iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1342142920&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year2-211-pg-141" title="Year2 21.1 回家的脚印 (pg. 141)" target="_blank" style="color: #cccccc; text-decoration: none;">Year2 21.1 回家的脚印 (pg. 141)</a></div>
 **PDF**\
 [Back to Top](#top)
 
 ----
 #### 22. 百宝箱 (pg. 148)]<a name="22.1"></a>
 **Audio book** （课文朗读）:
-
+<iframe width="60%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1342143796&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year2-221-pg-148" title="Year2 22.1 百宝箱 (pg. 148)" target="_blank" style="color: #cccccc; text-decoration: none;">Year2 22.1 百宝箱 (pg. 148)</a></div>
 **PDF**\
 [Back to Top](#top)
 
 ----
 #### 深广课文(11) 世界很小又很大 (pg. 152)<a name="additional11"></a>
 **Audio book** （课文朗读）:
-
+<iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1342144378&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year2-11-pg-152" title="Year2 深广课文(11) 世界很小又很大 (pg. 152)" target="_blank" style="color: #cccccc; text-decoration: none;">Year2 深广课文(11) 世界很小又很大 (pg. 152)</a></div>
 **PDF**\
 [Back to Top](#top)
 

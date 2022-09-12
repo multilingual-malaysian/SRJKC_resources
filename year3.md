@@ -35,7 +35,8 @@ Resources available for each chapter: **Audio books** （课文朗读）, **Piny
 [17. 争吵 (pg. 106)](#17)\
 [18.1. 草的告白 (pg. 111)](#18.1)\
 [18.2. 自然界的时钟 (pg. 113)](#18.2)\
-[19. 建筑界的长颈鹿 (pg. 117)](#19)\
+[19.1 建筑界的长颈鹿 (pg. 117)](#19.1)\
+[19.3 安顺斜塔 (pg. 121)](#19.3)\
 [20.1 不一样的表演 (pg. 123)](#20.1)\
 [20.2 特别任务 (pg. 125)](#20.2)
 
@@ -127,9 +128,17 @@ Resources available for each chapter: **Audio books** （课文朗读）, **Piny
 [Back to Top](#top)
 
 ----
-#### 19. 建筑界的长颈鹿<a name="19"></a>(pg. 117)
+#### 19.1. 建筑界的长颈鹿<a name="19.1"></a>(pg. 117)
 **Audio book** （课文朗读）:
 <iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1339809238&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year3-191" title="Year3 19.1 建筑界的长颈鹿" target="_blank" style="color: #cccccc; text-decoration: none;">Year3 19.1 建筑界的长颈鹿</a></div>
+
+**PDF**:
+[Back to Top](#top)
+
+----
+#### 19.3. 安顺斜塔<a name="19.3"></a>(pg. 121)
+**Audio book** （课文朗读）:
+<iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1339810228&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year3-193" title="Year3 19.3 安顺斜塔 (pg.121)" target="_blank" style="color: #cccccc; text-decoration: none;">Year3 19.3 安顺斜塔 (pg.121)</a></div>
 
 **PDF**:
 [Back to Top](#top)

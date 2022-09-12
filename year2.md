@@ -9,7 +9,7 @@ Resources available for each chapter: **Audio books** （课文朗读）, **Piny
 
 {% include button.html text="Share" icon="facebook" link="https://www.facebook.com/sharer/sharer.php?u=https://multilingual-malaysian.github.io/home2/year2/" color="#0366d6" target="_blank" %}  {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %}
 
-Note: Chapters 1 - 12 will be made available soon\
+**Note: Chapters 1 - 12 will be made available soon**\
 <!--
 [识字一　我的小天地 （pg. 1]\
 [1.1 我们的校园故事 (pg. 2)]\
@@ -54,19 +54,19 @@ Note: Chapters 1 - 12 will be made available soon\
 [深广课文(7) 木木的日记 (pg. 98)](#additional7)\
 [15.1 一行有一行的气味 (pg. 101)](#15.1)\
 [15.2 猜一猜 (pg. 103)](#15.2)\
-[16.1 黄鼠狼卖药 (pg. 108)]\
-[16.2 鼠鹿和鳄鱼 (pg. 110)]\
-[深广课文(8) 乌鸦兄弟 (pg. 114)]\
-[识字五 分秒必争勤学习 (pg. 116)]\
-[17.1 奇奇借时间 (pg. 117)]\
-[18.1 好事情 (pg. 121)]\
-[深广课文(9) 渡轮 (pg. 125)]\
-[19. 美丽的夜市 (pg. 130)]\
-[20. 会说话的灯 (pg. 135)]\
-[深广课文(10) 萤火虫和星星 (pg. 139)]\
-[21. 回家的脚印 (pg. 141)]\
-[22. 百宝箱 (pg. 148)]\
-[深广课文(11) 世界很小又很大 (pg. 152)]
+[16.1 黄鼠狼卖药 (pg. 108)](#16.1)\
+[16.2 鼠鹿和鳄鱼 (pg. 110)](#16.2)\
+[深广课文(8) 乌鸦兄弟 (pg. 114)](#additional8)\
+[识字五 分秒必争勤学习 (pg. 116)](#words5)\
+[17.1 奇奇借时间 (pg. 117)](#17.1)\
+[18.1 好事情 (pg. 121)](#18.1)\
+[深广课文(9) 渡轮 (pg. 125)](#additional9)\
+[19. 美丽的夜市 (pg. 130)](#19.1)\
+[20. 会说话的灯 (pg. 135)](#20.1)\
+[深广课文(10) 萤火虫和星星 (pg. 139)](#additional10)\
+[21. 回家的脚印 (pg. 141)](#21.1)\
+[22. 百宝箱 (pg. 148)](#22.1)\
+[深广课文(11) 世界很小又很大 (pg. 152)](#additional11)
 
 ----
 #### 13.1 种子的旅行<a name="13.1"></a>(pg. 86)
@@ -159,12 +159,66 @@ Note: Chapters 1 - 12 will be made available soon\
 [Back to Top](#top)
 
 ----
-[17.1 奇奇借时间 (pg. 117)]\
-[18.1 好事情 (pg. 121)]\
-[深广课文(9) 渡轮 (pg. 125)]\
-[19. 美丽的夜市 (pg. 130)]\
-[20. 会说话的灯 (pg. 135)]\
-[深广课文(10) 萤火虫和星星 (pg. 139)]\
-[21. 回家的脚印 (pg. 141)]\
-[22. 百宝箱 (pg. 148)]\
-[深广课文(11) 世界很小又很大 (pg. 152)]
+#### 17.1 奇奇借时间 (pg. 117)]<a name="17.1"></a>
+**Audio book** （课文朗读）:
+
+**PDF**\
+[Back to Top](#top)
+
+----
+#### 18.1 好事情 (pg. 121)]<a name="18.1"></a>
+**Audio book** （课文朗读）:
+
+**PDF**\
+[Back to Top](#top)
+
+----
+#### 深广课文(9) 渡轮 (pg. 125)]<a name="additional9"></a>
+**Audio book** （课文朗读）:
+
+**PDF**\
+[Back to Top](#top)
+
+----
+#### 19. 美丽的夜市 (pg. 130)]<a name="19.1"></a>
+**Audio book** （课文朗读）:
+
+**PDF**\
+[Back to Top](#top)
+
+----
+#### 20. 会说话的灯 (pg. 135)]<a name="20.1"></a>
+**Audio book** （课文朗读）:
+
+**PDF**\
+[Back to Top](#top)
+
+----
+#### 深广课文(10) 萤火虫和星星 (pg. 139)]<a name="additional10"></a>
+**Audio book** （课文朗读）:
+
+**PDF**\
+[Back to Top](#top)
+
+----
+#### 21. 回家的脚印 (pg. 141)]<a name="21.1"></a>
+**Audio book** （课文朗读）:
+
+**PDF**\
+[Back to Top](#top)
+
+----
+#### 22. 百宝箱 (pg. 148)]<a name="22.1"></a>
+**Audio book** （课文朗读）:
+
+**PDF**\
+[Back to Top](#top)
+
+----
+#### 深广课文(11) 世界很小又很大 (pg. 152)<a name="additional11"></a>
+**Audio book** （课文朗读）:
+
+**PDF**\
+[Back to Top](#top)
+
+----

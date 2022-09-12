@@ -10,7 +10,7 @@ Resources available for each chapter: **Audio books** （课文朗读）.\
 
 {% include button.html text="Share" icon="facebook" link="https://www.facebook.com/sharer/sharer.php?u=https://multilingual-malaysian.github.io/home2/year1/" color="#0366d6" target="_blank" %}  {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://multilingual-malaysian.github.io/home2/year1/&text=SRJKC%20Chinese%20Year%201:%20-Audio%20books,%20pinyin%20and%20translation."" color="#0d94e7" %}
 
-***Note: Chapters 1 - 13 will be made available soon***
+***Note: Chapters 1 - 13 will be made available soon***\
 <!--- 
 [识字一 (pg. 1)] *coming soon*\
 [1.1 上学了 (pg. 2)] *coming soon*\

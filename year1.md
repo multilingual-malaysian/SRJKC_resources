@@ -10,6 +10,7 @@ Resources available for each chapter: **Audio books** （课文朗读）, **Piny
 {% include button.html text="Share" icon="facebook" link="https://www.facebook.com/sharer/sharer.php?u=https://multilingual-malaysian.github.io/home2/year1/" color="#0366d6" target="_blank" %}  {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %}
 
 **Note: Chapters 1 - 13 will be made available soon**\
+<a href="toc"></a>
 <!--- 
 [识字一 (pg. 1)] *coming soon*\
 [1.1 上学了 (pg. 2)] *coming soon*\
@@ -264,4 +265,4 @@ Resources available for each chapter: **Audio books** （课文朗读）, **Piny
 **Audio book** （课文朗读）
 <iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1341271429&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year1-11" title="Year1 深广课文(11) 错在哪里" target="_blank" style="color: #cccccc; text-decoration: none;">Year1 深广课文(11) 错在哪里</a></div>
 **PDF**\
-[Back to Top](#top)
+[Back to Top](#toc)

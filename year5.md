@@ -9,6 +9,9 @@ Resources available for each chapter: **Audio books** （课文朗读）, **Piny
 
 {% include button.html text="Share" icon="facebook" link="https://www.facebook.com/sharer/sharer.php?u=https://multilingual-malaysian.github.io/home2/year5/" color="#0366d6" target="_blank" %}  {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %}
 
+**Note: Chapters 1 - 10 will be made available soon**\
+
+<!--
 [单元一 蜕变之旅]\
 [1. 实力会说话 (pg. 3)]\
 [2. 风中的树苗 (pg. 9)]\
@@ -22,6 +25,8 @@ Resources available for each chapter: **Audio books** （课文朗读）, **Piny
 [9. 笑谈端午 (pg. 62)]\
 [10. 无声合唱团 (pg. 70)]\
 [单元三 知性之旅]\
+-->
+
 [11.1 诗情画意的世界 (pg. 81)](#11.1)\
 [11.2 午后的风 (pg. )]\
 [12. 走入传统马来屋 (pg. 88)](#12)\

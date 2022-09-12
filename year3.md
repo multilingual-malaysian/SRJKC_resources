@@ -9,7 +9,7 @@ Resources available for each chapter: **Audio books** （课文朗读）, **Piny
 
 {% include button.html text="Share" icon="facebook" link="https://www.facebook.com/sharer/sharer.php?u=https://multilingual-malaysian.github.io/home2/year3/" color="#0366d6" target="_blank" %}  {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %}
 
-Note: Chapters 1 - 12 will be made available soon\
+**Note: Chapters 1 - 13 will be made available soon**\
 <!--
 [1. 上学的路 (pg. 2)] - *coming soon*\
 [2. 魔豆传心意 (pg. 7)] - *coming soon*\
@@ -39,6 +39,7 @@ Note: Chapters 1 - 12 will be made available soon\
 [20.1 不一样的表演 (pg. 123)](#20.1)\
 [20.2 特别任务 (pg. 125)](#20.2)
 
+<!--
 ----
 #### 1. 上学的路 (pg. 2)
 ----
@@ -71,6 +72,7 @@ Note: Chapters 1 - 12 will be made available soon\
 #### 13.1. 快乐识字 (pg. 78)
 ----
 #### 13.2. 丰收歌 (pg. 80)
+-->
 ----
 #### 14.1. 掩耳盗铃 <a name="14.1"></a>(pg. 85)
 **Audio Book**： 
@@ -142,4 +144,9 @@ Note: Chapters 1 - 12 will be made available soon\
 
 ----
 #### 20.2 特别任务<a name="20.2"></a>(pg. 125)
+**Audio book** （课文朗读）:
+<iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1342233886&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year3-202-pg-125" title="Year3 20.2 特别任务 (pg. 125)" target="_blank" style="color: #cccccc; text-decoration: none;">Year3 20.2 特别任务 (pg. 125)</a></div>
+
+**PDF**:
+[Back to Top](#top)
 ----

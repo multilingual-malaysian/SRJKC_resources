@@ -24,6 +24,7 @@ Resources available for each chapter: **Audio books** （课文朗读）, **Piny
 [8.  牵动人心的椰子 (pg. 54)] - *coming soon*\
 [9. 表弟来了 (pg. 61)] - *coming soon*\
 -->
+
 [10. 宽大为怀 (pg. 70)](#10)
 
 [单元三 - 探秘之旅]\

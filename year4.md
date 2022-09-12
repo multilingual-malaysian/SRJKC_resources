@@ -71,12 +71,25 @@ Resources available for each chapter: **Audio books** （课文朗读）, **Piny
 
 ----
 #### 13. 街头魔术师<a name="13"></a>
-**Audio Book**:
+**Audio Book** :
 <iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1339805713&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year4-13" title="Year4 13 街头魔术师" target="_blank" style="color: #cccccc; text-decoration: none;">Year4 13 街头魔术师</a></div>
 
 **PDF**:
 [Back to Top](#top)
 
 ----
+#### 14. 最美丽的风景 (pg. 99)<a name="14"></a>
+<iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1342242208&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year4-14-pg-99" title="Year4 14 最美丽的风景 (pg. 99)" target="_blank" style="color: #cccccc; text-decoration: none;">Year4 14 最美丽的风景 (pg. 99)</a></div>
+**PDF**:
+[Back to Top](#top)
+
+----
+#### 15. 人工智能汽车 (pg. 106)<a name="15"></a>
 
 
+[单元四 - 生命之旅]\
+[16.  国庆日记 (pg. 116)]\
+[17. 盲目的强大 (pg. 122)]\
+[18. 框住美景 (pg. 129)]\
+[19. 稻香 (pg. 136)]\
+[20, 鼓声的召唤 (pg. 145)]

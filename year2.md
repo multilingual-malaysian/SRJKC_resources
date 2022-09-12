@@ -51,7 +51,7 @@ Note: Chapters 1 - 12 will be made available soon\
 [13.4 大王花的自述 (pg. 91)](#13.4)\
 [14.1 垃圾山消失了 (pg. 93)](#14.1)\
 [14.2 家有环保大使 (pg. 95)](#14.2)\
-[深广课文(7) 木木的日记 (pg. 98)](#additional6)\
+[深广课文(7) 木木的日记 (pg. 98)](#additional7)\
 [15.1 一行有一行的气味 (pg. 101)](#15.1)\
 [15.2 猜一猜 (pg. 103)](#15.2)\
 [16.1 黄鼠狼卖药 (pg. 108)]\
@@ -108,7 +108,7 @@ Note: Chapters 1 - 12 will be made available soon\
 [Back to Top](#top)
 
 ----
-#### 深广课文(6) 木木的日记<a name="additional6"></a>(pg. 98)
+#### 深广课文(7) 木木的日记<a name="additional7"></a>(pg. 98)
 **Audio book** （课文朗读）:
 <iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1341598234&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year2-6" title="Year2 深广课文(6) 木木的日记" target="_blank" style="color: #cccccc; text-decoration: none;">Year2 深广课文(6) 木木的日记</a></div>
 
@@ -131,3 +131,40 @@ Note: Chapters 1 - 12 will be made available soon\
 [Back to Top](#top)
 
 ----
+#### 16.1 黄鼠狼卖药 (pg. 108)]<a name="16.1"></a>
+**Audio book** （课文朗读）:
+
+**PDF**\
+[Back to Top](#top)
+
+----
+#### 16.2 鼠鹿和鳄鱼 (pg. 110)]<a name="16.2"></a>
+**Audio book** （课文朗读）:
+
+**PDF**\
+[Back to Top](#top)
+
+----
+#### 深广课文(8) 乌鸦兄弟 (pg. 114)]<a name="additional8"></a>
+**Audio book** （课文朗读）:
+
+**PDF**\
+[Back to Top](#top)
+
+----
+#### 识字五 分秒必争勤学习 (pg. 116)]<a name="words5"></a>
+**Audio book** （课文朗读）:
+
+**PDF**\
+[Back to Top](#top)
+
+----
+[17.1 奇奇借时间 (pg. 117)]\
+[18.1 好事情 (pg. 121)]\
+[深广课文(9) 渡轮 (pg. 125)]\
+[19. 美丽的夜市 (pg. 130)]\
+[20. 会说话的灯 (pg. 135)]\
+[深广课文(10) 萤火虫和星星 (pg. 139)]\
+[21. 回家的脚印 (pg. 141)]\
+[22. 百宝箱 (pg. 148)]\
+[深广课文(11) 世界很小又很大 (pg. 152)]

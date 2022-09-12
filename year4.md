@@ -30,14 +30,14 @@ Resources available for each chapter: **Audio books** （课文朗读）, **Piny
 [12. 伽利略的落体实验 (pg. 86)](#12)\
 [13. 街头魔术师 (pg. 93)](#13)\
 [14. 最美丽的风景 (pg. 99)](#14)\
-[15. 人工智能汽车 (pg. 106)]\
+[15. 人工智能汽车 (pg. 106)](#15)
 
 [单元四 - 生命之旅]\
-[16.  国庆日记 (pg. 116)]\
-[17. 盲目的强大 (pg. 122)]\
-[18. 框住美景 (pg. 129)]\
-[19. 稻香 (pg. 136)]\
-[20. 鼓声的召唤 (pg. 145)]
+[16.  国庆日记 (pg. 116)](#16)\
+[17. 盲目的强大 (pg. 122)](#17)\
+[18. 框住美景 (pg. 129)](#18)\
+[19. 稻香 (pg. 136)](#19)\
+[20. 鼓声的召唤 (pg. 145)](#20)
 
 ----
 #### 10. 宽大为怀 <a name="10"></a>
@@ -91,34 +91,34 @@ Resources available for each chapter: **Audio books** （课文朗读）, **Piny
 ----
 #### 15. 人工智能汽车 (pg. 106)<a name="15"></a>
 **Audio book** （课文朗读）:
-
+<iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1342288207&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year4-15-pg-106" title="Year4 15 人工智能汽车 (pg. 106)" target="_blank" style="color: #cccccc; text-decoration: none;">Year4 15 人工智能汽车 (pg. 106)</a></div>
 **PDF**:
 [Back to Top](#top)
 
 ----
 ### 单元四 - 生命之旅<a name=""></a>
 **Audio book** （课文朗读）:
-
 **PDF**:
 [Back to Top](#top)
 
 ----
 #### 16.  国庆日记 (pg. 116)<a name="16"></a>
 **Audio book** （课文朗读）:
-
+<iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1342288891&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year4-16-pg-116" title="Year4 16 国庆日记 (pg. 116)" target="_blank" style="color: #cccccc; text-decoration: none;">Year4 16 国庆日记 (pg. 116)</a></div>
 **PDF**:
 [Back to Top](#top)
 
 ----
 #### 17. 盲目的强大 (pg. 122)<a name="17"></a>
 **Audio book** （课文朗读）:
-
+<iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1342289173&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year4-17-pg-122" title="Year4 17 盲目的强大 (pg. 122)" target="_blank" style="color: #cccccc; text-decoration: none;">Year4 17 盲目的强大 (pg. 122)</a></div>
 **PDF**:
 [Back to Top](#top)
 
 ----
 #### 18. 框住美景 (pg. 129)<a name=""18></a>
 **Audio book** （课文朗读）:
+<iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1342289407&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year4-18-pg-129" title="Year4 18 框住美景 (pg. 129)" target="_blank" style="color: #cccccc; text-decoration: none;">Year4 18 框住美景 (pg. 129)</a></div>
 
 **PDF**:
 [Back to Top](#top)
@@ -126,6 +126,7 @@ Resources available for each chapter: **Audio books** （课文朗读）, **Piny
 ----
 #### 19. 稻香 (pg. 136)<a name="19"></a>
 **Audio book** （课文朗读）:
+<iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1342289761&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year4-19-pg-136" title="Year4 19 稻香 (pg. 136)" target="_blank" style="color: #cccccc; text-decoration: none;">Year4 19 稻香 (pg. 136)</a></div>
 
 **PDF**:
 [Back to Top](#top)
@@ -133,6 +134,7 @@ Resources available for each chapter: **Audio books** （课文朗读）, **Piny
 ----
 #### 20. 鼓声的召唤 (pg. 145)<a name="20"></a>
 **Audio book** （课文朗读）:
+<iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1342290058&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year4-20-pg-145" title="Year4 20 鼓声的召唤 (pg. 145)" target="_blank" style="color: #cccccc; text-decoration: none;">Year4 20 鼓声的召唤 (pg. 145)</a></div>
 
 **PDF**:
 [Back to Top](#top)

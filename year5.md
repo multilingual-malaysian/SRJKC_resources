@@ -116,13 +116,15 @@ Resources available for each chapter: **Audio books** （课文朗读）, **Piny
 ----
 #### 17.1 永不磨灭的幸福 (pg. 125)<a name="17.1"></a>
 **Audio Book**:
+<iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1342851196&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year5-171-pg-125" title="Year5 17.1 永不磨灭的幸福 (pg. 125)" target="_blank" style="color: #cccccc; text-decoration: none;">Year5 17.1 永不磨灭的幸福 (pg. 125)</a></div>
 
 **PDF**:\
 [Back to Top](#top)
 
 ----
-#### 17.2 展开思念的翅膀 (pg. )<a name="17.2"></a>
+#### 17.2 展开思念的翅膀 (pg. 127)<a name="17.2"></a>
 **Audio Book**:
+<iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1342851739&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year5-172-pg-127" title="Year5 17.2 展开思念的翅膀 (pg. 127)" target="_blank" style="color: #cccccc; text-decoration: none;">Year5 17.2 展开思念的翅膀 (pg. 127)</a></div>
 
 **PDF**:\
 [Back to Top](#top)
@@ -130,6 +132,7 @@ Resources available for each chapter: **Audio books** （课文朗读）, **Piny
 ----
 #### 18. 棋盘里的智慧 (pg. 132)<a name="18"></a>
 **Audio Book**:
+<iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1342852054&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year5-18-pg-132" title="Year5 18 棋盘里的智慧 (pg. 132)" target="_blank" style="color: #cccccc; text-decoration: none;">Year5 18 棋盘里的智慧 (pg. 132)</a></div>
 
 **PDF**:\
 [Back to Top](#top)
@@ -137,6 +140,7 @@ Resources available for each chapter: **Audio books** （课文朗读）, **Piny
 ----
 #### 19. 巨石载船 (pg. 138)<a name="19"></a>
 **Audio Book**:
+<iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1342852651&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year5-19-pg-138" title="Year5 19 巨石载船 (pg. 138)" target="_blank" style="color: #cccccc; text-decoration: none;">Year5 19 巨石载船 (pg. 138)</a></div>
 
 **PDF**:\
 [Back to Top](#top)
@@ -144,7 +148,7 @@ Resources available for each chapter: **Audio books** （课文朗读）, **Piny
 ----
 #### 20. 勇于抗战的斗士 (pg. 145)<a name="20"></a>
 **Audio Book**:
-
+<iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1342853080&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year5-20-pg-145" title="Year5 20 勇于抗战的斗士 (pg. 145)" target="_blank" style="color: #cccccc; text-decoration: none;">Year5 20 勇于抗战的斗士 (pg. 145)</a></div>
 **PDF**:\
 [Back to Top](#top)
 

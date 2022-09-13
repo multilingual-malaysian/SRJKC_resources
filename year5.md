@@ -77,6 +77,7 @@ Resources available for each chapter: **Audio books** （课文朗读）, **Piny
 ----
 #### 13. 鸡场街里的年轻梦 (pg. 95)<a name="13"></a>
 **Audio Book**:
+<iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1342848424&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year5-13-pg-95" title="Year5 13 鸡场街里的年轻梦 (pg. 95)" target="_blank" style="color: #cccccc; text-decoration: none;">Year5 13 鸡场街里的年轻梦 (pg. 95)</a></div>
 
 **PDF**:\
 [Back to Top](#top)
@@ -84,6 +85,7 @@ Resources available for each chapter: **Audio books** （课文朗读）, **Piny
 ----
 #### 14. 太空旅人 (pg. 101)<a name="14"></a>**Audio Book**:
 **Audio Book**:
+<iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1342849216&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year5-14-pg-101" title="Year5 14 太空旅人 (pg. 101)" target="_blank" style="color: #cccccc; text-decoration: none;">Year5 14 太空旅人 (pg. 101)</a></div>
 
 **PDF**:\
 [Back to Top](#top)
@@ -91,6 +93,7 @@ Resources available for each chapter: **Audio books** （课文朗读）, **Piny
 ----
 #### 15. 探索生态公园 (pg. 107)<a name="15"></a>
 **Audio Book**:
+<iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1342849693&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year5-15-pg-107" title="Year5 15 探索生态公园 (pg. 107)" target="_blank" style="color: #cccccc; text-decoration: none;">Year5 15 探索生态公园 (pg. 107)</a></div>
 
 **PDF**:\
 [Back to Top](#top)
@@ -105,6 +108,7 @@ Resources available for each chapter: **Audio books** （课文朗读）, **Piny
 ----
 #### 16. 生命中的烙印 (pg. 119)<a name="16"></a>
 **Audio Book**:
+<iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1342850263&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year5-16-16-pg-119" title="Year5 16 生命中的烙印 (pg. 119)" target="_blank" style="color: #cccccc; text-decoration: none;">Year5 16 生命中的烙印 (pg. 119)</a></div>
 
 **PDF**:\
 [Back to Top](#top)

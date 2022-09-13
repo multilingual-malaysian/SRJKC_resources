@@ -42,7 +42,7 @@ Resources available for each chapter: **Audio books** （课文朗读）, **Piny
 [20. 勇于抗战的斗士 (pg. 145)]
 
 ----
-### 11.1 诗情画意的世界<a name="11.1"></a>
+#### 11.1 诗情画意的世界 (pg. 81)<a name="11.1"></a>
 **Audio Book**： 
 <iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1339055026&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year5-11" title="Year5 11 诗情画意的世界" target="_blank" style="color: #cccccc; text-decoration: none;">Year5 11 诗情画意的世界</a></div>
 
@@ -55,22 +55,93 @@ Resources available for each chapter: **Audio books** （课文朗读）, **Piny
    </embed>
 </object>
 -->
-
+**PDF**:\
 [Back to Top](#top)
 
 ----
-### 11.2 午后的风<a name="11.2"></a>
+#### 11.2 午后的风 (pg. 83)<a name="11.2"></a>
 **Audio Book**： 
 <iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1342843051&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year5-112-pg-83" title="Year5 11.2 午后的风 (pg. 83)" target="_blank" style="color: #cccccc; text-decoration: none;">Year5 11.2 午后的风 (pg. 83)</a></div>
 
+**PDF**:\
 [Back to Top](#top)
 
 ----
-### 12 走入传统马来屋<a name="12"></a>
+#### 12 走入传统马来屋 (pg. 88)<a name="12"></a>
 **Audio Book**:
 <iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1339802665&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year5-12" title="Year5 12 走入传统马来屋" target="_blank" style="color: #cccccc; text-decoration: none;">Year5 12 走入传统马来屋</a></div>
 
-**PDF**:
+**PDF**:\
+[Back to Top](#top)
+
+----
+#### 13. 鸡场街里的年轻梦 (pg. 95)<a name="13"></a>
+**Audio Book**:
+
+**PDF**:\
+[Back to Top](#top)
+
+----
+#### 14. 太空旅人 (pg. 101)<a name="14"></a>**Audio Book**:
+**Audio Book**:
+
+**PDF**:\
+[Back to Top](#top)
+
+----
+#### 15. 探索生态公园 (pg. 107)<a name="15"></a>
+**Audio Book**:
+
+**PDF**:\
+[Back to Top](#top)
+
+----
+#### 单元四 永恒之旅 (pg. )<a name="unit4"></a>
+**Audio Book**:
+
+**PDF**:\
+[Back to Top](#top)
+
+----
+#### 16. 生命中的烙印 (pg. 119)<a name="16"></a>
+**Audio Book**:
+
+**PDF**:\
+[Back to Top](#top)
+
+----
+#### 17.1 永不磨灭的幸福 (pg. 125)<a name="17.1"></a>
+**Audio Book**:
+
+**PDF**:\
+[Back to Top](#top)
+
+----
+#### 17.2 展开思念的翅膀 (pg. )<a name="17.2"></a>
+**Audio Book**:
+
+**PDF**:\
+[Back to Top](#top)
+
+----
+#### 18. 棋盘里的智慧 (pg. 132)<a name="18"></a>
+**Audio Book**:
+
+**PDF**:\
+[Back to Top](#top)
+
+----
+#### 19. 巨石载船 (pg. 138)<a name="19"></a>
+**Audio Book**:
+
+**PDF**:\
+[Back to Top](#top)
+
+----
+#### 20. 勇于抗战的斗士 (pg. 145)<a name="20"></a>
+**Audio Book**:
+
+**PDF**:\
 [Back to Top](#top)
 
 ----

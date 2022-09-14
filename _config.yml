@@ -126,18 +126,7 @@ navigation_header:
       url: /SRJKC_resources/
     - title: Year 1
       url: /SRJKC_resources/year1/
-    - title: Year 2
-      url: /SRJKC_resources/year2/
-    - title: Year 3
-      url: /SRJKC_resources/year3/
-    - title: Year 4
-      url: /SRJKC_resources/year4/
-    - title: Year 5
-      url: /SRJKC_resources/year5/
-    - title: Year 6
-      url: /SRJKC_resources/year6/
-    - title: Communities
-      url: /SRJKC_resources/communities/
+
         
         # Codes for drop down menu
         #https://stackoverflow.com/questions/69813830/how-to-create-a-drop-down-menu-in-yml-using-jekyll

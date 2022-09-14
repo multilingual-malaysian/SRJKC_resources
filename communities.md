@@ -2,7 +2,7 @@
 title: Communities
 feature_text: |
   Like-minded communities...
-feature_image: /home2/assets/images/fb_groups.jpg
+feature_image: /SRJKC_resources/assets/images/fb_groups.jpg
 ---
 
 **Chinese-speaking:**

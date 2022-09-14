@@ -95,8 +95,8 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "SRJKC Resource Centre" # Site name or title, also used in jekyll-seo-tag
-##logo: "/home2/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-logo: "/home2/assets/logos/site_logo.png" # Site logo, also used in jekyll-seo-tag
+##logo: "/SRJKC_resources/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
+logo: "/SRJKC_resources/assets/logos/site_logo.png" # Site logo, also used in jekyll-seo-tag
 description: "Multilingual Malaysian is a site ......." # Site description and default description, also used in jekyll-seo-tag
 url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
 baseurl: ""
@@ -123,21 +123,21 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 # 9. Site navigation
 navigation_header:
     - title: Home
-      url: /home2/
+      url: /SRJKC_resources/
     - title: Year 1
-      url: /home2/year1/
+      url: /SRJKC_resources/year1/
     - title: Year 2
-      url: /home2/year2/
+      url: /SRJKC_resources/year2/
     - title: Year 3
-      url: /home2/year3/
+      url: /SRJKC_resources/year3/
     - title: Year 4
-      url: /home2/year4/
+      url: /SRJKC_resources/year4/
     - title: Year 5
-      url: /home2/year5/
+      url: /SRJKC_resources/year5/
     - title: Year 6
-      url: /home2/year6/
+      url: /SRJKC_resources/year6/
     - title: Communities
-      url: /home2/communities/
+      url: /SRJKC_resources/communities/
         
         # Codes for drop down menu
         #https://stackoverflow.com/questions/69813830/how-to-create-a-drop-down-menu-in-yml-using-jekyll

@@ -2,13 +2,13 @@
 title: 六年级 Year 6 
 feature_text: |
   <a href="top"></a>
-feature_image: "/home2/assets/images/BC_6_cover.png"
+feature_image: "/SRJKC_resources/assets/images/BC_6_cover.png"
 excerpt: "Resource centre for Bahasa Cina Tahun 6 text book"
 ---
 Resources available for each chapter: **Audio books** （课文朗读）
 ***Pinyin**（拼音注音） and **Translation (into English)**（英文翻译）are coming soon.*
 
-{% include button.html text="Share" icon="facebook" link="https://www.facebook.com/sharer/sharer.php?u=https://multilingual-malaysian.github.io/home2/year6/" color="#0366d6" target="_blank" %}  {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %}
+{% include button.html text="Share" icon="facebook" link="https://www.facebook.com/sharer/sharer.php?u=https://multilingual-malaysian.github.io/SRJKC_resources/year6/" color="#0366d6" target="_blank" %}  {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %}
 
 <!-- 
 [单元一 智慧之旅 (pg. 1)]\
@@ -45,9 +45,9 @@ Resources available for each chapter: **Audio books** （课文朗读）
 <iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1339203217&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year6-14" title="Year6 14 细菌也搬家" target="_blank" style="color: #cccccc; text-decoration: none;">Year6 14 细菌也搬家</a></div>
 
 **PDF with English Translation**:
-<object data="/home2/doc/BC_4_Passage10.pdf" type="application/pdf" width="700px" height="700px">
-   <embed src="/home2/doc/BC_4_Passage10.pdf">
-        <p>Download the PDF to view: <a href="/home2/doc/BC_4_Passage10.pdf"><img src="/home2/assets/images/pdf_icon.png" width="40" height="50"></a>.</p>
+<object data="/SRJKC_resources/doc/BC_4_Passage10.pdf" type="application/pdf" width="700px" height="700px">
+   <embed src="/SRJKC_resources/doc/BC_4_Passage10.pdf">
+        <p>Download the PDF to view: <a href="/SRJKC_resources/doc/BC_4_Passage10.pdf"><img src="/SRJKC_resources/assets/images/pdf_icon.png" width="40" height="50"></a>.</p>
    </embed>
 </object>
 

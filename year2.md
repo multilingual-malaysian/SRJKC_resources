@@ -5,7 +5,8 @@ feature_text: |
 feature_image: "/home2/assets/images/BC_2_cover.png"
 excerpt: "Resource centre for Bahasa Cina Tahun 2 text book"
 ---
-Resources available for each chapter: **Audio books** （课文朗读）, **Pinyin**（拼音注音） and **Translation (into English)**（英文翻译）
+Resources available for each chapter: **Audio books** （课文朗读）\
+***Pinyin**（拼音注音） and **Translation (into English)**（英文翻译）are coming soon.*
 
 {% include button.html text="Share" icon="facebook" link="https://www.facebook.com/sharer/sharer.php?u=https://multilingual-malaysian.github.io/home2/year2/" color="#0366d6" target="_blank" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://multilingual-malaysian.github.io/home2/year1/&text=SRJKC%20Chinese%20Year%201:%20-Audio%20books,%20pinyin%20and%20translation."" color="#0d94e7" %}
 

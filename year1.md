@@ -87,8 +87,7 @@ Resources available for each chapter: **Audio books** （课文朗读）.\
 **PDF with Pinyin and Translation**:
 <object data="/SRJKC_resources/doc/14.1 我想要的鞋子.pdf" type="application/pdf" width="700px" height="700px">
    <embed src="/SRJKC_resources/doc/14.1 我想要的鞋子.pdf">
-        <p>Download the PDF to view: <a href="/SRJKC_resources/doc/14.1 我想要的鞋子.pdf"><img src="/SRJKC_resources/assets/images/pdf_icon.png" width="40" height="50"></a>.</p>
-   
+        <p>Download the PDF to view: <a href="/SRJKC_resources/doc/14.1 我想要的鞋子.pdf"><img src="/SRJKC_resources/assets/images/pdf_icon.png" width="40" height="50"></a>.</p>  
 </object>
 
 [Back to Top](#top)
@@ -100,7 +99,8 @@ Resources available for each chapter: **Audio books** （课文朗读）.\
 **PDF with Pinyin and Translation**:
 <object data="/SRJKC_resources/doc/14.2 蝴蝶在读香喷喷的报纸.pdf" type="application/pdf" width="700px" height="700px">
    <embed src="/SRJKC_resources/doc/14.2 蝴蝶在读香喷喷的报纸.pdf">
-        <p>Download the PDF to view: <a href="/SRJKC_resources/doc/14.2 蝴蝶在读香喷喷的报纸.pdf"><img src="/SRJKC_resources/assets/images/pdf_icon.png" width="40" height="50"></a>.</p>
+        <p>Download the PDF to view: <a href="/SRJKC_resources/doc/14.2 蝴蝶在读香喷喷的报纸.pdf"><img src="/SRJKC_resources/assets/images/pdf_icon.png" width="40" height="50"></a>.</p></object>
+  
 [Back to Top](#top)
 
 ----

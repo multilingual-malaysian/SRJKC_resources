@@ -10,6 +10,8 @@ Resources available for each chapter: **Audio books** （课文朗读）.\
 
 {% include button.html text="Share" icon="facebook" link="https://www.facebook.com/sharer/sharer.php?u=https://multilingual-malaysian.github.io/SRJKC_resources/year1/" color="#0366d6" target="_blank" %}  {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://multilingual-malaysian.github.io/SRJKC_resources/year1/&text=SRJKC%20Chinese%20Year%201%20Resources%20(%20Audio%20Books,%20PinYin%20and%20Translation%20)" color="#0d94e7" %}
 
+[Textbook]     [Workbook]      [Youtube](#https://www.youtube.com/channel/UC6hPxFH8ofK_iQTc7LYwb6w/videos)
+
 ***Note: Chapters 1 - 13 will be made available soon***\
 <!--- 
 [识字一 (pg. 1)] *coming soon*\
@@ -75,6 +77,8 @@ Resources available for each chapter: **Audio books** （课文朗读）.\
 [22.1 谁没长大 (pg. 146)](#22.1)\
 [22.2 我也跟着做 (pg. 148)](#22.2)\
 [深广课文(11) 错在哪里 (pg. 151)](#additional11)
+
+
 
 ----
 #### 14.1 我想要的鞋子<a name="14.1"></a>(pg. 87)

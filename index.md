@@ -10,9 +10,8 @@ excerpt: "Research centre for Chinese Year 1 to Year 6"
 Welcome to 'SRJKC Resources', a place here you can get extra resources to help your child / children in their SJRKC education. I hope the materials are of use to you. If you spot any mistakes, you can report them by sending me the details to multilingual.malaysian@gmail.com.
 
 #### What are the resources available?
-> Audio reading of each chapter in SRJKC Chinese 
-> Chinese text added with Hanyu Pinyin
-> English translation
+1. **Audio reading** of each chapter in SRJKC Chinese (mp3 - playable on the browser itself)
+2. PDF files of Chinese with **Hanyu Pinyin** and **English translation**.
 
 #### Why do I do this?
 I personally find that 

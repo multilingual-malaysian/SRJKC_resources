@@ -16,7 +16,7 @@ Welcome to 'SRJKC Resources', a place here you can get extra resources (free of 
 #### Why do I do this?
 I am researcher in Natural Language Processing (NLP) - it is a field of applying Artificial Intelligence in Languages, both written and spoken. As such I am well aware of AI technologies that can be used to assist in education and in learning. Hence I have decided to embark on this journey to create extra resources to aid learning Chinese based on SRJCK textbooks.
 
-Another main motivation is my son needs extra help in his Chinese because Mandarin Chinese is not his first language. Happy to share the resources absolutely free to everyone. 
+Another main motivation is my son needs extra help in his Chinese. Though ethnic Chinese but Mandarin Chinese is not his first language. Happy to share the resources absolutely free and hope they benefit anyone who are on the same journey. Tuition teachers are welcome to use them but my only request is that  
 
 #### How it is done?
 If you spot any mistakes, you can report them by sending me the details to multilingual.malaysian@gmail.com.

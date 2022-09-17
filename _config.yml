@@ -77,7 +77,7 @@ defaults:
     scope:
       path: ""
     values:
-      image: "/SRJKC_resources/assets/default-social-image.png" # Default image for sharing
+      image: "/SRJKC_resources/assets/default-social-image-original.png" # Default image for sharing
   -
     scope:
       path: ""

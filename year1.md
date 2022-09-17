@@ -8,7 +8,9 @@ excerpt: "Resource centre for Bahasa Cina Tahun 1 text book"
 Resources available for each chapter: **Audio books** （课文朗读）.\
 ***Pinyin**（拼音注音） and **Translation (into English)**（英文翻译）are coming soon.*
 
-{% include button.html text="Share" icon="facebook" link="https://www.facebook.com/sharer/sharer.php?u=https://multilingual-malaysian.github.io/SRJKC_resources/year1/" color="#0366d6" target="_blank" %}  
+{% include button.html text="Share" icon="facebook" link="https://www.facebook.com/sharer/sharer.php?u=https://multilingual-malaysian.github.io/SRJKC_resources/year1/" color="#0366d6" target="_blank" %}  {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://multilingual-malaysian.github.io/SRJKC_resources/year1/&text=SRJKC%20Chinese%20Year%201%20Resources%20(%20Audio%20Books,%20PinYin%20and%20Translation%20)" color="#0d94e7" %}
+
+[Textbook]       .       [Workbook]      .      [Youtube](https://www.youtube.com/channel/UC6hPxFH8ofK_iQTc7LYwb6w/videos)
 
 ***Note: Chapters 1 - 13 will be made available soon***\
 <!--- 
@@ -76,39 +78,60 @@ Resources available for each chapter: **Audio books** （课文朗读）.\
 [22.2 我也跟着做 (pg. 148)](#22.2)\
 [深广课文(11) 错在哪里 (pg. 151)](#additional11)
 
+
+
 ----
 #### 14.1 我想要的鞋子<a name="14.1"></a>(pg. 87)
 **Audio book** （课文朗读）:
 <iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1341592282&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year1-141" title="Year1 14.1 我想要的鞋子" target="_blank" style="color: #cccccc; text-decoration: none;">Year1 14.1 我想要的鞋子</a></div>
-**PDF**:\
+**PDF with Pinyin and Translation**:
+<object data="/SRJKC_resources/doc/year1/14.1 我想要的鞋子.pdf" type="application/pdf" width="700px" height="700px">
+   <embed src="/SRJKC_resources/doc/year1/14.1 我想要的鞋子.pdf">
+        <p>Download the PDF to view: <a href="/SRJKC_resources/doc/year1/14.1 我想要的鞋子.pdf"><img src="/SRJKC_resources/assets/images/pdf_icon.png" width="40" height="50"></a>.</p>  
+</object>
+
 [Back to Top](#top)
 
 ----
 #### 14.2 蝴蝶在读香喷喷的报纸<a name="14.2"></a>(pg. 88)
 **Audio book** （课文朗读）:
 <iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1341628876&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year1-142" title="Year1 14.2 蝴蝶在读香喷喷的报纸" target="_blank" style="color: #cccccc; text-decoration: none;">Year1 14.2 蝴蝶在读香喷喷的报纸</a></div>
-**PDF**:\
+**PDF with Pinyin and Translation**:
+<object data="/SRJKC_resources/doc/year1/14.2 蝴蝶在读香喷喷的报纸.pdf" type="application/pdf" width="700px" height="700px">
+   <embed src="/SRJKC_resources/doc/year1/14.2 蝴蝶在读香喷喷的报纸.pdf">
+        <p>Download the PDF to view: <a href="/SRJKC_resources/doc/year1/14.2 蝴蝶在读香喷喷的报纸.pdf"><img src="/SRJKC_resources/assets/images/pdf_icon.png" width="40" height="50"></a>.</p></object>
+  
 [Back to Top](#top)
 
 ----
 #### 深广课文(7) 月牙船<a name="additional7"></a>(pg. 91)
 **Audio book** （课文朗读）:
 <iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1341630187&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year1-7" title="Year1 深广课文(7) 月牙船" target="_blank" style="color: #cccccc; text-decoration: none;">Year1 深广课文(7) 月牙船</a></div>
-**PDF**:\
+**PDF with Pinyin and Translation**:
+<object data="/SRJKC_resources/doc/year1/深广课文(7) 月牙船.pdf" type="application/pdf" width="700px" height="700px">
+   <embed src="/SRJKC_resources/doc/year1/深广课文(7) 月牙船.pdf">
+        <p>Download the PDF to view: <a href="/SRJKC_resources/doc/year1/深广课文(7) 月牙船.pdf"><img src="/SRJKC_resources/assets/images/pdf_icon.png" width="40" height="50"></a>.</p></object>
+        
 [Back to Top](#top)
 
 ----
 #### 15 圆圆歌<a name="15"></a>(pg. 92)
 **Audio book** （课文朗读）:
 <iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1341589960&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year1-15" title="Year1 15 圆圆歌" target="_blank" style="color: #cccccc; text-decoration: none;">Year1 15 圆圆歌</a></div>
-**PDF**:\
+**PDF with Pinyin and Translation**:
+<object data="/SRJKC_resources/doc/year1/15 圆圆歌.pdf" type="application/pdf" width="700px" height="700px">
+   <embed src="/SRJKC_resources/doc/year1/15 圆圆歌.pdf">
+        <p>Download the PDF to view: <a href="/SRJKC_resources/doc/year1/15 圆圆歌.pdf"><img src="/SRJKC_resources/assets/images/pdf_icon.png" width="40" height="50"></a>.</p></object>
 [Back to Top](#top)
 
 ----
 #### 15.1 红红的气球<a name="15.1"></a>(pg. 93)
 **Audio book** （课文朗读）:
 <iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1341590158&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year1-151" title="Year1 15.1 红红的气球" target="_blank" style="color: #cccccc; text-decoration: none;">Year1 15.1 红红的气球</a></div>
-**PDF**:\
+**PDF with Pinyin and Translation**:
+<object data="/SRJKC_resources/doc/year1/15.1 红红的气球.pdf" type="application/pdf" width="700px" height="700px">
+   <embed src="/SRJKC_resources/doc/year1/15.1 红红的气球.pdf">
+        <p>Download the PDF to view: <a href="/SRJKC_resources/doc/year1/15.1 红红的气球.pdf"><img src="/SRJKC_resources/assets/images/pdf_icon.png" width="40" height="50"></a>.</p></object>
 [Back to Top](#top)
 
 ----

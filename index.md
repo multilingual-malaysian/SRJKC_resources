@@ -14,7 +14,7 @@ Welcome to 'SRJKC Resources', a place here you can get extra resources to help y
 2. PDF files of Chinese with **Hanyu Pinyin** and **English translation**.
 
 #### Why do I do this?
-I personally find that 
+I personally find that the current KSSR
 
 #### How it is done?
 

@@ -19,3 +19,5 @@ Another main motivation is my son needs extra help in his Chinese. Though ethnic
 #### How it is done?
 I hope the materials are of use to you. If you spot any mistakes, you can report them by sending me the details to multilingual.malaysian@gmail.com.
 
+
+{% include figure.html image="/SRJKC/assets/default-social-image.png" alt="SRJKC Resource Centre" %}

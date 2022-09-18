@@ -1,7 +1,7 @@
 ---
 title: Home
 feature_text: |
-  Welcome to 'SRJKC Resource Centre', a place here you can get extra resources **free of charge** to help your child or children in their SJRKC education. I hope the materials are of use to you. 
+  'SRJKC Resource Centre' is a place here you can get extra resources **free of charge** to help your child or children in their SRJKC education. 
   <a href="top"></a>
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Resource centre for SRJKC Chinese Year 1 to Year 6"
@@ -17,5 +17,5 @@ I am researcher in Natural Language Processing (NLP), a field of applying Artifi
 Another main motivation is my son needs extra help in his Chinese. Though ethnic Chinese but Mandarin Chinese is not his first language. Happy to share the resources absolutely free and hope they benefit anyone who are on the same journey. Tuition teachers are welcome to use them but my only request is the materials should remain free and not to be sold. 
 
 #### How it is done?
-If you spot any mistakes, you can report them by sending me the details to multilingual.malaysian@gmail.com.
+I hope the materials are of use to you. If you spot any mistakes, you can report them by sending me the details to multilingual.malaysian@gmail.com.
 

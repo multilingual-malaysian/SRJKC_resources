@@ -40,10 +40,10 @@ paginate: 2 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
-  username: DavidDarnes # jekyll-seo-tag > Owners twitter username
-author: DavidDarnes # jekyll-seo-tag > default author
+  username: meisin123 # jekyll-seo-tag > Owners twitter username
+author: Multilingual Malaysian # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
-  name: David Darnes # jekyll-seo-tag > real name
+  name: Multilingual Malaysian # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
     - https://twitter.com/meisin123
     - https://www.facebook.com/meisin123
@@ -152,9 +152,9 @@ navigation_footer:
   #url: https://darn.es
 
 social_links: # Appears in sidebar - to be used to link to my researcher profile (at a later stage)
-  Twitter: https://twitter.com/DavidDarnes
-  LinkedIn: https://www.linkedin.com/in/daviddarnes
-  GitHub: https://github.com/daviddarnes
+  Twitter: https://twitter.com/meisin123
+  LinkedIn: https://www.linkedin.com/in/meisinlee
+  GitHub: https://github.com/multilingual-malaysian
   #link: https://darn.es
   RSS: /feed.xml
 

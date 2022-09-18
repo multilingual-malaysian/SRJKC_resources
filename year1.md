@@ -12,6 +12,9 @@ Resources available for each chapter: **Audio books** （课文朗读）.\
 
 [Textbook]       .       [Workbook]      .      [Youtube](https://www.youtube.com/channel/UC6hPxFH8ofK_iQTc7LYwb6w/videos)
 
+<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fmultilingual-malaysian.github.io%2FSRJKC_resources%2Fyear1%2F&width=150&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
 ***Note: Chapters 1 - 13 will be made available soon***\
 <!--- 
 [识字一 (pg. 1)] *coming soon*\

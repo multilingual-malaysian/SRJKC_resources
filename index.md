@@ -1,5 +1,5 @@
 ---
-title: Home
+title:
 feature_text: |
   'SRJKC Resource Centre' is a place here you can get extra resources **free of charge**. These materials are based on SRJKC textbooks.
   <a href="top"></a>

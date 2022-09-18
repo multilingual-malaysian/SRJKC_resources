@@ -5,6 +5,7 @@ feature_text: |
   <a href="top"></a>
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Resource centre for SRJKC Chinese Year 1 to Year 6"
+aside: true
 ---
 
 {% include figure.html image="/SRJKC_resources/assets/default-social-image-small.png" alt="SRJKC Resource Centre" %}

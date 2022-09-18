@@ -8,11 +8,16 @@ excerpt: "Resource centre for Bahasa Cina Tahun 1 text book"
 Resources available for each chapter: **Audio books** （课文朗读）.\
 ***Pinyin**（拼音注音） and **Translation (into English)**（英文翻译）are coming soon.*
 
+<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fmultilingual-malaysian.github.io%2FSRJKC_resources%2Fyear1%2F&width=174&layout=button_count&action=like&size=large&share=true&height=46&appId" width="174" height="46" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
+<!--
 {% include button.html text="Share" icon="facebook" link="https://www.facebook.com/sharer/sharer.php?u=https://multilingual-malaysian.github.io/SRJKC_resources/year1/" color="#0366d6" target="_blank" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://multilingual-malaysian.github.io/SRJKC_resources/year1/&text=SRJKC%20Chinese%20Year%201%20Resources%20(%20Audio%20Books,%20PinYin%20and%20Translation%20)" color="#0d94e7" %}
+-->
 
 [Textbook]       .       [Workbook]      .      [Youtube](https://www.youtube.com/channel/UC6hPxFH8ofK_iQTc7LYwb6w/videos)
 
-<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fmultilingual-malaysian.github.io%2FSRJKC_resources%2Fyear1%2F&width=150&layout=button_count&action=like&size=small&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
 
 
 ***Note: Chapters 1 - 13 will be made available soon***\

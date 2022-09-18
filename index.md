@@ -1,7 +1,7 @@
 ---
 title: Home
 feature_text: |
-  'SRJKC Resource Centre' is a place here you can get extra resources **free of charge**, these materials are based on SRJKC textbooks.
+  'SRJKC Resource Centre' is a place here you can get extra resources **free of charge**. These materials are based on SRJKC textbooks.
   <a href="top"></a>
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Resource centre for SRJKC Chinese Year 1 to Year 6"

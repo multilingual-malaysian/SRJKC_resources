@@ -78,6 +78,11 @@ defaults:
       path: ""
     values:
       image: "/assets/default-social-image-original.png" # Default image for sharing
+
+#      image:
+#        path: /img/logo.jpg
+#        height: 630
+#        width: 1200       
   -
     scope:
       path: ""
@@ -98,7 +103,7 @@ title: "SRJKC Resource Centre" # Site name or title, also used in jekyll-seo-tag
 ##logo: "/SRJKC_resources/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 logo: "/SRJKC_resources/assets/logos/site_logo.png" # Site logo, also used in jekyll-seo-tag
 description: "Multilingual Malaysian is a site ......." # Site description and default description, also used in jekyll-seo-tag
-url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
+url: "https://multilingual-malaysian.github.io/SRJKC_resources" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 email: "multilingual.malaysian@gmail.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account

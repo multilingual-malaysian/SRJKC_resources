@@ -7,6 +7,9 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Resource centre for SRJKC Chinese Year 1 to Year 6"
 ---
 
+{% include figure.html image="/SRJKC_resources/assets/default-social-image-small.png" alt="SRJKC Resource Centre" %}
+
+
 What are the resources available?
 1. **Audio reading** of each chapter in SRJKC Chinese (mp3 - playable on the browser itself)
 2. PDF files of Chinese with **Hanyu Pinyin** and **English translation**.
@@ -19,5 +22,3 @@ Another main motivation is my son needs extra help in his Chinese. Though ethnic
 #### How it is done?
 I hope the materials are of use to you. If you spot any mistakes, you can report them by sending me the details to multilingual.malaysian@gmail.com.
 
-
-{% include figure.html image="/SRJKC_resources/assets/default-social-image.png" alt="SRJKC Resource Centre" %}

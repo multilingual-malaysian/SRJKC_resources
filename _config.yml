@@ -45,10 +45,10 @@ author: DavidDarnes # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
   name: David Darnes # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://twitter.com/DavidDarnes
-    - https://www.facebook.com/daviddarnes
-    - https://www.linkedin.com/in/daviddarnes
-    - https://github.com/daviddarnes
+    - https://twitter.com/meisin123
+    - https://www.facebook.com/meisin123
+    - https://www.linkedin.com/in/meisinlee
+    - https://github.com/multilingual-malaysian
 # markdown: CommonMark # Markdown parse settings, CommonMark performs slightly better an others in build time
 # commonmark:
   # options: ["SMART", "FOOTNOTES"]
@@ -77,7 +77,7 @@ defaults:
     scope:
       path: ""
     values:
-      image: "/assets/default-social-image-original.png" # Default image for sharing
+      image: "/SRJKC_resources/assets/default-social-image-original.png" # Default image for sharing
 
 #      image:
 #        path: /img/logo.jpg
@@ -148,13 +148,13 @@ navigation_header:
 
 navigation_footer:
 - title: Created by Multilingual Malaysian
-  url: https://darn.es
+  #url: https://darn.es
 
-social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
+social_links: # Appears in sidebar - to be used to link to my researcher profile (at a later stage)
   Twitter: https://twitter.com/DavidDarnes
   LinkedIn: https://www.linkedin.com/in/daviddarnes
   GitHub: https://github.com/daviddarnes
-  link: https://darn.es
+  #link: https://darn.es
   RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour

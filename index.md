@@ -1,15 +1,13 @@
 ---
 title: Home
 feature_text: |
-  What this website is about....
+  Welcome to 'SRJKC Resource Centre', a place here you can get extra resources **free of charge** to help your child or children in their SJRKC education. I hope the materials are of use to you. 
   <a href="top"></a>
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Resource centre for SRJKC Chinese Year 1 to Year 6"
 ---
 
-Welcome to 'SRJKC Resource Centre', a place here you can get extra resources **free of charg** to help your child or children in their SJRKC education. I hope the materials are of use to you. 
-
-#### What are the resources available?
+What are the resources available?
 1. **Audio reading** of each chapter in SRJKC Chinese (mp3 - playable on the browser itself)
 2. PDF files of Chinese with **Hanyu Pinyin** and **English translation**.
 

@@ -6,11 +6,9 @@ feature_image: "/SRJKC_resources/assets/images/BC_1_cover.png"
 excerpt: "Resource centre for Bahasa Cina Tahun 1 text book"
 ---
 
-| Type             | Resources |
-|:---------------- |:----------- |
-| Textbook         | **Audio books** （课文朗读）- Links below <br /> ***Pinyin**（拼音注音） and **Translation (into English)**（英文翻译）are coming soon.*     |
-| Workbook         | [links]        |
-| Youtube channels | [Youtube links](https://www.youtube.com/channel/UC6hPxFH8ofK_iQTc7LYwb6w/videos)    |
+- Textbook: **Audio books** （课文朗读）- Links below <br /> ***Pinyin**（拼音注音） and **Translation (into English)**（英文翻译）are coming soon.*
+- Workbook: Update the website
+- Youtube channels:  [Youtube links](https://www.youtube.com/channel/UC6hPxFH8ofK_iQTc7LYwb6w/videos)
 
 <br />
 

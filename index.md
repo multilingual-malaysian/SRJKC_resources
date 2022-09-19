@@ -21,7 +21,7 @@ At this moment, the focus is on Chinese Year 1 to Year 6. For each year, there a
 In the future, more subjects might be added. 
 
 #### Other Translated Work
-Apart from this initiative, there are others who invested time and effort to translate SRJKC Chinese textbooks into Malay and into English + Malay. If you prefer a physical copy of the translations, you can purchase them from the respective authors (links below):
+Apart from this initiative, there are others who invested time and effort in translating SRJKC Chinese textbooks into Malay and into English + Malay. If you prefer a physical copy of the translations, you can purchase them from the respective authors (links below):
 - Pinyin + Malay Translation by ***mummy.sjkc.bookstore***. Link to the facebook page [here](https://www.facebook.com/search/top?q=mummy.sjkc.bookstore).
 - Pinyin + English / Malay / Tri-lingual Translation by ***yumiisbookstore***. Link to the shopee store [here](https://shopee.com.my/yumiisbookstore).
 

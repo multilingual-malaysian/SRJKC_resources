@@ -77,7 +77,7 @@ defaults:
     scope:
       path: ""
     values:
-      image: "https://multilingual-malaysian.github.io/SRJKC_resources/assets/default-social-image.png"
+      image: "https://multilingual-malaysian.github.io/SRJKC_resources/assets/default-social-image-small.png"
       #"/SRJKC_resources/assets/default-social-image-original.png" # Default image for sharing
 
 #      image:

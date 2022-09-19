@@ -25,6 +25,6 @@ I hope the materials are of use to you. If you spot any mistakes, you can report
 
 #### Other Translated Work
 Upon closer look, I discovered that there are other translation of the Chinese textbooks into Malay and into English + Malay. If you prefer a physical copy of the translation, you can purchase them from the respective authors (links below):
-- Malay Translation by mummy.sjkc.bookstore. Link to her/their facebook page [here](https://www.facebook.com/search/top?q=mummy.sjkc.bookstore).
-- English / Malay / Tri-lingual Translation by yumiisbookstore. Link to her/their shopee store [here](https://shopee.com.my/yumiisbookstore).
+- Malay Translation by ***mummy.sjkc.bookstore***. Link to her/their facebook page [here](https://www.facebook.com/search/top?q=mummy.sjkc.bookstore).
+- English / Malay / Tri-lingual Translation by ***yumiisbookstore***. Link to her/their shopee store [here](https://shopee.com.my/yumiisbookstore).
 

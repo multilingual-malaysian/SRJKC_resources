@@ -8,10 +8,10 @@ excerpt: "Resource centre for Bahasa Cina Tahun 1 text book"
 Resources available for each chapter: **Audio books** （课文朗读）.\
 ***Pinyin**（拼音注音） and **Translation (into English)**（英文翻译）are coming soon.*
 
-| Type      | Resources |
-| ----------- | ----------- |
-| Textbook      | **Audio books** （课文朗读）- Links below <br /> ***Pinyin**（拼音注音） and **Translation (into English)**（英文翻译）are coming soon.*     |
-| Workbook   | [links]        |
+| Type             | Resources |
+| ---------------- | ----------- |
+| Textbook         | **Audio books** （课文朗读）- Links below \\ ***Pinyin**（拼音注音） and **Translation (into English)**（英文翻译）are coming soon.*     |
+| Workbook         | [links]        |
 | Youtube channels | [links]  |
 
 

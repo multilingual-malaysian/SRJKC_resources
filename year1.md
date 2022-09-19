@@ -6,9 +6,9 @@ feature_image: "/SRJKC_resources/assets/images/BC_1_cover.png"
 excerpt: "Resource centre for Bahasa Cina Tahun 1 text book"
 ---
 
-- Textbook: **Audio books** （课文朗读）- Links below <br /> ***Pinyin**（拼音注音） and **Translation (into English)**（英文翻译）are coming soon.*
-- Workbook: Update the website
-- Youtube channels:  [Youtube links](https://www.youtube.com/channel/UC6hPxFH8ofK_iQTc7LYwb6w/videos)
+- ==Textbook==: **Audio books** （课文朗读）- below <br /> ***Pinyin**（拼音注音） and **Translation (into English)**（英文翻译）are coming soon.*
+- ==Workbook==: Update the website
+- ==Youtube channels==:  [Youtube links](https://www.youtube.com/channel/UC6hPxFH8ofK_iQTc7LYwb6w/videos)
 
 <br />
 
@@ -19,11 +19,7 @@ excerpt: "Resource centre for Bahasa Cina Tahun 1 text book"
 {% include button.html text="Share" icon="facebook" link="https://www.facebook.com/sharer/sharer.php?u=https://multilingual-malaysian.github.io/SRJKC_resources/year1/" color="#0366d6" target="_blank" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://multilingual-malaysian.github.io/SRJKC_resources/year1/&text=SRJKC%20Chinese%20Year%201%20Resources%20(%20Audio%20Books,%20PinYin%20and%20Translation%20)" color="#0d94e7" %}
 -->
 
-[Textbook]       .       [Workbook]      .      
-
-
-
-
+## Textbook
 ***Note: Chapters 1 - 13 will be made available soon***\
 <!--- 
 [识字一 (pg. 1)] *coming soon*\

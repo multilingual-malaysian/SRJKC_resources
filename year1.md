@@ -300,10 +300,10 @@ excerpt: "Resource centre for Bahasa Cina Tahun 1 text book"
 [Back to Top](#textbook)
 
 ----
-## Other textbook resources(Youtube channels)<a name="videos"></a>
+## Textbook Youtube Channels<a name="videos"></a>
 - [张小婷](https://www.youtube.com/channel/UC6hPxFH8ofK_iQTc7LYwb6w/videos)
 
-## Workbook-related resources - reference answers<a name="workbook"></a>
+## Workbook reference answers<a name="workbook"></a>
 - Facebook posts
   - [快乐学习网上教育 Jilid 1](https://www.facebook.com/102603841643062/posts/142725344297578)
   - [快乐学习网上教育 Jilid 2](https://m.facebook.com/permalink.php?id=102603841643062&story_fbid=144286497474796)

@@ -12,17 +12,22 @@ aside: true
 
 I am researcher in Natural Language Processing (NLP), a field of applying Artificial Intelligence in Languages (both written and spoken). As such I am well aware of AI technologies that can be used to assist in education and in learning. Hence I have decided to embark on this journey to create extra resources to aid learning Chinese based on SRJCK textbooks.
 
-Another main motivation is my son needs extra help in his Chinese. Though ethnic Chinese, Mandarin Chinese is not his first language. Happy to share the resources absolutely free and hope they benefit anyone who are on the same journey. Tuition teachers are welcome to use them but my only request is the materials should remain free and not to be sold. 
+Another main motivation is my children need extra help in learning Chinese. Though ethnic Chinese, Mandarin Chinese is not their first language. Happy to share the resources absolutely free and hope they benefit anyone who are on the same journey. Tuition teachers are welcome to use them but my only request is the materials remain **free** for your students. 
 
 #### What are the available resources?
-1. **Audio reading** of each chapter in SRJKC Chinese (mp3 - playable on the browser itself)
-2. PDF files of Chinese with **Hanyu Pinyin** and **English translation**.
-
-#### How it is done?
-I hope the materials are of use to you. If you spot any mistakes, you can report them by sending me the details to multilingual.malaysian@gmail.com.
+At this moment, the focus is on Chinese Year 1 to Year 6. For each year, there are:
+1. **Audio reading** of each chapter (mp3 - playable on the browser itself)
+2. Original Chinese text with **Hanyu Pinyin** and **English translation** (PDF file - viewable on browser and downloadable).
+In the future, more subjects might be added. 
 
 #### Other Translated Work
-Upon closer look, I discovered that there are other translation of the Chinese textbooks into Malay and into English + Malay. If you prefer a physical copy of the translation, you can purchase them from the respective authors (links below):
-- Malay Translation by ***mummy.sjkc.bookstore***. Link to her/their facebook page [here](https://www.facebook.com/search/top?q=mummy.sjkc.bookstore).
-- English / Malay / Tri-lingual Translation by ***yumiisbookstore***. Link to her/their shopee store [here](https://shopee.com.my/yumiisbookstore).
+Apart from this initiative, there are others who invested time and effort to translate SRJKC Chinese textbooks into Malay and into English + Malay. If you prefer a physical copy of the translations, you can purchase them from the respective authors (links below):
+- Pinyin + Malay Translation by ***mummy.sjkc.bookstore***. Link to the facebook page [here](https://www.facebook.com/search/top?q=mummy.sjkc.bookstore).
+- Pinyin + English / Malay / Tri-lingual Translation by ***yumiisbookstore***. Link to the shopee store [here](https://shopee.com.my/yumiisbookstore).
+
+#### If you spot any mistakes....
+I hope the materials are of use to you. If you spot any mistakes, you can report them by sending me the details to multilingual.malaysian@gmail.com.
+
+Have fun learning!!
+
 

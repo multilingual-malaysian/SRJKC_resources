@@ -6,9 +6,10 @@ feature_image: "/SRJKC_resources/assets/images/BC_1_cover.png"
 excerpt: "Resource centre for Bahasa Cina Tahun 1 text book"
 ---
 
-- **Textbook**: [Audio books （课文朗读), Pinyin（拼音注音）and Translation (into English)（英文翻译）](#textbook)
-- **Workbook**: [workbook answers shared online]
-- **Youtube channels**:  [List of Youtube links](#youtube)
+- **Textbook**: [Audio books （课文朗读), Pinyin（拼音注音）and Translation (into English)（英文翻译）](#textbook) 
+- Other textbook resources: [List of Youtube links](#videos)
+- Workbook-related resources: [List of Facebook posts and Youtube links](#workbook)
+
 
 <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fmultilingual-malaysian.github.io%2FSRJKC_resources%2Fyear1%2F&width=174&layout=button_count&action=like&size=large&share=true&height=46&appId" width="174" height="46" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
@@ -299,7 +300,19 @@ excerpt: "Resource centre for Bahasa Cina Tahun 1 text book"
 [Back to Top](#textbook)
 
 ----
-## Youtube Channels<a name="youtube"></a>
+## Other textbook resources(Youtube channels)<a name="videos"></a>
 - [张小婷](https://www.youtube.com/channel/UC6hPxFH8ofK_iQTc7LYwb6w/videos)
-- 
+
+## Workbook-related resources - reference answers<a name="workbook"></a>
+- Facebook posts
+  - [快乐学习网上教育 Jilid 1](https://www.facebook.com/102603841643062/posts/142725344297578
+  - [快乐学习网上教育 Jilid 2](https://m.facebook.com/permalink.php?id=102603841643062&story_fbid=144286497474796)
+  - [海洋教育Ocean Education Jilid 1](https://www.facebook.com/ocedu.co/posts/126557369235888/))
+  - [海洋教育Ocean Education Jilid 2](https://www.facebook.com/ocedu.co/posts/126557369235888/)
+- Youtube Channels
+  - [一起学 YiQiXue](https://youtube.com/playlist?list=PLQyq8ZxexxEzjW6LbD7b5r9DSNNMW0aj2)
+  - [Mmm Doodly Jilid 1](https://youtu.be/nTLnzUXU7zk)
+  - [Mmm Doodly Jilid 2](https://youtu.be/G9HVvzhPtTk)
+  - [E Answer Space Jilid 1](https://youtu.be/y9ME4i88BMU)
+  - [E Answer Space Jilid 2](https://youtu.be/0BVcgXpZr_4)
 

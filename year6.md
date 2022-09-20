@@ -5,11 +5,15 @@ feature_text: |
 feature_image: "/SRJKC_resources/assets/images/BC_6_cover.png"
 excerpt: "Resource centre for Bahasa Cina Tahun 6 text book"
 ---
-Resources available for each chapter: **Audio books** （课文朗读）
+
+- **Textbook**: [Audio books （课文朗读)](#textbook)
+- Other sources:
+  - Textbook Youtube Channels: [List of Youtube links](#videos)
+
+<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fmultilingual-malaysian.github.io%2FSRJKC_resources%2Fyear6%2F&width=174&layout=button_count&action=like&size=large&share=true&height=46&appId" width="174" height="46" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>t/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %}
+
+## Textbook<a name="textbook"></a>
 ***Pinyin**（拼音注音） and **Translation (into English)**（英文翻译）are coming soon.*
-
-{% include button.html text="Share" icon="facebook" link="https://www.facebook.com/sharer/sharer.php?u=https://multilingual-malaysian.github.io/SRJKC_resources/year6/" color="#0366d6" target="_blank" %}  {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %}
-
 <!-- 
 [单元一 智慧之旅 (pg. 1)]\
 [1. 动物大迁徙有感  (pg. 2)]\
@@ -106,3 +110,6 @@ Resources available for each chapter: **Audio books** （课文朗读）
 [Back to Top](#top)
 
 ----
+## Textbook Youtube Channels<a name="videos"></a>
+- [Cikgu Pung - 方老师](https://youtube.com/playlist?list=PLeyRyduWLbPmoUUKP_kPt-EnDFNt-9Qvt)
+

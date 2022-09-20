@@ -5,12 +5,15 @@ feature_text: |
 feature_image: "/SRJKC_resources/assets/images/BC_3_cover1.png"
 excerpt: "Resource centre for Bahasa Cina Tahun 3 text book"
 ---
-Resources available for each chapter: **Audio books** （课文朗读）\
-***Pinyin**（拼音注音） and **Translation (into English)**（英文翻译）are coming soon.*
+- **Textbook**: [Audio books （课文朗读)](#textbook)
+- Other sources:
+  - Textbook Youtube Channels: [List of Youtube links](#videos)
+  - Workbook reference answers: [List of Facebook posts and Youtube links](#workbook)
 
-{% include button.html text="Share" icon="facebook" link="https://www.facebook.com/sharer/sharer.php?u=https://multilingual-malaysian.github.io/SRJKC_resources/year3/" color="#0366d6" target="_blank" %}  {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %}
+<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fmultilingual-malaysian.github.io%2FSRJKC_resources%2Fyear2%2F&width=174&layout=button_count&action=like&size=large&share=true&height=46&appId" width="174" height="46" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 **Note: Chapters 1 - 13 will be made available soon**\
+***Pinyin**（拼音注音） and **Translation (into English)**（英文翻译）are coming soon.*\
 <!--
 [1. 上学的路 (pg. 2)] - *coming soon*\
 [2. 魔豆传心意 (pg. 7)] - *coming soon*\
@@ -159,4 +162,15 @@ Resources available for each chapter: **Audio books** （课文朗读）\
 
 **PDF**:
 [Back to Top](#top)
+
 ----
+## Textbook Youtube Channels<a name="videos"></a>
+- [教育小课堂WING老师](https://youtube.com/playlist?list=PLLQYH_wAFVF8sRReEBoP89VI28g2gJCvD)
+- [YH Channel](https://youtube.com/playlist?list=PL5o5V0axbg-PS8YuCWNlDhsCauAxMY3Py)
+- [Teacher Kon](https://youtube.com/playlist?list=PLjI8qVK2iMkVZdRY3irrjAjewd0aNEi3N)
+
+## Workbook reference answers<a name="workbook"></a>
+- Facebook posts
+
+- Youtube Channels
+

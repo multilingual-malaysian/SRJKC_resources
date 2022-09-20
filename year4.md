@@ -144,3 +144,15 @@ Resources available for each chapter: **Audio books** （课文朗读）
 [Back to Top](#top)
 
 ----
+## Textbook Youtube Channels<a name="videos"></a>
+- [YH Channel](https://youtube.com/playlist?list=PL5o5V0axbg-Or43lcH_sS59Ncqh4a20cy)
+- [教育小课堂WING老师](https://youtube.com/playlist?list=PLLQYH_wAFVF8IgoWzYMBhoMIgiZelIkBA)
+- [Teacher Kon](https://youtube.com/playlist?list=PLjI8qVK2iMkVZdRY3irrjAjewd0aNEi3N)
+
+## Workbook reference answers<a name="workbook"></a>
+- Facebook posts
+  - [海洋教育Ocean Education Jilid 1](https://www.facebook.com/103156078242684/posts/129560802268878/)
+  - [海洋教育Ocean Education Jilid 2](https://www.facebook.com/ocedu.co/posts/151268180098140/)
+- Youtube Channels
+  - [一起学 YiQiXue](https://youtube.com/playlist?list=PLQyq8ZxexxExkAKD7CNHh5SGz84ebl5I-)
+  - [KITTY CHU 老师](https://youtube.com/playlist?list=PLN6YLweGbzq4PrbsAfLj6LZgMFJlfBeK2)

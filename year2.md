@@ -232,6 +232,7 @@ excerpt: "Resource centre for Bahasa Cina Tahun 2 text book"
 - [Cikgu Ng](https://youtube.com/playlist?list=PLKYCXlOUDDOtQOTVPKB1jTBfncTSkik4Z)
 - [T.L.H](https://youtube.com/playlist?list=PLGzns5GCP8N8ahwKlJ5ZxrRzQSJxI7YSk)
 - [看一看Channel](https://youtube.com/playlist?list=PLEXNmzdhnfzDQ7Br-hCKlleHWzvpgyNv7)
+- [教育小课堂WING老师](https://youtube.com/playlist?list=PLLQYH_wAFVF8Q2oPXUCi0fpP_2z7-5teO)
 
 ## Workbook reference answers<a name="workbook"></a>
 - Facebook posts

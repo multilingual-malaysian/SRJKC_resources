@@ -5,13 +5,14 @@ feature_text: |
 feature_image: "/SRJKC_resources/assets/images/BC_2_cover.png"
 excerpt: "Resource centre for Bahasa Cina Tahun 2 text book"
 ---
-Resources available for each chapter: **Audio books** （课文朗读）\
-***Pinyin**（拼音注音） and **Translation (into English)**（英文翻译）are coming soon.*
 
-{% include button.html text="Share" icon="facebook" link="https://www.facebook.com/sharer/sharer.php?u=https://multilingual-malaysian.github.io/SRJKC_resources/year2/" color="#0366d6" target="_blank" %} 
-
+- **Textbook**: [Audio books （课文朗读)](#textbook)
+- Other sources:
+  - Textbook Youtube Channels: [List of Youtube links](#videos)
+  - Workbook reference answers: [List of Facebook posts and Youtube links](#workbook)
 
 **Note: Chapters 1 - 12 will be made available soon**\
+***Pinyin**（拼音注音） and **Translation (into English)**（英文翻译）are coming soon.*
 <!--
 [识字一　我的小天地 （pg. 1]\
 [1.1 我们的校园故事 (pg. 2)]\
@@ -224,3 +225,22 @@ Resources available for each chapter: **Audio books** （课文朗读）\
 [Back to Top](#top)
 
 ----
+## Textbook Youtube Channels<a name="videos"></a>
+- [张小婷](https://www.youtube.com/channel/UC6hPxFH8ofK_iQTc7LYwb6w/videos)
+- [Mindy Loves Teaching](https://youtube.com/playlist?list=PLY9WUpQrX74Bl5b4ja8CkDNu2S9T4Tis5)
+- [芊芊](https://www.youtube.com/channel/UCcpCDUyYCgfBesihAKcYAWQ/videos)
+- [语文 & 科学学习](https://www.youtube.com/channel/UCkn65TfV5rUgQ73snN8rWQw/playlists)
+- [小田园 - 课文写字版](https://youtube.com/playlist?list=PLnXRJJkppsMOZIxJuPcvCbCRHl-g2s-SE)
+
+## Workbook reference answers<a name="workbook"></a>
+- Facebook posts
+  - [快乐学习网上教育 Jilid 1](https://www.facebook.com/102603841643062/posts/142725344297578)
+  - [快乐学习网上教育 Jilid 2](https://m.facebook.com/permalink.php?id=102603841643062&story_fbid=144286497474796)
+  - [海洋教育Ocean Education Jilid 1](https://www.facebook.com/ocedu.co/posts/126557369235888/))
+  - [海洋教育Ocean Education Jilid 2](https://www.facebook.com/ocedu.co/posts/126557369235888/)
+- Youtube Channels
+  - [一起学 YiQiXue](https://youtube.com/playlist?list=PLQyq8ZxexxEzjW6LbD7b5r9DSNNMW0aj2)
+  - [Mmm Doodly Jilid 1](https://youtu.be/nTLnzUXU7zk)
+  - [Mmm Doodly Jilid 2](https://youtu.be/G9HVvzhPtTk)
+  - [E Answer Space Jilid 1](https://youtu.be/y9ME4i88BMU)
+  - [E Answer Space Jilid 2](https://youtu.be/0BVcgXpZr_4)

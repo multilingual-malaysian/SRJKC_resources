@@ -11,7 +11,6 @@ excerpt: "Resource centre for Bahasa Cina Tahun 1 text book"
   - Textbook Youtube Channels: [List of Youtube links](#videos)
   - Workbook reference answers: [List of Facebook posts and Youtube links](#workbook)
 
-
 <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fmultilingual-malaysian.github.io%2FSRJKC_resources%2Fyear1%2F&width=174&layout=button_count&action=like&size=large&share=true&height=46&appId" width="174" height="46" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 
@@ -312,12 +311,13 @@ excerpt: "Resource centre for Bahasa Cina Tahun 1 text book"
 - [芊芊](https://www.youtube.com/channel/UCcpCDUyYCgfBesihAKcYAWQ/videos)
 - [语文 & 科学学习](https://www.youtube.com/channel/UCkn65TfV5rUgQ73snN8rWQw/playlists)
 - [小田园 - 课文写字版](https://youtube.com/playlist?list=PLnXRJJkppsMOZIxJuPcvCbCRHl-g2s-SE)
+- [T.L.H](https://youtube.com/playlist?list=PLGzns5GCP8N8ouUUCxSnGe8vD8KEH13R7)
 
 ## Workbook reference answers<a name="workbook"></a>
 - Facebook posts
   - [快乐学习网上教育 Jilid 1](https://www.facebook.com/102603841643062/posts/142725344297578)
   - [快乐学习网上教育 Jilid 2](https://m.facebook.com/permalink.php?id=102603841643062&story_fbid=144286497474796)
-  - [海洋教育Ocean Education Jilid 1](https://www.facebook.com/ocedu.co/posts/126557369235888/))
+  - [海洋教育Ocean Education Jilid 1](https://www.facebook.com/ocedu.co/posts/126557369235888/)
   - [海洋教育Ocean Education Jilid 2](https://www.facebook.com/ocedu.co/posts/126557369235888/)
 - Youtube Channels
   - [一起学 YiQiXue](https://youtube.com/playlist?list=PLQyq8ZxexxEzjW6LbD7b5r9DSNNMW0aj2)

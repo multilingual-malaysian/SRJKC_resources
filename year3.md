@@ -171,6 +171,8 @@ excerpt: "Resource centre for Bahasa Cina Tahun 3 text book"
 
 ## Workbook reference answers<a name="workbook"></a>
 - Facebook posts
-
+  - [海洋教育Ocean Education Jilid 1](https://www.facebook.com/103156078242684/posts/129560802268878/)
+  - [海洋教育Ocean Education Jilid 2](https://www.facebook.com/ocedu.co/posts/151268180098140/)
 - Youtube Channels
-
+  - [一起学 YiQiXue](https://youtube.com/playlist?list=PLQyq8ZxexxExkAKD7CNHh5SGz84ebl5I-)
+  - [KITTY CHU 老师](https://youtube.com/playlist?list=PLN6YLweGbzq4PrbsAfLj6LZgMFJlfBeK2)

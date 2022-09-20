@@ -6,9 +6,10 @@ feature_image: "/SRJKC_resources/assets/images/BC_1_cover.png"
 excerpt: "Resource centre for Bahasa Cina Tahun 1 text book"
 ---
 
-- **Textbook**: [Audio books （课文朗读), Pinyin（拼音注音）and Translation (into English)（英文翻译）](#textbook) 
-- Textbook Youtube Channels: [List of Youtube links](#videos)
-- Workbook reference answers: [List of Facebook posts and Youtube links](#workbook)
+- **Textbook**: [Audio books （课文朗读), Pinyin（拼音注音）and Translation (into English)（英文翻译）](#textbook) \
+- Other sources:
+  - Textbook Youtube Channels: [List of Youtube links](#videos)
+  - Workbook reference answers: [List of Facebook posts and Youtube links](#workbook)
 
 
 <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fmultilingual-malaysian.github.io%2FSRJKC_resources%2Fyear1%2F&width=174&layout=button_count&action=like&size=large&share=true&height=46&appId" width="174" height="46" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>

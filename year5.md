@@ -5,13 +5,14 @@ feature_text: |
 feature_image: "/SRJKC_resources/assets/images/BC_5_cover.png"
 excerpt: "Resource centre for Bahasa Cina Tahun 5 text book"
 ---
-Resources available for each chapter: **Audio books** （课文朗读）\
-***Pinyin**（拼音注音） and **Translation (into English)**（英文翻译）are coming soon.*
+- **Textbook**: [Audio books （课文朗读)](#textbook)
+- Other sources:
+  - Textbook Youtube Channels: [List of Youtube links](#videos)
 
-{% include button.html text="Share" icon="facebook" link="https://www.facebook.com/sharer/sharer.php?u=https://multilingual-malaysian.github.io/SRJKC_resources/year5/" color="#0366d6" target="_blank" %}  {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %}
+<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fmultilingual-malaysian.github.io%2FSRJKC_resources%2Fyear4%2F&width=174&layout=button_count&action=like&size=large&share=true&height=46&appId" width="174" height="46" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 **Note: Chapters 1 - 10 will be made available soon**\
-
+***Pinyin**（拼音注音） and **Translation (into English)**（英文翻译）are coming soon.*\
 <!--
 [单元一 蜕变之旅]\
 [1. 实力会说话 (pg. 3)]\
@@ -153,4 +154,9 @@ Resources available for each chapter: **Audio books** （课文朗读）\
 [Back to Top](#top)
 
 ----
-
+## Textbook Youtube Channels<a name="videos"></a>
+- [YH Channel](https://youtube.com/playlist?list=PL5o5V0axbg-OHJ7A9EjH-w758iwJszXoC)
+- [VenusOoi 美丽老师](https://youtube.com/playlist?list=PL4gfU1R9rYSGomUMo9eDc3pFxMBecEZhg)
+- [AppsLearn Studio](https://youtube.com/playlist?list=PL3Y7BEk2qJAs_q0X_6Krk3dIkpV-hUKV7)
+- [Cikgu Pung - 方老师](https://youtube.com/playlist?list=PLeyRyduWLbPmOkTqMRNtO5pqD-eW0FjfZ)
+- [ST Learning](https://youtube.com/playlist?list=PLWHj6qMvhaStSIZ2ZYv3vjPTAmXrOlrmy)

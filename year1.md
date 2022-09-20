@@ -308,6 +308,10 @@ excerpt: "Resource centre for Bahasa Cina Tahun 1 text book"
 ----
 ## Textbook Youtube Channels<a name="videos"></a>
 - [张小婷](https://www.youtube.com/channel/UC6hPxFH8ofK_iQTc7LYwb6w/videos)
+- [Mindy Loves Teaching](https://youtube.com/playlist?list=PLY9WUpQrX74Bl5b4ja8CkDNu2S9T4Tis5)
+- [芊芊](https://www.youtube.com/channel/UCcpCDUyYCgfBesihAKcYAWQ/videos)
+- [语文 & 科学学习](https://www.youtube.com/channel/UCkn65TfV5rUgQ73snN8rWQw/playlists)
+- [小田园 - 课文写字版](https://youtube.com/playlist?list=PLnXRJJkppsMOZIxJuPcvCbCRHl-g2s-SE)
 
 ## Workbook reference answers<a name="workbook"></a>
 - Facebook posts

@@ -245,3 +245,4 @@ excerpt: "Resource centre for Bahasa Cina Tahun 2 text book"
   - [Mmm Doodly Jilid 2](https://youtu.be/AeoMa2D2bzE)
   - [Pusat Tuisyen Bijak Ria智明安亲补习班](https://youtu.be/IUv5EygefUo)
   - [LEE WEN KIT KPM-Guru](https://www.youtube.com/channel/UC0Ij1ISeSOw2x0RNIVZKChA/videos)
+  - [KITTY CHU 老师](https://youtube.com/playlist?list=PLN6YLweGbzq4XGTBU2RNwl8D3c2NsGl5O)

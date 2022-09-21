@@ -9,6 +9,7 @@ aside:
 ---
 
 [![HitCount](https://hits.dwyl.com/multilingual-malaysian/SRJKC_resources.svg?style=flat-square)](http://hits.dwyl.com/multilingual-malaysian/SRJKC_resources)
+[![HitCount](https://hits.dwyl.com/multilingual-malaysian/SRJKC_resources.svg?style=flat)](http://hits.dwyl.com/multilingual-malaysian/SRJKC_resources)
 
 {% include figure.html image="/SRJKC_resources/assets/default-social-image-small.png" alt="SRJKC Resource Centre" %}
 

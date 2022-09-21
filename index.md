@@ -8,6 +8,8 @@ excerpt: "Resource centre for SRJKC Chinese Year 1 to Year 6"
 aside: 
 ---
 
+[![HitCount](https://hits.dwyl.com/multilingual-malaysian/SRJKC_resources.svg?style=flat-square)](http://hits.dwyl.com/multilingual-malaysian/SRJKC_resources)
+
 {% include figure.html image="/SRJKC_resources/assets/default-social-image-small.png" alt="SRJKC Resource Centre" %}
 
 I am researcher in Natural Language Processing (NLP), a field of applying Artificial Intelligence in Languages (both written and spoken). As such I am well aware of AI technologies that can be used to assist in education and in learning. Hence I have embarked on this journey to create extra resources to aid learning Chinese based on SRJCK textbooks.

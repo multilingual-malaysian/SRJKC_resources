@@ -5,6 +5,7 @@ feature_text: |
 feature_image: "/SRJKC_resources/assets/images/BC_1_cover.png"
 excerpt: "Resource centre for Bahasa Cina Tahun 1 text book"
 ---
+Number of visitors: [![HitCount](https://hits.dwyl.com/multilingual-malaysian/SRJKC_resources.svg?style=flat)](http://hits.dwyl.com/multilingual-malaysian/SRJKC_resources)
 
 - **Textbook**: [Audio books （课文朗读), Pinyin（拼音注音）and Translation (into English)（英文翻译）](#textbook)
 - Other sources:

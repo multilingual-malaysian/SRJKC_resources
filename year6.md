@@ -57,7 +57,7 @@ excerpt: "Resource centre for Bahasa Cina Tahun 6 text book"
 </object>
 -->
 
-[Back to Top](#top)
+[Back to Top](#textbook)
 
 ----
 #### 15. 巧儿绣龙 (pg. 111)<a name="15"></a>

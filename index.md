@@ -1,7 +1,7 @@
 ---
 title:
 feature_text: |
-  'SRJKC Resource Centre' is a place where you can get extra SRJKC textbook-related resources **free of charge**. 
+  'SRJKC Resource Centre' is a place where you can get extra SRJKC textbook-related resources **free of charge**. \ [![HitCount](https://hits.dwyl.com/multilingual-malaysian/SRJKC_resources.svg?style=flat)](http://hits.dwyl.com/multilingual-malaysian/SRJKC_resources)
   <a href="top"></a>
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Resource centre for SRJKC Chinese Year 1 to Year 6"

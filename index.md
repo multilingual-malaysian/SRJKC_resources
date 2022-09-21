@@ -33,21 +33,22 @@ Apart from my materials, I have also tabulated links to more resources prepared 
 目前只有华文课本的资源，有：
 - 课文朗读 (MP3 格式）
 - 课文加了拼音注音， 和英文的翻译 （PDF格式）
-在每一个年级， 我也提供了其他老师/家长/补习中心所准备的材料的link， 如：YouTube视频， 华文活动本的参考答案。
+
+在每一个年级的page里， 我也提供了其他老师/家长/补习中心所准备的材料的link， 如：YouTube视频， 华文活动本的参考答案。
 
 #### Other Translated Work
 Apart from this initiative, there are others who invested time and effort in translating SRJKC Chinese textbooks into Malay and into English + Malay. If you prefer a physical copy of the translations, you can purchase them from the respective authors (links below):
 - Pinyin + Malay Translation by ***mummy.sjkc.bookstore***. Link to the facebook page [here](https://www.facebook.com/search/top?q=mummy.sjkc.bookstore).
 - Pinyin + English / Malay / English + Malay (Tri-lingual) Translation by ***yumiisbookstore***. Link to the shopee store [here](https://shopee.com.my/yumiisbookstore).
 
-除了以上的材料， 值得一提的是市面上还有其他华文课本的翻译， 它们分别有马来文的翻译和马来文+英文的翻译。如果你要的是一本实体的书，你可以在以下的link里购买：
-- 拼音 + 马来文翻译。**mummy.sjkc.bookstore***， link [here](https://www.facebook.com/search/top?q=mummy.sjkc.bookstore).
-- 拼音 + 马来文/英文/ 马来文+英文翻译。 ***yumiisbookstore***，link [here](https://shopee.com.my/yumiisbookstore).
+除了以上的材料， 值得一提的是市面上还有**其他华文课本的翻译**， 它们分别有马来文的翻译和马来文+英文的翻译。如果你要的是一本实体的书，你可以在以下的link里购买：
+- 拼音 + 马来文翻译 by **mummy.sjkc.bookstore***， link [here](https://www.facebook.com/search/top?q=mummy.sjkc.bookstore).
+- 拼音 + 马来文/英文/ 马来文+英文翻译 by ***yumiisbookstore***，link [here](https://shopee.com.my/yumiisbookstore).
 
 #### If you spot any mistakes....
-I hope the materials are of use to you. The materials are prepared using AI applications, hence I cannot guarantee that they are 100% error free. If you spot any mistakes, you can report them by sending me the details (ie. which year, which page, what's the error) to multilingual.malaysian@gmail.com.
+I hope the materials are of use to you. The materials are prepared using AI applications, I have checked through the materials myself but cannot guarantee that they are 100% error free. If you spot any mistakes, you can report them by sending me the details (ie. which year, which page, what's the error) to multilingual.malaysian@gmail.com.
 Have fun learning!!
 
-我希望这些材料对你有帮助。材料是运用人工智能程序准备的， 所以我不能保障没有错误。如果有错误，请发有关资料去这个邮箱： multilingual.malaysian@gmail.com.
+我希望这些材料对你有帮助。材料是运用人工智能程序准备的，我有查阅过但是不能保障完全没有错误。如果有错误，请发有关资料去这个邮箱： multilingual.malaysian@gmail.com.
 祝你学习快乐。
 

@@ -188,14 +188,20 @@ excerpt: "Resource centre for Bahasa Cina Tahun 2 text book"
 #### 17.1 奇奇借时间 (pg. 117)]<a name="17.1"></a>
 **Audio book** （课文朗读）:
 <iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1342135168&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year2-171-pg-117" title="Year2 17.1 奇奇借时间 (pg. 117)" target="_blank" style="color: #cccccc; text-decoration: none;">Year2 17.1 奇奇借时间 (pg. 117)</a></div>
-**PDF**\
+**PDF with Pinyin and Translation**:
+<object data="/SRJKC_resources/doc/year2/17.1 奇奇借时间.pdf" type="application/pdf" width="700px" height="700px">
+   <embed src="/SRJKC_resources/doc/year2/17.1 奇奇借时间.pdf">
+        <p>Download the PDF to view: <a href="/SRJKC_resources/doc/year2/17.1 奇奇借时间.pdf"><img src="/SRJKC_resources/assets/images/pdf_icon.png" width="40" height="50"></a>.</p></object>
 [Back to Top](#top)
 
 ----
 #### 18.1 好事情 (pg. 121)]<a name="18.1"></a>
 **Audio book** （课文朗读）:
 <iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1342135753&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year2-181-pg-121" title="Year2 18.1 好事情 (pg. 121)" target="_blank" style="color: #cccccc; text-decoration: none;">Year2 18.1 好事情 (pg. 121)</a></div>
-**PDF**\
+**PDF with Pinyin and Translation**:
+<object data="/SRJKC_resources/doc/year2/18.1 好事情.pdf" type="application/pdf" width="700px" height="700px">
+   <embed src="/SRJKC_resources/doc/year2/18.1 好事情.pdf">
+        <p>Download the PDF to view: <a href="/SRJKC_resources/doc/year2/18.1 好事情.pdf"><img src="/SRJKC_resources/assets/images/pdf_icon.png" width="40" height="50"></a>.</p></object>
 [Back to Top](#top)
 
 ----

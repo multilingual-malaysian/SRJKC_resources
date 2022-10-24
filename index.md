@@ -26,7 +26,7 @@ Apart from my materials, I have also tabulated links to more resources prepared 
 在每一个年级的page里， 我也提供了其他老师/家长/补习中心所准备的材料的link， 如：YouTube视频， 华文活动本的参考答案。
 
 #### About the author
-I am currently a researcher in Natural Language Processing (NLP), a field of applying Artificial Intelligence in Languages (both written and spoken). As such I am well aware of AI technologies that can be used to assist in education and in learning. My children who are currently enrolled in a SRJKC school need extra help in learning Chinese because though ethnic Chinese, Mandarin Chinese is not their first language. Hence I have embarked on this journey to create extra resources to aid learning Chinese based on SRJCK textbooks. Happy to share the resources absolutely free and hope they benefit anyone who are on the same journey. Tuition teachers are welcome to use them but my only request is the materials remain **free** for your students. 
+I am currently a researcher in Natural Language Processing (NLP), a field of applying Artificial Intelligence in Languages (both written and spoken). As such I am well aware of AI technologies that can be used to assist in education and in learning. My children who are currently enrolled in a SRJKC school need extra help in learning Chinese because though ethnic Chinese, Mandarin Chinese is not their first language. To that end I have embarked on this journey to create extra resources to aid learning Chinese based on SRJCK textbooks. Happy to share the resources absolutely free and hope they benefit anyone who are on the same journey. Tuition teachers are welcome to use them but my only request is the materials remain **free** for your students. 
 
 <!--
 The tools that I have used are: 

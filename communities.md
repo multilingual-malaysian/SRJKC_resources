@@ -1,7 +1,7 @@
 ---
 title: Communities
 feature_text: |
-  Like-minded communities...
+  Like-minded communities...                          .
 feature_image: /SRJKC_resources/assets/images/fb_groups.jpg
 ---
 

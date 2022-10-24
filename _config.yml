@@ -103,7 +103,8 @@ lang: en-GB # Set the site language
 title: "SRJKC Resource Centre" # Site name or title, also used in jekyll-seo-tag
 ##logo: "/SRJKC_resources/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 logo: "/SRJKC_resources/assets/logos/site_logo.png" # Site logo, also used in jekyll-seo-tag
-description: "SRJKC Resource Centre is a site that contains a number of key resources to help students in learning Chinese. The resources are based on SRJKC Chinese Textbooks." # Site description and default description, also used in jekyll-seo-tag
+description: "SRJKC Resource Centre is a site that contains a number of key resources to help students in learning Chinese. The resources are based on SRJKC Chinese Textbooks. \
+Information about the author is this site can be found in the links below:" # Site description and default description, also used in jekyll-seo-tag
 url: "https://multilingual-malaysian.github.io/SRJKC_resources" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 email: "multilingual.malaysian@gmail.com"
@@ -149,13 +150,11 @@ navigation_header:
 
 navigation_footer:
 - title: Created by Multilingual Malaysian
-  #url: https://darn.es
 
 social_links: # Appears in sidebar - to be used to link to my researcher profile (at a later stage)
-  Twitter: https://twitter.com/meisin123
+  #Twitter: https://twitter.com/meisin123
   LinkedIn: https://www.linkedin.com/in/meisinlee
   GitHub: https://github.com/multilingual-malaysian
-  #link: https://darn.es
   RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour

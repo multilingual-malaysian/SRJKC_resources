@@ -103,7 +103,7 @@ lang: en-GB # Set the site language
 title: "SRJKC Resource Centre" # Site name or title, also used in jekyll-seo-tag
 ##logo: "/SRJKC_resources/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 logo: "/SRJKC_resources/assets/logos/site_logo.png" # Site logo, also used in jekyll-seo-tag
-description: "Multilingual Malaysian is a site ......." # Site description and default description, also used in jekyll-seo-tag
+description: "SRJKC Resource Centre is a site that contains a number of key resources to help students in learning Chinese. The resources are based on SRJKC Chinese Textbooks." # Site description and default description, also used in jekyll-seo-tag
 url: "https://multilingual-malaysian.github.io/SRJKC_resources" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 email: "multilingual.malaysian@gmail.com"

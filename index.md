@@ -13,7 +13,7 @@ Number of page visits: ![HitCount](https://hits.dwyl.com/multilingual-malaysian/
 
 #### What are the available resources?
 At this moment, the focus is on Chinese Year 1 to Year 6. For each year, there are:
-1. **Audio reading** of each chapter (mp3 - playable on the browser itself)
+1. **Audio reading** of each chapter (mp3 - playable on the browser itself and downloadable). 
 2. Original Chinese text with **Hanyu Pinyin** and **English translation** (PDF file - viewable on browser and downloadable).\
 In the future, more subjects might be added. 
 

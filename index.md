@@ -11,6 +11,8 @@ Number of page visits: ![HitCount](https://hits.dwyl.com/multilingual-malaysian/
 
 {% include figure.html image="/SRJKC_resources/assets/default-social-image-small.png" alt="SRJKC Resource Centre" %}
 
+SRJKC Resource Centre is a site that contains a number of key resources to help students in learning Chinese. The resources are based on SRJKC Chinese Textbooks.
+
 #### What are the available resources?
 At this moment, the focus is on Chinese Year 1 to Year 6. For each year, there are:
 1. **Audio reading** of each chapter (mp3 - playable on the browser itself and downloadable). 

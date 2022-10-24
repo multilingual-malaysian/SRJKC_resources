@@ -104,7 +104,7 @@ title: "SRJKC Resource Centre" # Site name or title, also used in jekyll-seo-tag
 ##logo: "/SRJKC_resources/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 logo: "/SRJKC_resources/assets/logos/site_logo.png" # Site logo, also used in jekyll-seo-tag
 description: "SRJKC Resource Centre is a site that contains a number of key resources to help students in learning Chinese. The resources are based on SRJKC Chinese Textbooks. \
-Information about the author is this site can be found in the links below:" # Site description and default description, also used in jekyll-seo-tag
+Information about the author of this site can be found in the links below:" # Site description and default description, also used in jekyll-seo-tag
 url: "https://multilingual-malaysian.github.io/SRJKC_resources" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 email: "multilingual.malaysian@gmail.com"

@@ -6,7 +6,8 @@ feature_image: "/SRJKC_resources/assets/images/BC_1_cover.png"
 excerpt: "Resource centre for Bahasa Cina Tahun 1 text book"
 ---
 
-- **Textbook**: [Audio books （课文朗读), Pinyin（拼音注音）and Translation (into English)（英文翻译）](#textbook)
+- [Textbook Audio books 课文朗读](#audio)
+- [Textbook Pinyin 拼音注音 + English Translation 英文翻译](#pinyin)
 - Other sources:
   - Textbook Youtube Channels: [List of Youtube links](#videos)
   - Workbook reference answers: [List of Facebook posts and Youtube links](#workbook)
@@ -19,11 +20,11 @@ excerpt: "Resource centre for Bahasa Cina Tahun 1 text book"
 {% include button.html text="Share" icon="facebook" link="https://www.facebook.com/sharer/sharer.php?u=https://multilingual-malaysian.github.io/SRJKC_resources/year1/" color="#0366d6" target="_blank" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://multilingual-malaysian.github.io/SRJKC_resources/year1/&text=SRJKC%20Chinese%20Year%201%20Resources%20(%20Audio%20Books,%20PinYin%20and%20Translation%20)" color="#0d94e7" %}
 -->
 
-## Textbook <a name="textbook"></a>
+## Textbook Audio <a name="audio"></a>
 ***Note: Chapters 1 - 13 will be made available soon***\
 <iframe width="100%" height="600" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1494661288&color=%23626363&auto_play=false&hide_related=false&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/sets/srjkc-chinese-year-1" title="SRJKC Chinese Year 1" target="_blank" style="color: #cccccc; text-decoration: none;">SRJKC Chinese Year 1</a></div>
 
-***Pinyin**（拼音注音） and **Translation (into English)**（英文翻译）are coming soon.*\
+## Pinyin 拼音注音 + English Translation 英文翻译<a name="pinyin"></a>
 <!--- 
 [识字一 (pg. 1)] *coming soon*\
 [1.1 上学了 (pg. 2)] *coming soon*\
@@ -62,7 +63,7 @@ excerpt: "Resource centre for Bahasa Cina Tahun 1 text book"
 [13.1 手影 (pg. 81)] *coming soon*\
 [13.2 一把大雨伞 (pg. 83)]\
 -->
-[14.1 我想要的鞋子 (pg. 87)](#14.1)\
+<a href="/SRJKC_resources/doc/year1/14.1 我想要的鞋子.pdf">14.1 我想要的鞋子 (pg. 87)</a>
 [14.2 蝴蝶在读香喷喷的报纸 (pg. 88)](#14.2)\
 [深广课文(7) 月牙船 (pg. 91)](#additional7)\
 [15 圆圆歌 (pg. 92)](#15)\

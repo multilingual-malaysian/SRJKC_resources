@@ -72,13 +72,14 @@ excerpt: "Resource centre for Bahasa Cina Tahun 2 text book"
 <a href="/SRJKC_resources/doc/year2/17.1 奇奇借时间.pdf" target="_blank">17.1 奇奇借时间 (pg. 117)</a>\
 <a href="/SRJKC_resources/doc/year2/18.1 好事情.pdf" target="_blank">18.1 好事情 (pg. 121)</a>\
 <a href="/SRJKC_resources/doc/year2/深广课文(9) 渡轮.pdf" target="_blank">深广课文(9) 渡轮 (pg. 125)</a>
-
-[19. 美丽的夜市 (pg. 130)](#19.1)\
-[20. 会说话的灯 (pg. 135)](#20.1)\
-[深广课文(10) 萤火虫和星星 (pg. 139)](#additional10)\
-[21. 回家的脚印 (pg. 141)](#21.1)\
-[22. 百宝箱 (pg. 148)](#22.1)\
-[深广课文(11) 世界很小又很大 (pg. 152)](#additional11)
+<!--
+19. 美丽的夜市 (pg. 130)\
+20. 会说话的灯 (pg. 135)\
+深广课文(10) 萤火虫和星星 (pg. 139)\
+21. 回家的脚印 (pg. 141)\
+22. 百宝箱 (pg. 148)\
+深广课文(11) 世界很小又很大 (pg. 152)
+-->
 
 [Back to Top](#top)
 
@@ -102,3 +103,5 @@ excerpt: "Resource centre for Bahasa Cina Tahun 2 text book"
   - [Pusat Tuisyen Bijak Ria智明安亲补习班](https://youtu.be/IUv5EygefUo)
   - [LEE WEN KIT KPM-Guru](https://www.youtube.com/channel/UC0Ij1ISeSOw2x0RNIVZKChA/videos)
   - [KITTY CHU 老师](https://youtube.com/playlist?list=PLN6YLweGbzq4XGTBU2RNwl8D3c2NsGl5O)
+
+[Back to Top](#top)

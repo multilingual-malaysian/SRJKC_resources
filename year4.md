@@ -34,7 +34,8 @@ _Note: Chapters 1 - 9 will be made available soon_
 [8.  牵动人心的椰子 (pg. 54)] - *coming soon*\
 [9. 表弟来了 (pg. 61)] - *coming soon*\
 -->
-<a href="/SRJKC_resources/doc/BC_4_Passage10.pdf" target="_blank">10. 宽大为怀 (pg. 70)</a>\
+<a href="/SRJKC_resources/doc/BC_4_Passage10.pdf" target="_blank">10. 宽大为怀 (pg. 70)</a>
+<!--
 单元三 - 探秘之旅\
 11. 卑微里的大力量 (pg. 78)\
 12. 伽利略的落体实验 (pg. 86)\
@@ -47,7 +48,7 @@ _Note: Chapters 1 - 9 will be made available soon_
 18. 框住美景 (pg. 129)\
 19. 稻香 (pg. 136)\
 20. 鼓声的召唤 (pg. 145)
-
+-->
 [Back to Top](#top)
 
 ----

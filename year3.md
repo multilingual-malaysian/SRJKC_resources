@@ -5,13 +5,15 @@ feature_text: |
 feature_image: "/SRJKC_resources/assets/images/BC_3_cover1.png"
 excerpt: "Resource centre for Bahasa Cina Tahun 3 text book"
 ---
+![HitCount](https://hits.dwyl.com/multilingual-malaysian/SRJKC_resources.svg?style=flat)
+
 - [Textbook Audio books （课文朗读)](#audio)
 - [Textbook Pinyin 拼音注音 + English Translation 英文翻译](#pinyin)
 - Other sources:
   - Textbook Youtube Channels: [List of Youtube links](#videos)
   - Workbook reference answers: [List of Facebook posts and Youtube links](#workbook)
 
-![HitCount](https://hits.dwyl.com/multilingual-malaysian/SRJKC_resources.svg?style=flat)
+
 <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fmultilingual-malaysian.github.io%2FSRJKC_resources%2Fyear3%2F&width=174&layout=button_count&action=like&size=large&share=true&height=46&appId" width="174" height="46" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 ### Textbook Audio <a name="audio"></a>
@@ -44,11 +46,13 @@ _Note: Chapters 1 - 13 will be made available soon_
 [17. 争吵 (pg. 106)](#17)\
 -->
 <a href="/SRJKC_resources/doc/year3/18.1 草的告白.pdf" target="_blank">18.1. 草的告白 (pg. 111)</a>\
+<!--
 18.2. 自然界的时钟 (pg. 113)\
 19.1 建筑界的长颈鹿 (pg. 117)\
 19.3 安顺斜塔 (pg. 121)\
 20.1 不一样的表演 (pg. 123)\
 20.2 特别任务 (pg. 125)
+-->
 
 [Back to Top](#top)
 

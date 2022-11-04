@@ -104,9 +104,7 @@ title: "SRJKC Resource Centre" # Site name or title, also used in jekyll-seo-tag
 ##logo: "/SRJKC_resources/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 logo: "/SRJKC_resources/assets/logos/site_logo.png" # Site logo, also used in jekyll-seo-tag
 description: "Like most Malaysians, the author is a multilingual Malaysian who speaks multiple languages. Being multilingual is a great strength that Malaysians can 
-boast. She hopes that the resources here can help students learn better with the help of another language (in this case - learning Chinese with the help of translation in English). Research has shown that the more language you know, 
-the easier to learn another one.  -----------------------
-
+boast. Research has shown that the more language you know, the easier to learn another one. In this case, she hopes the materials here (eg. english translation) can help students who are in SRJKCs learn Chinese more effectively.   -----------------------
 
 The author holds a doctorate degree from Monash University, her area of research is in Natural Language Processing (NLP), it is a field of applying Artificial Intelligence in both spoken and written languages." # Site description and default description, also used in jekyll-seo-tag
 url: "https://multilingual-malaysian.github.io/SRJKC_resources" # Site url, also used in jekyll-seo-tag

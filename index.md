@@ -54,7 +54,6 @@ Apart from this initiative, there are others who invested time and effort in tra
 除了以上的材料， 值得一提的是市面上还有**其他华文课本的翻译**， 它们分别有马来文的翻译和马来文+英文的翻译。如果你要的是一本实体的书，你可以在以下的link里购买：
 - 拼音 + 马来文翻译 by **mummy.sjkc.bookstore***， link [here](https://www.facebook.com/search/top?q=mummy.sjkc.bookstore).
 - 拼音 + 马来文/英文/ 马来文+英文翻译 by ***yumiisbookstore***，link [here](https://shopee.com.my/yumiisbookstore).
--
 
 
 

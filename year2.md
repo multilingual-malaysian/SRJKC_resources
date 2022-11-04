@@ -73,6 +73,7 @@ excerpt: "Resource centre for Bahasa Cina Tahun 2 text book"
 <a href="/SRJKC_resources/doc/year2/17.1 奇奇借时间.pdf" target="_blank">17.1 奇奇借时间 (pg. 117)</a>\
 <a href="/SRJKC_resources/doc/year2/18.1 好事情.pdf" target="_blank">18.1 好事情 (pg. 121)</a>\
 <a href="/SRJKC_resources/doc/year2/深广课文(9) 渡轮.pdf" target="_blank">深广课文(9) 渡轮 (pg. 125)</a>
+
 <!--
 19. 美丽的夜市 (pg. 130)\
 20. 会说话的灯 (pg. 135)\

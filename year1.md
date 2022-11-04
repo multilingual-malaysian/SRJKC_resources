@@ -22,7 +22,7 @@ excerpt: "Resource centre for Bahasa Cina Tahun 1 text book"
 
 ### Textbook Audio <a name="audio"></a>
 ***Note: Chapters 1 - 13 will be made available soon***\
-<iframe width="100%" height="500" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1494661288&color=%23626363&auto_play=false&hide_related=false&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/sets/srjkc-chinese-year-1" title="SRJKC Chinese Year 1" target="_blank" style="color: #cccccc; text-decoration: none;">SRJKC Chinese Year 1</a></div>
+<iframe width="100%" height="600" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1494661288&color=%23626363&auto_play=false&hide_related=false&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/sets/srjkc-chinese-year-1" title="SRJKC Chinese Year 1" target="_blank" style="color: #cccccc; text-decoration: none;">SRJKC Chinese Year 1</a></div>
 [Back to Top](#top)
 
 ### Pinyin 拼音注音 + English Translation 英文翻译 (PDF File) <a name="pinyin"></a>
@@ -68,10 +68,9 @@ excerpt: "Resource centre for Bahasa Cina Tahun 1 text book"
 <a href="/SRJKC_resources/doc/year1/14.2 蝴蝶在读香喷喷的报纸.pdf" target="_blank">14.2 蝴蝶在读香喷喷的报纸 (pg. 88)</a>\
 <a href="/SRJKC_resources/doc/year1/深广课文(7) 月牙船.pdf" target="_blank">深广课文(7) 月牙船 (pg. 91)</a>\
 <a href="/SRJKC_resources/doc/year1/15 圆圆歌.pdf" target="_blank">15 圆圆歌 (pg. 92)</a>\
-
-[15.1 红红的气球 (pg. 93)](#15.1)\
-[15.2 花角鹿 (pg. 95)](#15.2)\
-[16.1 我不怕黑 (pg. 100)](#16.1)\
+<a href="/SRJKC_resources/doc/year1/15.1 红红的气球.pdf" target="_blank">15.1 红红的气球 (pg. 93)</a>\
+<a href="/SRJKC_resources/doc/year1/15.2 花角鹿.pdf" target="_blank">15.2 花角鹿 (pg. 95)</a>\
+<a href="/SRJKC_resources/doc/year1/16.1 我不怕黑.pdf" target="_blank">16.1 我不怕黑 (pg. 100)</a>\
 [16.2 我不想生气 (pg. 102)](#16.2)\
 [深广课文(8)　蓝蜻蜓和小青蛙 (pg. 105)](#additional8)\
 [识字五 (pg. 107)](#words5)\
@@ -92,45 +91,6 @@ excerpt: "Resource centre for Bahasa Cina Tahun 1 text book"
 [22.2 我也跟着做 (pg. 148)](#22.2)\
 [深广课文(11) 错在哪里 (pg. 151)](#additional11)
 
-
-
-
-#### 15.1 红红的气球<a name="15.1"></a>(pg. 93)
-**Audio book** （课文朗读）:
-<iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1341590158&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year1-151" title="Year1 15.1 红红的气球" target="_blank" style="color: #cccccc; text-decoration: none;">Year1 15.1 红红的气球</a></div>
-**PDF with Pinyin and Translation**:
-<object data="/SRJKC_resources/doc/year1/15.1 红红的气球.pdf" type="application/pdf" width="700px" height="700px">
-   <embed src="/SRJKC_resources/doc/year1/15.1 红红的气球.pdf">
-        <p>Download the PDF to view: <a href="/SRJKC_resources/doc/year1/15.1 红红的气球.pdf"><img src="/SRJKC_resources/assets/images/pdf_icon.png" width="40" height="50"></a>.</p></object>
-[Back to Top](#textbook)
-
-----
-#### 15.2 花角鹿<a name="15.2"></a>(pg. 95)
-**Audio book** （课文朗读）:
-<iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1341590347&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year1-152" title="Year1 15.2 花角鹿" target="_blank" style="color: #cccccc; text-decoration: none;">Year1 15.2 花角鹿</a></div>
-**PDF with Pinyin and Translation**:
-<object data="/SRJKC_resources/doc/year1/15.2 花角鹿.pdf" type="application/pdf" width="700px" height="700px">
-   <embed src="/SRJKC_resources/doc/year1/15.2 花角鹿.pdf">
-        <p>Download the PDF to view: <a href="/SRJKC_resources/doc/year1/15.2 花角鹿.pdf"><img src="/SRJKC_resources/assets/images/pdf_icon.png" width="40" height="50"></a>.</p></object>
-[Back to Top](#textbook)
-
-----
-#### 16.1 我不怕黑<a name="16.1"></a>(pg. 100)
-**Audio book** （课文朗读）:
-<iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1341278848&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year1-161" title="Year1 16.1 我不怕黑" target="_blank" style="color: #cccccc; text-decoration: none;">Year1 16.1 我不怕黑</a></div>
-**PDF with Pinyin and Translation**:
-<object data="/SRJKC_resources/doc/year1/16.1 我不怕黑.pdf" type="application/pdf" width="700px" height="700px">
-   <embed src="/SRJKC_resources/doc/year1/16.1 我不怕黑.pdf">
-        <p>Download the PDF to view: <a href="/SRJKC_resources/doc/year1/16.1 我不怕黑.pdf"><img src="/SRJKC_resources/assets/images/pdf_icon.png" width="40" height="50"></a>.</p></object>
-[Back to Top](#textbook)
-
-----
-#### 16.2 我不想生气<a name="16.2"></a>(pg. 102)
-**Audio book** （课文朗读）:
-<iframe width="70%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1341279187&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/year1-162" title="Year1 16.2 我不想生气" target="_blank" style="color: #cccccc; text-decoration: none;">Year1 16.2 我不想生气</a></div>
-
-**PDF**:\
-[Back to Top](#textbook)
 
 ----
 ####深广课文(8)　蓝蜻蜓和小青蛙<a name="additional8"></a>(pg. 105)

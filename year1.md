@@ -71,6 +71,7 @@ excerpt: "Resource centre for Bahasa Cina Tahun 1 text book"
 <a href="/SRJKC_resources/doc/year1/15.1 红红的气球.pdf" target="_blank">15.1 红红的气球 (pg. 93)</a>\
 <a href="/SRJKC_resources/doc/year1/15.2 花角鹿.pdf" target="_blank">15.2 花角鹿 (pg. 95)</a>\
 <a href="/SRJKC_resources/doc/year1/16.1 我不怕黑.pdf" target="_blank">16.1 我不怕黑 (pg. 100)</a>\
+<!--
 16.2 我不想生气 (pg. 102)\
 深广课文(8)　蓝蜻蜓和小青蛙 (pg. 105)\
 识字五 (pg. 107)\
@@ -90,6 +91,7 @@ excerpt: "Resource centre for Bahasa Cina Tahun 1 text book"
 22.1 谁没长大 (pg. 146)\
 22.2 我也跟着做 (pg. 148)\
 深广课文(11) 错在哪里 (pg. 151)
+-->
 
 [Back to Top](#top)
 

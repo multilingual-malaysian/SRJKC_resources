@@ -46,8 +46,8 @@ _Note: Chapters 1 - 13 will be made available soon_
 [17. 争吵 (pg. 106)](#17)\
 -->
 <a href="/SRJKC_resources/doc/year3/18.1 草的告白.pdf" target="_blank">18.1. 草的告白 (pg. 111)</a>\
+<a href="/SRJKC_resources/doc/year3/18.2 自然界的时钟.pdf" target="_blank">18.2. 自然界的时钟 (pg. 113)</a>\
 <!--
-18.2. 自然界的时钟 (pg. 113)\
 19.1 建筑界的长颈鹿 (pg. 117)\
 19.3 安顺斜塔 (pg. 121)\
 20.1 不一样的表演 (pg. 123)\

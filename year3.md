@@ -49,8 +49,8 @@ _Note: Chapters 1 - 13 will be made available soon_
 <a href="/SRJKC_resources/doc/year3/18.2 自然界的时钟.pdf" target="_blank">18.2. 自然界的时钟 (pg. 113)</a>\
 <a href="/SRJKC_resources/doc/year3/19. 建筑界的长颈鹿.pdf" target="_blank">19.1 建筑界的长颈鹿 (pg. 117)</a>\
 <a href="/SRJKC_resources/doc/year3/19.3 安顺斜塔.pdf" target="_blank">19.3 安顺斜塔 (pg. 121)</a>\
+<a href="/SRJKC_resources/doc/year3/20.1 不一样的表演.pdf" target="_blank">20.1 不一样的表演 (pg. 123)</a>\
 <!--
-20.1 不一样的表演 (pg. 123)\
 20.2 特别任务 (pg. 125)
 -->
 

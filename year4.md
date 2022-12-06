@@ -45,7 +45,7 @@ _Note: Chapters 1 - 9 will be made available soon_
 19. 稻香 (pg. 136)\
 20. 鼓声的召唤 (pg. 145)
 -->
-<a href="/SRJKC_resources/doc/year4/18. 框住美景.pdf" target="_blank">18. 框住美景 (pg. 129)</a>
+<a href="/SRJKC_resources/doc/year4/18. 框住美景.pdf" target="_blank">18. 框住美景 (pg. 129)</a>\
 [Back to Top](#top)
 
 ----

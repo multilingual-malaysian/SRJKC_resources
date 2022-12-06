@@ -27,15 +27,11 @@ _Note: Chapters 1 - 9 will be made available soon_
 [3. 颂赞温情 (pg. 17)] - *coming soon*\
 [4. 桃园结义 (pg. 22)] - *coming soon*\
 [5.  蚊帐大使 (pg. 28)] - *coming soon*
-
 [单元二 - 生活之旅 (pg. )] - *coming soon*\
 [6. 亲近传统游戏 (pg. 39)] - *coming soon*\
 [7. 数学王子 (pg. 46)] - *coming soon*\
 [8.  牵动人心的椰子 (pg. 54)] - *coming soon*\
 [9. 表弟来了 (pg. 61)] - *coming soon*\
--->
-<a href="/SRJKC_resources/doc/BC_4_Passage10.pdf" target="_blank">10. 宽大为怀 (pg. 70)</a>
-<!--
 单元三 - 探秘之旅\
 11. 卑微里的大力量 (pg. 78)\
 12. 伽利略的落体实验 (pg. 86)\
@@ -49,6 +45,7 @@ _Note: Chapters 1 - 9 will be made available soon_
 19. 稻香 (pg. 136)\
 20. 鼓声的召唤 (pg. 145)
 -->
+<a href="/SRJKC_resources/doc/year4/18. 框住美景.pdf" target="_blank">18. 框住美景 (pg. 129)</a>
 [Back to Top](#top)
 
 ----

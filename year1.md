@@ -20,7 +20,7 @@ excerpt: "Resource centre for Bahasa Cina Tahun 1 text book"
 [Back to Top](#top)
 
 ### Pinyin 拼音注音 + English Translation 英文翻译 (PDF File) <a name="pinyin"></a>
-_Note: Chapters 1 - 13 will be made available soon_
+_Note: Chapters 1 - 13 will be made available soon_ \
 <!--- 
 [识字一 (pg. 1)] *coming soon*\
 [1.1 上学了 (pg. 2)] *coming soon*\

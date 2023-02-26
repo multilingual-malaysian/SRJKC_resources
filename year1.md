@@ -20,7 +20,6 @@ excerpt: "Resource centre for Bahasa Cina Tahun 1 text book"
 [Back to Top](#top)
 
 ### Pinyin 拼音注音 + English Translation 英文翻译 (PDF File) <a name="pinyin"></a>
-_Note: Chapters 1 - 13 will be made available soon_ \
 <!--- 
 [识字一 (pg. 1)] *coming soon*\
 [1.1 上学了 (pg. 2)] *coming soon*\
@@ -66,27 +65,25 @@ _Note: Chapters 1 - 13 will be made available soon_ \
 <a href="/SRJKC_resources/doc/year1/15.1 红红的气球.pdf" target="_blank">[pg. 93] 15.1 红红的气球</a>\
 <a href="/SRJKC_resources/doc/year1/15.2 花角鹿.pdf" target="_blank">[pg. 95] 15.2 花角鹿</a>\
 <a href="/SRJKC_resources/doc/year1/16.1 我不怕黑.pdf" target="_blank">[pg. 100] 16.1 我不怕黑</a>\
-<!--
-16.2 我不想生气 (pg. 102)\
-深广课文(8)　蓝蜻蜓和小青蛙 (pg. 105)\
-识字五 (pg. 107)\
-17.1 我想知道 (pg.108)\
-17.2 妈妈，为什么? (pg. 110)\
-18.1 国庆 (pg. 113)\
-18.2 阳光下的马来西亚 (pg. 115)\
-深广课文(9)　什么，为什么，怎么样 (pg. 118)\
-19.1 天桥 (pg. 123)\
-19.2 路灯 (pg. 124)\
-20.1 邻家的菜园 (pg. 129)\
-20.2 走进动物园 (pg. 131)\
-深广课文(10) 我想 (pg. 134)\
-21.1 吞只活猫 (pg. 137)\
-21.2 聪明的鹿 (pg. 139)\
-21.5 什么东西最好吃 (pg. 142)\
-22.1 谁没长大 (pg. 146)\
-22.2 我也跟着做 (pg. 148)\
-深广课文(11) 错在哪里 (pg. 151)
--->
+[pg. 102] 16.2 我不想生气\
+[pg. 105] 深广课文(8)　蓝蜻蜓和小青蛙\
+[pg. 107] 识字五\
+[pg. 108] 17.1 我想知道\
+[pg. 110] 17.2 妈妈，为什么?\
+[pg. 113] 18.1 国庆\
+[pg. 115] 18.2 阳光下的马来西亚\
+[pg. 118] 深广课文(9)　什么，为什么，怎么样\
+[pg. 123] 19.1 天桥\
+[pg. 124] 19.2 路灯\
+[pg. 129] 20.1 邻家的菜园\
+[pg. 131] 20.2 走进动物园\
+[pg. 134] 深广课文(10) 我想\
+[pg. 137] 21.1 吞只活猫\
+[pg. 139] 21.2 聪明的鹿\
+[pg. 142] 21.5 什么东西最好吃\
+[pg. 146] 22.1 谁没长大\
+[pg. 148] 22.2 我也跟着做\
+[pg. 151] 深广课文(11) 错在哪里
 
 [Back to Top](#top)
 

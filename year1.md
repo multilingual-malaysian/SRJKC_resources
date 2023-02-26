@@ -59,13 +59,13 @@ _Note: Chapters 1 - 13 will be made available soon_ \
 [13.1 手影 (pg. 81)] *coming soon*\
 [13.2 一把大雨伞 (pg. 83)]\
 -->
-<a href="/SRJKC_resources/doc/year1/14.1 我想要的鞋子.pdf" target="_blank">14.1 我想要的鞋子 (pg. 87)</a>\
-<a href="/SRJKC_resources/doc/year1/14.2 蝴蝶在读香喷喷的报纸.pdf" target="_blank">14.2 蝴蝶在读香喷喷的报纸 (pg. 88)</a>\
-<a href="/SRJKC_resources/doc/year1/深广课文(7) 月牙船.pdf" target="_blank">深广课文(7) 月牙船 (pg. 91)</a>\
-<a href="/SRJKC_resources/doc/year1/15 圆圆歌.pdf" target="_blank">15 圆圆歌 (pg. 92)</a>\
-<a href="/SRJKC_resources/doc/year1/15.1 红红的气球.pdf" target="_blank">15.1 红红的气球 (pg. 93)</a>\
-<a href="/SRJKC_resources/doc/year1/15.2 花角鹿.pdf" target="_blank">15.2 花角鹿 (pg. 95)</a>\
-<a href="/SRJKC_resources/doc/year1/16.1 我不怕黑.pdf" target="_blank">16.1 我不怕黑 (pg. 100)</a>\
+<a href="/SRJKC_resources/doc/year1/14.1 我想要的鞋子.pdf" target="_blank">[pg. 87] 14.1 我想要的鞋子</a>\
+<a href="/SRJKC_resources/doc/year1/14.2 蝴蝶在读香喷喷的报纸.pdf" target="_blank">[pg. 88] 14.2 蝴蝶在读香喷喷的报纸</a>\
+<a href="/SRJKC_resources/doc/year1/深广课文(7) 月牙船.pdf" target="_blank">[pg. 91] 深广课文(7) 月牙船</a>\
+<a href="/SRJKC_resources/doc/year1/15 圆圆歌.pdf" target="_blank">[pg. 92] 15. 圆圆歌</a>\
+<a href="/SRJKC_resources/doc/year1/15.1 红红的气球.pdf" target="_blank">[pg. 93] 15.1 红红的气球</a>\
+<a href="/SRJKC_resources/doc/year1/15.2 花角鹿.pdf" target="_blank">[pg. 95] 15.2 花角鹿</a>\
+<a href="/SRJKC_resources/doc/year1/16.1 我不怕黑.pdf" target="_blank">[pg. 100] 16.1 我不怕黑</a>\
 <!--
 16.2 我不想生气 (pg. 102)\
 深广课文(8)　蓝蜻蜓和小青蛙 (pg. 105)\

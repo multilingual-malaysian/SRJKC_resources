@@ -40,7 +40,7 @@ excerpt: "Resource centre for Bahasa Cina Tahun 1 text book"
 <a href="/SRJKC_resources/doc/year1/year1_chapter19.pdf" target="_blank">Chap. 19 第十九单元 设备完善生活好 [pg. 122 - 127]</a>\
 <a href="/SRJKC_resources/doc/year1/year1_chapter20.pdf" target="_blank">Chap. 20 第二十单元 带来快乐的地方 [pg. 128 - 135]</a>\
 <a href="/SRJKC_resources/doc/year1/year1_chapter21.pdf" target="_blank">Chap. 21 第二十一单元 读故事，懂道理 [pg. 136 - 144]</a>\
-<a href="/SRJKC_resources/doc/year1/year1_chapter22.pdf" target="_blank">Chap. 22 第二十二单元 我长大了 [pg. 145 - 152]</a>\
+<a href="/SRJKC_resources/doc/year1/year1_chapter22.pdf" target="_blank">Chap. 22 第二十二单元 我长大了 [pg. 145 - 152]</a>
 
 [Back to Top](#top)
 

@@ -19,68 +19,28 @@ excerpt: "Resource centre for Bahasa Cina Tahun 1 text book"
 [Back to Top](#top)
 
 ### Pinyin 拼音注音 + English Translation 英文翻译 (PDF File) <a name="pinyin"></a>
-[pg. 1] 识字一\
-[pg. 2] 1.1 上学了\
-[pg. 3] 1.2 早操\
-[pg. 7] 2.1 识字读书长知识\
-[pg. 8] 2.2 学写字\
-[pg. 11] 深广课文(1) 日出\
-[pg. 13] 3.1 笑声回来了\
-[pg. 14] 3.2 星星\
-[pg. 20] 4.1 开心吃晚饭\
-[pg. 21] 4.2 我跟妹妹搭积木\
-[pg. 24] 深广课文(2) 加号\
-[pg. 26] 识字二\
-[pg. 27] 5.1 小露珠\
-[pg. 28] 5.2 雨停了\
-[pg. 33] 6.1 大小多少\
-[pg. 34] 6.2 蚂蚁搬小虫\
-[pg. 37] 深广课文(3) 露珠\
-[pg. 40] 7.1 鼠老师画猫\
-[pg. 41] 7.2 小蜜蜂\
-[pg. 46] 8.1 香蕉滑梯\
-[pg. 47] 8.2 会唱歌的森林\
-[pg. 51] 深广课文(4) 走进大山\
-[pg. 52] 识字三\
-[pg. 53] 9.1 睡衣\
-[pg. 54] 9.2 铅笔\
-[pg. 61] 10.1 造小船\
-[pg. 62] 10.2 叶子鸟\
-[pg. 65] 深广课文(5) 我的小船\
-[pg. 66] 11.1 和和气气多美好\
-[pg. 68] 11.2 买玩具\
-[pg. 72] 12.1 父亲节\
-[pg. 73] 12.2 小青蛙捉星星\
-[pg. 76] 深广课文(6)　影子\
-[pg. 80] 识字四\
-[pg. 81] 13.1 手影\
-[pg. 83] 13.2 一把大雨伞\
-<a href="/SRJKC_resources/doc/year1/14.1 我想要的鞋子.pdf" target="_blank">[pg. 87] 14.1 我想要的鞋子</a>\
-<a href="/SRJKC_resources/doc/year1/14.2 蝴蝶在读香喷喷的报纸.pdf" target="_blank">[pg. 88] 14.2 蝴蝶在读香喷喷的报纸</a>\
-<a href="/SRJKC_resources/doc/year1/深广课文(7) 月牙船.pdf" target="_blank">[pg. 91] 深广课文(7) 月牙船</a>\
-<a href="/SRJKC_resources/doc/year1/15 圆圆歌.pdf" target="_blank">[pg. 92] 15. 圆圆歌</a>\
-<a href="/SRJKC_resources/doc/year1/15.1 红红的气球.pdf" target="_blank">[pg. 93] 15.1 红红的气球</a>\
-<a href="/SRJKC_resources/doc/year1/15.2 花角鹿.pdf" target="_blank">[pg. 95] 15.2 花角鹿</a>\
-<a href="/SRJKC_resources/doc/year1/16.1 我不怕黑.pdf" target="_blank">[pg. 100] 16.1 我不怕黑</a>\
-[pg. 102] 16.2 我不想生气\
-[pg. 105] 深广课文(8)　蓝蜻蜓和小青蛙\
-[pg. 107] 识字五\
-[pg. 108] 17.1 我想知道\
-[pg. 110] 17.2 妈妈，为什么?\
-[pg. 113] 18.1 国庆\
-[pg. 115] 18.2 阳光下的马来西亚\
-[pg. 118] 深广课文(9)　什么，为什么，怎么样\
-[pg. 123] 19.1 天桥\
-[pg. 124] 19.2 路灯\
-[pg. 129] 20.1 邻家的菜园\
-[pg. 131] 20.2 走进动物园\
-[pg. 134] 深广课文(10) 我想\
-[pg. 137] 21.1 吞只活猫\
-[pg. 139] 21.2 聪明的鹿\
-[pg. 142] 21.5 什么东西最好吃\
-[pg. 146] 22.1 谁没长大\
-[pg. 148] 22.2 我也跟着做\
-[pg. 151] 深广课文(11) 错在哪里
+<a href="/SRJKC_resources/doc/year1/year1_chapter1.pdf" target="_blank">Chap. 1 [pg. 1 - 5]</a>\
+<a href="/SRJKC_resources/doc/year1/year1_chapter2.pdf" target="_blank">Chap. 2 [pg. 6 - 11]</a>\
+<a href="/SRJKC_resources/doc/year1/year1_chapter3.pdf" target="_blank">Chap. 3 [pg. 12 - 18]</a>\
+<a href="/SRJKC_resources/doc/year1/year1_chapter4.pdf" target="_blank">Chap. 4 [pg. 19 - 26]</a>\
+<a href="/SRJKC_resources/doc/year1/year1_chapter5.pdf" target="_blank">Chap. 5 [pg. 27 - 31]</a>\
+<a href="/SRJKC_resources/doc/year1/year1_chapter6.pdf" target="_blank">Chap. 6 [pg. 32 - 38]</a>\
+<a href="/SRJKC_resources/doc/year1/year1_chapter7.pdf" target="_blank">Chap. 7 [pg. 39 - 44]</a>\
+<a href="/SRJKC_resources/doc/year1/year1_chapter8.pdf" target="_blank">Chap. 8 [pg. 45 - 52]</a>\
+<a href="/SRJKC_resources/doc/year1/year1_chapter9.pdf" target="_blank">Chap. 9 [pg. 53 - 59]</a>\
+<a href="/SRJKC_resources/doc/year1/year1_chapter10.pdf" target="_blank">Chap. 10 [pg. 60 - 65]</a>\
+<a href="/SRJKC_resources/doc/year1/year1_chapter11.pdf" target="_blank">Chap. 11 [pg. 66 - 70]</a>\
+<a href="/SRJKC_resources/doc/year1/year1_chapter12.pdf" target="_blank">Chap. 12 [pg. 71 - 80]</a>\
+<a href="/SRJKC_resources/doc/year1/year1_chapter13.pdf" target="_blank">Chap. 13 [pg. 81 - 85]</a>\
+<a href="/SRJKC_resources/doc/year1/year1_chapter14.pdf" target="_blank">Chap. 14 [pg. 86 - 91]</a>\
+<a href="/SRJKC_resources/doc/year1/year1_chapter15.pdf" target="_blank">Chap. 15 [pg. 92- 99]</a>\
+<a href="/SRJKC_resources/doc/year1/year1_chapter16.pdf" target="_blank">Chap. 16 [pg. 100 - 107]</a>\
+<a href="/SRJKC_resources/doc/year1/year1_chapter17.pdf" target="_blank">Chap. 17 [pg. 108 - 112]</a>\
+<a href="/SRJKC_resources/doc/year1/year1_chapter18.pdf" target="_blank">Chap. 18 [pg. 113 - 121]</a>\
+<a href="/SRJKC_resources/doc/year1/year1_chapter19.pdf" target="_blank">Chap. 19 [pg. 122 - 127]</a>\
+<a href="/SRJKC_resources/doc/year1/year1_chapter20.pdf" target="_blank">Chap. 20 [pg. 128 - 135]</a>\
+<a href="/SRJKC_resources/doc/year1/year1_chapter21.pdf" target="_blank">Chap. 21 [pg. 136 - 144]</a>\
+<a href="/SRJKC_resources/doc/year1/year1_chapter22.pdf" target="_blank">Chap. 22 [pg. 145 - 152]</a>\
 
 [Back to Top](#top)
 

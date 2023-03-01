@@ -19,28 +19,28 @@ excerpt: "Resource centre for Bahasa Cina Tahun 1 text book"
 [Back to Top](#top)
 
 ### Pinyin 拼音注音 + English Translation 英文翻译 (PDF File) <a name="pinyin"></a>
-<a href="/SRJKC_resources/doc/year1/year1_chapter1.pdf" target="_blank">Chap. 1 [pg. 1 - 5]</a>\
-<a href="/SRJKC_resources/doc/year1/year1_chapter2.pdf" target="_blank">Chap. 2 [pg. 6 - 11]</a>\
-<a href="/SRJKC_resources/doc/year1/year1_chapter3.pdf" target="_blank">Chap. 3 [pg. 12 - 18]</a>\
-<a href="/SRJKC_resources/doc/year1/year1_chapter4.pdf" target="_blank">Chap. 4 [pg. 19 - 26]</a>\
-<a href="/SRJKC_resources/doc/year1/year1_chapter5.pdf" target="_blank">Chap. 5 [pg. 27 - 31]</a>\
-<a href="/SRJKC_resources/doc/year1/year1_chapter6.pdf" target="_blank">Chap. 6 [pg. 32 - 38]</a>\
-<a href="/SRJKC_resources/doc/year1/year1_chapter7.pdf" target="_blank">Chap. 7 [pg. 39 - 44]</a>\
-<a href="/SRJKC_resources/doc/year1/year1_chapter8.pdf" target="_blank">Chap. 8 [pg. 45 - 52]</a>\
-<a href="/SRJKC_resources/doc/year1/year1_chapter9.pdf" target="_blank">Chap. 9 [pg. 53 - 59]</a>\
-<a href="/SRJKC_resources/doc/year1/year1_chapter10.pdf" target="_blank">Chap. 10 [pg. 60 - 65]</a>\
-<a href="/SRJKC_resources/doc/year1/year1_chapter11.pdf" target="_blank">Chap. 11 [pg. 66 - 70]</a>\
-<a href="/SRJKC_resources/doc/year1/year1_chapter12.pdf" target="_blank">Chap. 12 [pg. 71 - 80]</a>\
-<a href="/SRJKC_resources/doc/year1/year1_chapter13.pdf" target="_blank">Chap. 13 [pg. 81 - 85]</a>\
-<a href="/SRJKC_resources/doc/year1/year1_chapter14.pdf" target="_blank">Chap. 14 [pg. 86 - 91]</a>\
-<a href="/SRJKC_resources/doc/year1/year1_chapter15.pdf" target="_blank">Chap. 15 [pg. 92- 99]</a>\
-<a href="/SRJKC_resources/doc/year1/year1_chapter16.pdf" target="_blank">Chap. 16 [pg. 100 - 107]</a>\
-<a href="/SRJKC_resources/doc/year1/year1_chapter17.pdf" target="_blank">Chap. 17 [pg. 108 - 112]</a>\
-<a href="/SRJKC_resources/doc/year1/year1_chapter18.pdf" target="_blank">Chap. 18 [pg. 113 - 121]</a>\
-<a href="/SRJKC_resources/doc/year1/year1_chapter19.pdf" target="_blank">Chap. 19 [pg. 122 - 127]</a>\
-<a href="/SRJKC_resources/doc/year1/year1_chapter20.pdf" target="_blank">Chap. 20 [pg. 128 - 135]</a>\
-<a href="/SRJKC_resources/doc/year1/year1_chapter21.pdf" target="_blank">Chap. 21 [pg. 136 - 144]</a>\
-<a href="/SRJKC_resources/doc/year1/year1_chapter22.pdf" target="_blank">Chap. 22 [pg. 145 - 152]</a>\
+<a href="/SRJKC_resources/doc/year1/year1_chapter1.pdf" target="_blank">Chap. 1 第一单元 新的开始 [pg. 1 - 5]</a>\
+<a href="/SRJKC_resources/doc/year1/year1_chapter2.pdf" target="_blank">Chap. 2 第二单元 走进教室 [pg. 6 - 11]</a>\
+<a href="/SRJKC_resources/doc/year1/year1_chapter3.pdf" target="_blank">Chap. 3 第三单元 我爱我的家 [pg. 12 - 18]</a>\
+<a href="/SRJKC_resources/doc/year1/year1_chapter4.pdf" target="_blank">Chap. 4 第四单元 当我们同在一起 [pg. 19 - 26]</a>\
+<a href="/SRJKC_resources/doc/year1/year1_chapter5.pdf" target="_blank">Chap. 5 第五单元 亲近大自然 [pg. 27 - 31]</a>\
+<a href="/SRJKC_resources/doc/year1/year1_chapter6.pdf" target="_blank">Chap. 6 第六单元 数一数，比一比 [pg. 32 - 38]</a>\
+<a href="/SRJKC_resources/doc/year1/year1_chapter7.pdf" target="_blank">Chap. 7 第七单元 动物乐园 [pg. 39 - 44]</a>\
+<a href="/SRJKC_resources/doc/year1/year1_chapter8.pdf" target="_blank">Chap. 8 第八单元 植物真有趣 [pg. 45 - 52]</a>\
+<a href="/SRJKC_resources/doc/year1/year1_chapter9.pdf" target="_blank">Chap. 9 第九单元 心爱的东西 [pg. 53 - 59]</a>\
+<a href="/SRJKC_resources/doc/year1/year1_chapter10.pdf" target="_blank">Chap. 10 第十单元 欢乐时光 [pg. 60 - 65]</a>\
+<a href="/SRJKC_resources/doc/year1/year1_chapter11.pdf" target="_blank">Chap. 11 第十一单元 我做得到 [pg. 66 - 70]</a>\
+<a href="/SRJKC_resources/doc/year1/year1_chapter12.pdf" target="_blank">Chap. 12 第十二单元 童话天地 [pg. 71 - 80]</a>\
+<a href="/SRJKC_resources/doc/year1/year1_chapter13.pdf" target="_blank">Chap. 13 第十三单元 我爱爸爸妈妈 [pg. 81 - 85]</a>\
+<a href="/SRJKC_resources/doc/year1/year1_chapter14.pdf" target="_blank">Chap. 14 第十四单元 想象的世界 [pg. 86 - 91]</a>\
+<a href="/SRJKC_resources/doc/year1/year1_chapter15.pdf" target="_blank">Chap. 15 第十五单元 友谊花朵处处开 [pg. 92- 99]</a>\
+<a href="/SRJKC_resources/doc/year1/year1_chapter16.pdf" target="_blank">Chap. 16 第十六单元 做情绪的小主人 [pg. 100 - 107]</a>\
+<a href="/SRJKC_resources/doc/year1/year1_chapter17.pdf" target="_blank">Chap. 17 第十七单元 我想知道为什么 [pg. 108 - 112]</a>\
+<a href="/SRJKC_resources/doc/year1/year1_chapter18.pdf" target="_blank">Chap. 18 第十八单元 我爱我的国家 [pg. 113 - 121]</a>\
+<a href="/SRJKC_resources/doc/year1/year1_chapter19.pdf" target="_blank">Chap. 19 第十九单元 设备完善生活好 [pg. 122 - 127]</a>\
+<a href="/SRJKC_resources/doc/year1/year1_chapter20.pdf" target="_blank">Chap. 20 第二十单元 带来快乐的地方 [pg. 128 - 135]</a>\
+<a href="/SRJKC_resources/doc/year1/year1_chapter21.pdf" target="_blank">Chap. 21 第二十一单元 读故事，懂道理 [pg. 136 - 144]</a>\
+<a href="/SRJKC_resources/doc/year1/year1_chapter22.pdf" target="_blank">Chap. 22 第二十二单元 我长大了 [pg. 145 - 152]</a>\
 
 [Back to Top](#top)
 

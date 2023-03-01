@@ -19,44 +19,42 @@ excerpt: "Resource centre for Bahasa Cina Tahun 1 text book"
 [Back to Top](#top)
 
 ### Pinyin 拼音注音 + English Translation 英文翻译 (PDF File) <a name="pinyin"></a>
-<!--- 
-[识字一 (pg. 1)] *coming soon*\
-[1.1 上学了 (pg. 2)] *coming soon*\
-[1.2 早操 (pg. 3)] *coming soon*\
-[2.1 识字读书长知识 (pg. 7)] *coming soon*\
-[2.2 学写字 (pg. 8)] *coming soon*\
-[深广课文(1) 日出 (pg. 11)] *coming soon*\
-[3.1 笑声回来了 (pg. 13)] *coming soon*\
-[3.2 星星 (pg. 14)] *coming soon*\
-[4.1 开心吃晚饭 (pg. 20)] *coming soon*\
-[4.2 我跟妹妹搭积木 (pg. 21)] *coming soon*\
-[深广课文(2) 加号 (pg. 24)] *coming soon*\
-[识字二 (pg. 26)] *coming soon*\
-[5.1 小露珠 (pg. 27)] *coming soon*\
-[5.2 雨停了 (pg. 28)] *coming soon*\
-[6.1 大小多少 (pg. 33)] *coming soon*\
-[6.2 蚂蚁搬小虫 (pg. 34)] *coming soon*\
-[深广课文(3) 露珠 (pg. 37)] *coming soon*\
-[7.1 鼠老师画猫 (pg. 40)] *coming soon*\
-[7.2 小蜜蜂 (pg. 41)] *coming soon*\
-[8.1 香蕉滑梯 (pg. 46)] *coming soon*\
-[8.2 会唱歌的森林 (pg. 47)] *coming soon*\
-[深广课文(4) 走进大山 (pg. 51)] *coming soon*\
-[识字三 (pg. 52)] *coming soon*\
-[9.1 睡衣 (pg. 53)] *coming soon*\
-[9.2 铅笔 (pg. 54)] *coming soon*\
-[10.1 造小船 (pg. 61)] *coming soon*\
-[10.2 叶子鸟 (pg. 62)] *coming soon*\
-[深广课文(5) 我的小船 (pg. 65)] *coming soon*\
-[11.1 和和气气多美好 (pg. 66)] *coming soon*\
-[11.2 买玩具 (pg. 68)] *coming soon*\
-[12.1 父亲节 (pg. 72)] *coming soon*\
-[12.2 小青蛙捉星星 (pg. 73)] *coming soon*\
-[深广课文(6)　影子(pg. 76)] *coming soon*\
-[识字四 (pg. 80)] *coming soon*\
-[13.1 手影 (pg. 81)] *coming soon*\
+[识字一 (pg. 1)]\
+[1.1 上学了 (pg. 2)]\
+[1.2 早操 (pg. 3)]\
+[2.1 识字读书长知识 (pg. 7)]\
+[2.2 学写字 (pg. 8)]\
+[深广课文(1) 日出 (pg. 11)]\
+[3.1 笑声回来了 (pg. 13)]\
+[3.2 星星 (pg. 14)]\
+[4.1 开心吃晚饭 (pg. 20)]\
+[4.2 我跟妹妹搭积木 (pg. 21)]\
+[深广课文(2) 加号 (pg. 24)]\
+[识字二 (pg. 26)]\
+[5.1 小露珠 (pg. 27)]\
+[5.2 雨停了 (pg. 28)]\
+[6.1 大小多少 (pg. 33)]\
+[6.2 蚂蚁搬小虫 (pg. 34)]\
+[深广课文(3) 露珠 (pg. 37)]\
+[7.1 鼠老师画猫 (pg. 40)]\
+[7.2 小蜜蜂 (pg. 41)]\
+[8.1 香蕉滑梯 (pg. 46)]\
+[8.2 会唱歌的森林 (pg. 47)]\
+[深广课文(4) 走进大山 (pg. 51)]\
+[识字三 (pg. 52)]\
+[9.1 睡衣 (pg. 53)]\
+[9.2 铅笔 (pg. 54)]\
+[10.1 造小船 (pg. 61)]\
+[10.2 叶子鸟 (pg. 62)]\
+[深广课文(5) 我的小船 (pg. 65)]\
+[11.1 和和气气多美好 (pg. 66)]\
+[11.2 买玩具 (pg. 68)]\
+[12.1 父亲节 (pg. 72)]\
+[12.2 小青蛙捉星星 (pg. 73)]\
+[深广课文(6)　影子(pg. 76)]\
+[识字四 (pg. 80)]\
+[13.1 手影 (pg. 81)]\
 [13.2 一把大雨伞 (pg. 83)]\
--->
 <a href="/SRJKC_resources/doc/year1/14.1 我想要的鞋子.pdf" target="_blank">[pg. 87] 14.1 我想要的鞋子</a>\
 <a href="/SRJKC_resources/doc/year1/14.2 蝴蝶在读香喷喷的报纸.pdf" target="_blank">[pg. 88] 14.2 蝴蝶在读香喷喷的报纸</a>\
 <a href="/SRJKC_resources/doc/year1/深广课文(7) 月牙船.pdf" target="_blank">[pg. 91] 深广课文(7) 月牙船</a>\

@@ -21,7 +21,7 @@ excerpt: "Resource centre for Bahasa Cina Tahun 4 text book"
 [Back to Top](#top)
 
 ### Pinyin 拼音注音 + English Translation 英文翻译 (PDF File) <a name="pinyin"></a>
-_PDF files will be made available soon_
+_PDF files will be made available soon_\
 <a href="/SRJKC_resources/doc/year4/18. 框住美景.pdf" target="_blank">18. 框住美景 (pg. 129)</a>\
 [Back to Top](#top)
 

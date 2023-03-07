@@ -21,8 +21,9 @@ excerpt: "Resource centre for Bahasa Cina Tahun 5 text book"
 [Back to Top](#top)
 
 ### Pinyin 拼音注音 + English Translation 英文翻译 (PDF File) <a name="pinyin"></a>
-_PDF files will be made available soon_\
-<a href="/SRJKC_resources/doc/BC_4_Passage10.pdf" target="_blank">11.1 诗情画意的世界 (pg. 81)</a>
+<a href="/SRJKC_resources/doc/year5/year3_text1.pdf" target="_blank">1 实力会说话 [pg. 3-8]</a>
+
+_Other chapters will be made available soon_\
 
 [Back to Top](#top)
 

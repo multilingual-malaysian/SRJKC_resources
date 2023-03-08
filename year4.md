@@ -21,7 +21,8 @@ excerpt: "Resource centre for Bahasa Cina Tahun 4 text book"
 [Back to Top](#top)
 
 ### Pinyin 拼音注音 + English Translation 英文翻译 (PDF File) <a name="pinyin"></a>
-<a href="/SRJKC_resources/doc/year4/year4_text1.pdf" target="_blank">1 踏上学习的征途 [pg. 2-9]</a>
+<a href="/SRJKC_resources/doc/year4/year4_text1.pdf" target="_blank">1 踏上学习的征途 [pg. 2-9]</a>\
+<a href="/SRJKC_resources/doc/year4/year4_text2.pdf" target="_blank">2 棋王的心事 [pg. 10-14]</a>
 
 _Other chapters will be made available soon_\
 [Back to Top](#top)

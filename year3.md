@@ -24,7 +24,9 @@ excerpt: "Resource centre for Bahasa Cina Tahun 3 text book"
 ### Pinyin 拼音注音 + English Translation 英文翻译 (PDF File) <a name="pinyin"></a>
 <a href="/SRJKC_resources/doc/year3/year3_chapter1.pdf" target="_blank">Chap. 1 第一单元 通往未来的路上学的路 [pg. 1-5]</a>\
 <a href="/SRJKC_resources/doc/year3/year3_chapter2.pdf" target="_blank">Chap. 2 第二单元 巧妙的道歉魔豆传心意 [pg. 6-10]</a>\
-<a href="/SRJKC_resources/doc/year3/year3_chapter3.pdf" target="_blank">Chap. 3 第三单元 小动物的智慧鸟儿筑巢 [pg. 11-15]</a>
+<a href="/SRJKC_resources/doc/year3/year3_chapter3.pdf" target="_blank">Chap. 3 第三单元 小动物的智慧鸟儿筑巢 [pg. 11-15]</a>\
+<a href="/SRJKC_resources/doc/year3/year3_chapter4.pdf" target="_blank">Chap. 4 第四单元 温暖的亲情 [pg. 16-26]</a>\
+<a href="/SRJKC_resources/doc/year3/year3_chapter5.pdf" target="_blank">Chap. 5 第五单元 飞跃的想象 [pg. 27-32]</a>
 
 _Note: Other chapters will be made available soon_
 

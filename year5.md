@@ -27,7 +27,7 @@ excerpt: "Resource centre for Bahasa Cina Tahun 5 text book"
 <a href="/SRJKC_resources/doc/year5/year5_text4.pdf" target="_blank">4 我诚实我守信 [pg. 23-27]</a>\
 <a href="/SRJKC_resources/doc/year5/year5_text5.pdf" target="_blank">5 英雄有泪 [pg. 30-35]</a>
 
-_Other chapters will be made available soon_\
+_Other chapters will be made available soon_
 
 [Back to Top](#top)
 

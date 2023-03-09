@@ -22,7 +22,10 @@ excerpt: "Resource centre for Bahasa Cina Tahun 5 text book"
 
 ### Pinyin 拼音注音 + English Translation 英文翻译 (PDF File) <a name="pinyin"></a>
 <a href="/SRJKC_resources/doc/year5/year5_text1.pdf" target="_blank">1 实力会说话 [pg. 3-8]</a>\
-<a href="/SRJKC_resources/doc/year5/year5_text2.pdf" target="_blank">2 风中的树苗 [pg. 9-12]</a>
+<a href="/SRJKC_resources/doc/year5/year5_text2.pdf" target="_blank">2 风中的树苗 [pg. 9-12]</a>\
+<a href="/SRJKC_resources/doc/year5/year5_text3.pdf" target="_blank">3 告别网络游戏的汤姆 [pg. 16-22]</a>\
+<a href="/SRJKC_resources/doc/year5/year5_text4.pdf" target="_blank">4 我诚实我守信 [pg. 23-27]</a>\
+<a href="/SRJKC_resources/doc/year5/year5_text5.pdf" target="_blank">5 英雄有泪 [pg. 30-35]</a>
 
 _Other chapters will be made available soon_\
 

@@ -26,6 +26,8 @@ excerpt: "Resource centre for Bahasa Cina Tahun 4 text book"
 <a href="/SRJKC_resources/doc/year4/year4_text3.pdf" target="_blank">3 颂赞温情 [pg. 17-21]</a>\
 <a href="/SRJKC_resources/doc/year4/year4_text4.pdf" target="_blank">4 桃园结义 [pg. 22-27]</a>\
 <a href="/SRJKC_resources/doc/year4/year4_text5.pdf" target="_blank">5 蚊帐大使 [pg. 28-35]</a>\
+<a href="/SRJKC_resources/doc/year4/year4_text6.pdf" target="_blank">6 亲近传统游戏 [pg. 39-43]</a>\
+<a href="/SRJKC_resources/doc/year4/year4_text7.pdf" target="_blank">7 数学王子 [pg. 46-51]</a>
 
 _Other chapters will be made available soon_\
 [Back to Top](#top)

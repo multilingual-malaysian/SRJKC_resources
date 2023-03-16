@@ -153,8 +153,8 @@ navigation_footer:
 social_links: # Appears in sidebar - to be used to link to my researcher profile (at a later stage)
   #Twitter: https://twitter.com/meisin123
   LinkedIn: https://www.linkedin.com/in/meisinlee
-  GitHub: https://github.com/multilingual-malaysian
   Email: mailto:multilingual.malaysian@gmail.com
+  GitHub: https://github.com/multilingual-malaysian
   #RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour

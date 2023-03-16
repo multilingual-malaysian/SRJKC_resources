@@ -31,7 +31,7 @@ excerpt: "Resource centre for Bahasa Cina Tahun 3 text book"
 <a href="/SRJKC_resources/doc/year3/year3_chapter7.pdf" target="_blank">Chap. 7 第七单元 自得其乐 [pg. 39-43]</a>\
 <a href="/SRJKC_resources/doc/year3/year3_chapter8.pdf" target="_blank">Chap. 8 第八单元 科技改变世界 [pg. 44-52]</a>\
 <a href="/SRJKC_resources/doc/year3/year3_chapter9.pdf" target="_blank">Chap. 9 第九单元 创造历史的人 [pg. 53-57]</a>\
-<a href="/SRJKC_resources/doc/year3/year3_chapter10.pdf" target="_blank">Chap. 9 第十单元 美丽的传说[pg. 58-62]</a>
+<a href="/SRJKC_resources/doc/year3/year3_chapter10.pdf" target="_blank">Chap. 10 第十单元 美丽的传说[pg. 58-62]</a>
 
 _Note: Other chapters will be made available soon_
 

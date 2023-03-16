@@ -36,11 +36,9 @@ The tools that I have used are:
 我目前是一位Natural Language Processing (NLP) 研究生, NLP 是一门融合语言学和人工智能的科学。我从中也接触到用在教育领域的人工智能程序。 我的孩子们现在就读国民型华小， 他们需要额外的辅助， 尤其是华语因为他们在家里不是说话语的， 所以我运用了这些程序来制造了额外的辅助的资源，它们是根据当前华小的课本。我把这些资源免费地分享给大家， 希望能够帮助到其他华小的学生。补习老师或补习中心请随便使用， 免费提供给学生， 但是不能将其转卖。
 
 #### If you spot any mistakes....
-I hope the materials are of use to you. The materials are prepared using AI applications, I have checked through the materials myself but cannot guarantee that they are 100% error free. If you spot any mistakes, you can report them by sending me the details (ie. which year, which page, what's the error) to _multilingual.malaysian@gmail.com_.
-Have fun learning!!
+I hope the materials are of use to you. The materials are prepared using AI applications, I have checked through the materials myself but cannot guarantee that they are 100% error free. If you spot any mistakes, you can report them by sending me the details (ie. which year, which page, what's the error) to [multilingual.malaysian@gmail.com](mailto:multilingual.malaysian@gmail.com). Have fun learning!!
 
-我希望这些材料对你有帮助。材料是运用人工智能程序准备的，我有查阅过但是不能保障完全没有错误。如果有错误，请发有关资料去这个邮箱： _multilingual.malaysian@gmail.com_.
-祝你学习快乐。
+我希望这些材料对你有帮助。材料是运用人工智能程序准备的，我有查阅过但是不能保障完全没有错误。如果有错误，请发有关资料去这个邮箱： [multilingual.malaysian@gmail.com](mailto:multilingual.malaysian@gmail.com). 祝你学习快乐。
 
 #### Other Translated Work (Not related to mine)
 Apart from this initiative, there are others who invested time and effort in translating SRJKC Chinese textbooks into Malay and into English + Malay. If you prefer a physical copy of the translations, you can purchase them from the respective authors (links below):

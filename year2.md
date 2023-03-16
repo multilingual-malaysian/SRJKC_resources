@@ -42,10 +42,12 @@ excerpt: "Resource centre for Bahasa Cina Tahun 2 text book"
 <a href="/SRJKC_resources/doc/year2/year2_chapter16.pdf" target="_blank">Chap. 16 第十六单元 小故事，大道理 [pg. 108-116]</a>\
 <a href="/SRJKC_resources/doc/year2/year2_chapter17.pdf" target="_blank">Chap. 17 第十七单元 珍惜时间 [pg. 117-120]</a>\
 <a href="/SRJKC_resources/doc/year2/year2_chapter18.pdf" target="_blank">Chap. 18 第十八单元 想和做 [pg. 121-128]</a>\
-<a href="/SRJKC_resources/doc/year2/year2_chapter19.pdf" target="_blank">Chap. 19 第十九单元 走走看看 [pg. 129-133]</a>\
+<a href="/SRJKC_resources/doc/year2/year2_chapter19.pdf" target="_blank">Chap. 19 第十九单元 走走看看 [pg. 129-133]</a>
+<!--
 <a href="/SRJKC_resources/doc/year2/year2_chapter20.pdf" target="_blank">Chap. 20 第二十单元 生活处处有学问 [pg. 134-140]</a>\
 <a href="/SRJKC_resources/doc/year2/year2_chapter21.pdf" target="_blank">Chap. 21 第二十一单元 知识的力量 [pg. 141-147]</a>\
 <a href="/SRJKC_resources/doc/year2/year2_chapter22.pdf" target="_blank">Chap. 22 第二十二单元 小小心愿 [pg. 148-152]</a>
+-->
 
 [Back to Top](#top)
 

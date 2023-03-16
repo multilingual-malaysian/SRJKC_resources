@@ -15,16 +15,16 @@ SRJKC Resource Centre is a site that contains a number of key resources to help 
 
 #### What are the available resources?
 ![alt text](/SRJKC_resources/assets/images/content.png)
-<!--1. **Audio reading** of each chapter (mp3 - playable on the browser itself and downloadable). 
-2. Original Chinese text with **Hanyu Pinyin** and **English translation** (PDF file).-->
-At this moment, the focus is on Chinese textbooks Year 1 to Year 6 with only English translation. Malay translation might be added later.
-
-Apart from my materials, I have also tabulated links to more resources prepared by dedicated teachers / parents, they include youtube videos and reference answers to workbooks.
-
+<!--
+1. **Audio reading** of each chapter (mp3 - playable on the browser itself and downloadable). 
+2. Original Chinese text with **Hanyu Pinyin** and **English translation** (PDF file).
 目前只有华文课本的资源，有：
 - 课文朗读 (MP3 格式）
 - 课文加了拼音注音， 和英文的翻译 （PDF格式）
+-->
+At this moment, the focus is on Chinese textbooks Year 1 to Year 6 with only English translation. Malay translation might be added later.
 
+Apart from my materials, I have also tabulated links to more resources prepared by dedicated teachers / parents, they include youtube videos and reference answers to workbooks.
 在每一个年级的page里， 我也提供了其他老师/家长/补习中心所准备的材料的link， 如：YouTube视频， 华文活动本的参考答案。
 
 #### Why do this?

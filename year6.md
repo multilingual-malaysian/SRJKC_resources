@@ -2,7 +2,7 @@
 title: 六年级 Year 6 
 feature_text: |
   <a href="top"></a>
-feature_image: "/assets/images/BC_6_cover.png"
+feature_image: "SRJKC_resources/assets/images/BC_6_cover.png"
 excerpt: "Resource centre for Bahasa Cina Tahun 6 text book"
 ---
 ![HitCount](https://hits.dwyl.com/multilingual-malaysian/SRJKC_resources.svg?style=flat)
@@ -21,9 +21,9 @@ excerpt: "Resource centre for Bahasa Cina Tahun 6 text book"
 [Back to Top](#top)
 
 ### Pinyin 拼音注音 + English Translation 英文翻译 (PDF File) <a name="pinyin"></a>
-<a href="/doc/year6/year6_text1.pdf" target="_blank">1 动物大迁徙有感 [pg. 2-8]</a>\
-<a href="/doc/year6/year6_text2.pdf" target="_blank">2 草船借箭 [pg. 9-16]</a>\
-<a href="/doc/year6/year6_text3.pdf" target="_blank">3 与众不同的一本书 [pg. 17-24]</a>\
+<a href="/SRJKC_resources/doc/year6/year6_text1.pdf" target="_blank">1 动物大迁徙有感 [pg. 2-8]</a>\
+<a href="/SRJKC_resources/doc/year6/year6_text2.pdf" target="_blank">2 草船借箭 [pg. 9-16]</a>\
+<a href="/SRJKC_resources/doc/year6/year6_text3.pdf" target="_blank">3 与众不同的一本书 [pg. 17-24]</a>\
 _Other PDF files will be made available soon_
 
 [Back to Top](#top)

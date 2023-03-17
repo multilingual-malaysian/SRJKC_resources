@@ -102,7 +102,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "SRJKC Resource Centre" # Site name or title, also used in jekyll-seo-tag
 ##logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-logo: "/SRJKC_resources/assets/logos/site_logo.png" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/logos/site_logo.png" # Site logo, also used in jekyll-seo-tag
 description: "Like most Malaysians, the author is a multilingual Malaysian who speaks multiple languages. Being multilingual is a great strength that Malaysians can 
 boast. Research has shown that the more language you know, the easier to learn another one. In this case, she hopes the materials here (eg. english translation) can help students who are in SRJKCs learn Chinese more effectively.
 *******The author holds a doctorate degree from Monash University, her area of research is in Natural Language Processing (NLP), it is a field of applying Artificial Intelligence in both spoken and written languages. She can be reached at links below. *******" # Site description and default description, also used in jekyll-seo-tag

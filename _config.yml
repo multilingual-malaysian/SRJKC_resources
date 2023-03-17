@@ -101,13 +101,13 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "SRJKC Resource Centre" # Site name or title, also used in jekyll-seo-tag
-##logo: "/SRJKC_resources/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-logo: "/SRJKC_resources/assets/logos/site_logo.png" # Site logo, also used in jekyll-seo-tag
+##logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/logos/site_logo.png" # Site logo, also used in jekyll-seo-tag
 description: "Like most Malaysians, the author is a multilingual Malaysian who speaks multiple languages. Being multilingual is a great strength that Malaysians can 
 boast. Research has shown that the more language you know, the easier to learn another one. In this case, she hopes the materials here (eg. english translation) can help students who are in SRJKCs learn Chinese more effectively.
 *******The author holds a doctorate degree from Monash University, her area of research is in Natural Language Processing (NLP), it is a field of applying Artificial Intelligence in both spoken and written languages. She can be reached at links below. *******" # Site description and default description, also used in jekyll-seo-tag
 url: "https://multilingual-malaysian.github.io/SRJKC_resources" # Site url, also used in jekyll-seo-tag
-baseurl: ""
+baseurl: "/SRJKC_resources"
 email: "multilingual.malaysian@gmail.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
@@ -131,21 +131,21 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 # 9. Site navigation
 navigation_header:
     - title: Home
-      url: /SRJKC_resources/
+      url: /
     - title: Year 1
-      url: /SRJKC_resources/year1/
+      url: /year1/
     - title: Year 2
-      url: /SRJKC_resources/year2/
+      url: /year2/
     - title: Year 3
-      url: /SRJKC_resources/year3/
+      url: /year3/
     - title: Year 4
-      url: /SRJKC_resources/year4/
+      url: /year4/
     - title: Year 5
-      url: /SRJKC_resources/year5/
+      url: /year5/
     - title: Year 6
-      url: /SRJKC_resources/year6/
+      url: /year6/
     - title: Communities
-      url: /SRJKC_resources/communities/
+      url: /communities/
         
 navigation_footer:
 - title: Created by Multilingual Malaysian

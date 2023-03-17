@@ -14,8 +14,6 @@ excerpt: "Resource centre for Bahasa Cina Tahun 1 text book"
 
 <iframe src="https://www.facebook.com/plugins/like.php?href=https://multilingual-malaysian.github.io/SRJKC_resources/year1/&width=174&layout=button_count&action=like&size=large&share=true&height=46&appId" width="174" height="46" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
-<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fmultilingual-malaysian.github.io%2FSRJKC_resources%2Fyear1%2F&width=450&layout&action&size&share=true&height=35&appId" width="450" height="35" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
 ---
 
 ### Textbook Audio <a name="audio"></a>

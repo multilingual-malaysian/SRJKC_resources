@@ -25,7 +25,11 @@ excerpt: "Resource centre for Bahasa Cina Tahun 5 text book"
 <a href="/SRJKC_resources/doc/year5/year5_text2.pdf" target="_blank">2 风中的树苗 [pg. 9-12]</a>\
 <a href="/SRJKC_resources/doc/year5/year5_text3.pdf" target="_blank">3 告别网络游戏的汤姆 [pg. 16-22]</a>\
 <a href="/SRJKC_resources/doc/year5/year5_text4.pdf" target="_blank">4 我诚实我守信 [pg. 23-27]</a>\
-<a href="/SRJKC_resources/doc/year5/year5_text5.pdf" target="_blank">5 英雄有泪 [pg. 30-35]</a>
+<a href="/SRJKC_resources/doc/year5/year5_text5.pdf" target="_blank">5 英雄有泪 [pg. 30-35]</a>\
+<a href="/SRJKC_resources/doc/year5/year5_text6.pdf" target="_blank">6 小老鼠与乌鸦 [pg. 40-44]</a>\
+<a href="/SRJKC_resources/doc/year5/year5_text7.pdf" target="_blank">7 向牵牛花学习 [pg. 48-53]</a>\
+<a href="/SRJKC_resources/doc/year5/year5_text8.pdf" target="_blank">8 雨后的线索[pg. 54-58]</a>\
+<a href="/SRJKC_resources/doc/year5/year5_text9.pdf" target="_blank">9 笑谈端午 [pg. 62-68]</a>
 
 _Other chapters will be made available soon_
 

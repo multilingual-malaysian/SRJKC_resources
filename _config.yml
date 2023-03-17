@@ -77,7 +77,7 @@ defaults:
     scope:
       path: ""
     values:
-      image: "/assets/default-social-image-small.png"
+      image: "https://multilingual-malaysian.github.io/SRJKC_resources/assets/default-social-image-small.png"
       #"/SRJKC_resources/assets/default-social-image-original.png" # Default image for sharing
       #https://multilingual-malaysian.github.io/SRJKC_resources/assets/default-social-image-small.png
 
@@ -120,14 +120,14 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 
 # 8. Site favicons & manifest icons
 favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
-  16: '/assets/logos/logo@16px.png'
-  32: '/assets/logos/logo@32px.png'
-  96: '/assets/logos/logo@96px.png'
-  120: '/assets/logos/logo@120px.png'
-  144: '/assets/logos/logo@144px.png'
-  180: '/assets/logos/logo@180px.png'
-  512: '/assets/logos/logo@512px.png'
-  1024: '/assets/logos/logo@1024px.png'
+  16: '/logos/logo@16px.png'   ## /assets/....
+  32: '/logos/logo@32px.png'
+  96: '/logos/logo@96px.png'
+  120: '/logos/logo@120px.png'
+  144: '/logos/logo@144px.png'
+  180: '/logos/logo@180px.png'
+  512: '/logos/logo@512px.png'
+  1024: '/logos/logo@1024px.png'
 
 # 9. Site navigation
 navigation_header:

@@ -14,7 +14,7 @@ Number of page visits: ![HitCount](https://hits.dwyl.com/multilingual-malaysian/
 ### Year 2
 <a href="https://drive.google.com/file/d/1BF8IhqIJbxLn2O0_7LlogfOWGNStI3eC/view?usp=share_link" target="_blank"><img src="/SRJKC_resources/assets/images/maths2_p1.png" alt="Maths Year 2 Part 1" width="150" height="180"></a>
 <a href="https://drive.google.com/file/d/1UWqP0yqwSrHRFZH01Sc0ab97U_IVcebD/view" target="_blank"><img src="/SRJKC_resources/assets/images/maths2_p2.png" alt="Maths Year 2 Part 2" width="150" height="180"></a>\
-<a href="https://gurubesar.my/wp-content/uploads/2020/10/Science_Year_2.pdf" target="_blank"><img src="/SRJKC_resources/assets/images/science2.png" alt="Science Year 2" width="150" height="180"></a><a href="https://gurubesar.my/wp-content/uploads/2022/04/SCIENCE-Y2-AB.pdf" target="_blank"><img src="/SRJKC_resources/assets/images/science2_ab.png" alt="Science Year 2 Activity Book" width="150" height="180"></a>
+<a href="https://gurubesar.my/wp-content/uploads/2020/10/Science_Year_2.pdf" target="_blank"><img src="/SRJKC_resources/assets/images/science2.png" alt="Science Year 2" width="150" height="180"></a>                 <a href="https://gurubesar.my/wp-content/uploads/2022/04/SCIENCE-Y2-AB.pdf" target="_blank"><img src="/SRJKC_resources/assets/images/science2_ab.png" alt="Science Year 2 Activity Book" width="150" height="180"></a>
 
 ### Year 3
 <a href="https://drive.google.com/file/d/1yX3cuukykQGZS26fDevg5Xh91xZ897K5/view?usp=share_link" target="_blank"><img src="/SRJKC_resources/assets/images/maths3_p1.png" alt="Maths Year 3 Part 1" width="150" height="180"></a>

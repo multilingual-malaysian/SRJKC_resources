@@ -6,6 +6,10 @@ feature_image: "https://picsum.photos/1300/400?image=20"
 
 Number of page visits: ![HitCount](https://hits.dwyl.com/multilingual-malaysian/SRJKC_resources.svg?style=flat)
 
+At the moment, we only have English translations for Chinese Year 1 - 6. For Maths and Science, a good source to get some form of Chinese-English translation is the Maths and Science Dual Language Programme (DLP) textbooks. Please note that these textbooks are **not like-for-like translation** of the SJKC textbooks but they have roughly the same content and can serve as a good source of reference in English.
+
+Click on the respective images or links to access the PDF files. Please notify [multilingual.malaysian@gmail.com](mailto:multilingual.malaysian@gmail.com) if you encounter any broken link.
+
 ### Year 1
 <a href="https://drive.google.com/file/d/1D7CP-v2nqBMuep9sF2tg-gIdx-Tgp47R/view?usp=share_link" target="_blank"><img src="/SRJKC_resources/assets/images/maths1_p1.png" alt="Maths Year 1 Part 1" width="150" height="180"></a>
 <a href="https://drive.google.com/file/d/1JsHCYVefe5i_-VmPZTfBSNJmb-G9Hu04/view?usp=share_link" target="_blank"><img src="/SRJKC_resources/assets/images/maths1_p2.png" alt="Maths Year 1 Part 2" width="150" height="180"></a>\

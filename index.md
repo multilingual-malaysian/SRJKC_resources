@@ -33,7 +33,7 @@ The tools that I have used are:
   - optical character recognition (OCR) to 
 -->
 
-我目前是一位Natural Language Processing (NLP) 研究生, NLP 是一门融合语言学和人工智能的科学。我从中也接触到用在教育领域的人工智能程序。 我的孩子们现在就读国民型华小， 他们需要额外的辅助， 尤其是华语因为他们在家里不是说话语的， 所以我运用了这些程序来制造了额外的辅助的资源，它们是根据当前华小的课本。我把这些资源免费地分享给大家， 希望能够帮助到其他华小的学生。补习老师或补习中心请随便使用， 免费提供给学生， 但是不能将其转卖。
+我目前是一位Natural Language Processing (NLP) 研究生, NLP 是一门融合语言学和人工智能的科学。我从中也接触到用在教育领域的人工智能程序。 我的孩子们现在就读国民型华小， 由于他们在家不是说华语，所以需要额外的辅助。 因此我根据当前华小的课本，运用了这些程序来制造了额外的辅助的资源。我把这些资源免费地分享给大家， 希望能够帮助到其他华小的学生。补习老师或补习中心请随便使用， 免费提供给学生， 但是不能将其转卖。
 
 #### If you spot any mistakes....
 I hope the materials are of use to you. The materials are prepared using AI applications, I have checked through the materials myself but cannot guarantee that they are 100% error free. If you spot any mistakes, you can report them by sending me the details (ie. which year, which page, what's the error) to [multilingual.malaysian@gmail.com](mailto:multilingual.malaysian@gmail.com). Have fun learning!!

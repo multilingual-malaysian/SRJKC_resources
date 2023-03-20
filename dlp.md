@@ -24,4 +24,4 @@ Number of page visits: ![HitCount](https://hits.dwyl.com/multilingual-malaysian/
 <a href="https://drive.google.com/file/d/15z8NP7MDgraXuqY1JGNuxaFKJxk5oVlW/view?usp=share_link" target="_blank"><img src="/SRJKC_resources/assets/images/science5.png" alt="Science Year 5" width="150" height="180"></a>
 
 ### Year 6
- <img src="/SRJKC_resources/assets/images/science6.png" alt="Science Year 6" width="150" height="180"> <a href="https://gurubesar.my/wp-content/uploads/2022/03/SCIENCE-Y6-SK-SEMAKAN-2017-PART-1.pdf" target="_blank">Part 1</a> <br> <a href="" target="_blank">Part 2</a>
+ <img src="/SRJKC_resources/assets/images/science6.png" alt="Science Year 6" width="150" height="180"> <a href="https://gurubesar.my/wp-content/uploads/2022/03/SCIENCE-Y6-SK-SEMAKAN-2017-PART-1.pdf" target="_blank">Part 1</a>     <a href="" target="_blank">Part 2</a>

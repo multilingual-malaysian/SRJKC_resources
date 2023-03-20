@@ -12,7 +12,9 @@ Number of page visits: ![HitCount](https://hits.dwyl.com/multilingual-malaysian/
 <a href="https://drive.google.com/file/d/15z8NP7MDgraXuqY1JGNuxaFKJxk5oVlW/view?usp=share_link" target="_blank"><img src="/SRJKC_resources/assets/images/science1.png" alt="Science Year 1" width="150" height="180"></a>
 
 ### Year 2
-<a href="https://drive.google.com/file/d/15z8NP7MDgraXuqY1JGNuxaFKJxk5oVlW/view?usp=share_link" target="_blank"><img src="/SRJKC_resources/assets/images/science2.png" alt="Science Year 2" width="150" height="180"></a>
+<a href="" target="_blank"><img src="/SRJKC_resources/assets/images/maths2_p1.png" alt="Maths Year 2 Part 1" width="150" height="180"></a>
+<a href="" target="_blank"><img src="/SRJKC_resources/assets/images/maths2_p2.png" alt="Maths Year 2 Part 2" width="150" height="180"></a>\
+<a href="" target="_blank"><img src="/SRJKC_resources/assets/images/science2.png" alt="Science Year 2" width="150" height="180"></a>
 
 ### Year 3
 <a href="https://drive.google.com/file/d/15z8NP7MDgraXuqY1JGNuxaFKJxk5oVlW/view?usp=share_link" target="_blank"><img src="/SRJKC_resources/assets/images/science3.png" alt="Science Year 3" width="150" height="180"></a>

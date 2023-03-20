@@ -1,5 +1,5 @@
 ---
 title: DLP Textbooks
 feature_text: 
-feature_image: /SRJKC_resources/assets/images/DLP-.jpg
+feature_image: "https://picsum.photos/1300/400?image=20"
 ---

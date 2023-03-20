@@ -7,9 +7,9 @@ feature_image: "https://picsum.photos/1300/400?image=20"
 Number of page visits: ![HitCount](https://hits.dwyl.com/multilingual-malaysian/SRJKC_resources.svg?style=flat)
 
 ### Year 1
-<a href="" target="_blank"><img src="/SRJKC_resources/assets/images/maths1_p1.png" alt="Maths Year 1 Part 1" width="150" height="180"></a>
-<a href="" target="_blank"><img src="/SRJKC_resources/assets/images/maths1_p2.png" alt="Maths Year 1 Part 2" width="150" height="180"></a>\
-<a href="" target="_blank"><img src="/SRJKC_resources/assets/images/science1.png" alt="Science Year 1" width="150" height="180"></a>
+<a href="https://drive.google.com/file/d/1D7CP-v2nqBMuep9sF2tg-gIdx-Tgp47R/view?usp=share_link" target="_blank"><img src="/SRJKC_resources/assets/images/maths1_p1.png" alt="Maths Year 1 Part 1" width="150" height="180"></a>
+<a href="https://drive.google.com/file/d/1JsHCYVefe5i_-VmPZTfBSNJmb-G9Hu04/view?usp=share_link" target="_blank"><img src="/SRJKC_resources/assets/images/maths1_p2.png" alt="Maths Year 1 Part 2" width="150" height="180"></a>\
+<a href="https://drive.google.com/file/d/18VWq0EUq7XkeTVtBb13URWn4ahRxnhun/view?usp=share_link" target="_blank"><img src="/SRJKC_resources/assets/images/science1.png" alt="Science Year 1" width="150" height="180"></a>
 
 ### Year 2
 <a href="https://drive.google.com/file/d/1BF8IhqIJbxLn2O0_7LlogfOWGNStI3eC/view?usp=share_link" target="_blank"><img src="/SRJKC_resources/assets/images/maths2_p1.png" alt="Maths Year 2 Part 1" width="150" height="180"></a>
@@ -17,9 +17,9 @@ Number of page visits: ![HitCount](https://hits.dwyl.com/multilingual-malaysian/
 <a href="https://gurubesar.my/wp-content/uploads/2020/10/Science_Year_2.pdf" target="_blank"><img src="/SRJKC_resources/assets/images/science2.png" alt="Science Year 2" width="150" height="180"></a>
 
 ### Year 3
-<a href="" target="_blank"><img src="/SRJKC_resources/assets/images/maths3_p1.png" alt="Maths Year 3 Part 1" width="150" height="180"></a>
-<a href="" target="_blank"><img src="/SRJKC_resources/assets/images/maths3_p2.png" alt="Maths Year 3 Part 2" width="150" height="180"></a>\
-<a href="" target="_blank"><img src="/SRJKC_resources/assets/images/science3.png" alt="Science Year 3" width="150" height="180"></a>
+<a href="https://drive.google.com/file/d/1yX3cuukykQGZS26fDevg5Xh91xZ897K5/view?usp=share_link" target="_blank"><img src="/SRJKC_resources/assets/images/maths3_p1.png" alt="Maths Year 3 Part 1" width="150" height="180"></a>
+<a href="https://drive.google.com/file/d/1oxbqZTUlWDYQTdvUFOvj9WlfPaQXlj1C/view" target="_blank"><img src="/SRJKC_resources/assets/images/maths3_p2.png" alt="Maths Year 3 Part 2" width="150" height="180"></a>\
+<a href="https://gurubesar.my/wp-content/uploads/2020/02/438477802-Science-Year-3-DLP-Text-KSSR-Semakan-1.pdf" target="_blank"><img src="/SRJKC_resources/assets/images/science3.png" alt="Science Year 3" width="150" height="180"></a>
 
 ### Year 4
 <a href="" target="_blank"><img src="/SRJKC_resources/assets/images/maths4.png" alt="Maths Year 4" width="150" height="180"></a>\

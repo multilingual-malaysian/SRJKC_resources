@@ -11,6 +11,8 @@ _Credit to https://gurubesar.my/ for these files._
 
 Click on the respective images or links to access the PDF files. Please notify [multilingual.malaysian@gmail.com](mailto:multilingual.malaysian@gmail.com) if you encounter any broken link.
 
+<iframe src="https://www.facebook.com/plugins/like.php?href=https://multilingual-malaysian.github.io/SRJKC_resources/dlp/&width=174&layout=button_count&action=like&size=large&share=true&height=46&appId" width="174" height="46" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
 ### Year 1
 <a href="https://drive.google.com/file/d/1D7CP-v2nqBMuep9sF2tg-gIdx-Tgp47R/view?usp=share_link" target="_blank"><img src="/SRJKC_resources/assets/images/maths1_p1.png" alt="Maths Year 1 Part 1" width="150" height="180"></a>
 <a href="https://drive.google.com/file/d/1JsHCYVefe5i_-VmPZTfBSNJmb-G9Hu04/view?usp=share_link" target="_blank"><img src="/SRJKC_resources/assets/images/maths1_p2.png" alt="Maths Year 1 Part 2" width="150" height="180"></a>\

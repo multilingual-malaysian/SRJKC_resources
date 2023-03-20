@@ -8,6 +8,7 @@ Number of page visits: ![HitCount](https://hits.dwyl.com/multilingual-malaysian/
 
 ### Year 1
 <a href="/SRJKC_resources/doc/dlp/MATHEMATICS Y1 - PART 1.pdf" target="_blank"><img src="/SRJKC_resources/assets/images/maths1_p1.png" alt="Maths Year 1 Part 1" width="150" height="180"></a>
+<a href="/SRJKC_resources/doc/dlp/MATHEMATICS Y1 - PART 1.pdf" target="_blank"><img src="/SRJKC_resources/assets/images/maths1_p2.png" alt="Maths Year 1 Part 2" width="150" height="180"></a>
 
 ### Year 2
 

@@ -9,3 +9,5 @@ Number of page visits: ![HitCount](https://hits.dwyl.com/multilingual-malaysian/
 | Subject | Textbook (PDF) |
 | --- | --- |
 |![Science Year 1](/SRJKC_resources/assets/images/science1.png) | LInk|
+
+<img src="/SRJKC_resources/assets/images/science1.png" alt="Science Year 1" width="50" height="60">

@@ -26,7 +26,7 @@ Number of page visits: ![HitCount](https://hits.dwyl.com/multilingual-malaysian/
 <a href="https://gurubesar.my/wp-content/uploads/2020/07/Science_Year_4_compressed.pdf" target="_blank"><img src="/SRJKC_resources/assets/images/science4.png" alt="Science Year 4" width="150" height="180"></a>
 
 ### Year 5
-<img src="/SRJKC_resources/assets/images/maths5.png" alt="Maths Year 5" width="150" height="180"><a href="https://drive.google.com/file/d/1FJAIvBZqbgVEtJv7bPgZBL3oOC7ccf0D/view" target="_blank">Part 1</a>   <a href="https://drive.google.com/file/d/15GOvVoec5cdKr4TRIlRVMzUTbMCRSvQG/view" target="_blank">Part 2</a>\
+<img src="/SRJKC_resources/assets/images/maths5.png" alt="Maths Year 5" width="150" height="180"><a href="https://drive.google.com/file/d/1FJAIvBZqbgVEtJv7bPgZBL3oOC7ccf0D/view" target="_blank">[Part 1]</a>     <a href="https://drive.google.com/file/d/15GOvVoec5cdKr4TRIlRVMzUTbMCRSvQG/view" target="_blank">[Part 2]</a>\
 <img src="/SRJKC_resources/assets/images/science5.png" alt="Science Year 5" width="150" height="180"><a href="https://gurubesar.my/wp-content/uploads/2021/03/SCIENCE-Y5-1-OF-4.pdf" target="_blank">[Part 1]</a>     <a href="https://drive.google.com/u/0/uc?id=1Tu_w4I8iq1g7O3S-mzTdFDuKLVkgbdl7&export=download" target="_blank">[Part 2]</a>     <a href="https://gurubesar.my/wp-content/uploads/2021/03/SCIENCE-Y5-3-OF-4.pdf" target="_blank">[Part 3]</a>     <a href="https://gurubesar.my/wp-content/uploads/2021/03/SCIENCE-Y5-4-OF-4.pdf" target="_blank">[Part 4]</a>
 
 ### Year 6

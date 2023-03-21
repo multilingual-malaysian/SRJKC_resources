@@ -23,6 +23,10 @@ excerpt: "Resource centre for Bahasa Cina Tahun 6 text book"
 <a href="/SRJKC_resources/doc/year6/year6_text1.pdf" target="_blank">1 动物大迁徙有感 [pg. 2-8]</a>\
 <a href="/SRJKC_resources/doc/year6/year6_text2.pdf" target="_blank">2 草船借箭 [pg. 9-16]</a>\
 <a href="/SRJKC_resources/doc/year6/year6_text3.pdf" target="_blank">3 与众不同的一本书 [pg. 17-24]</a>\
+<a href="/SRJKC_resources/doc/year6/year6_text4.pdf" target="_blank">4 谁拿走了钱袋 [pg. 25-31]</a>\
+<a href="/SRJKC_resources/doc/year6/year6_text5.pdf" target="_blank">5 虫不可貌相 [pg. 32-39]</a>\
+<a href="/SRJKC_resources/doc/year6/year6_text6.pdf" target="_blank">6 暖心小铺 [pg. 42-46]</a>\
+
 _Other PDF files will be made available soon_
 
 [Back to Top](#top)

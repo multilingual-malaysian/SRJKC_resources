@@ -8,7 +8,6 @@ feature_image: /SRJKC_resources/assets/images/fb_groups.jpg
 I stumbled upon many like-minded groups on Facebook, here's tabulating them here for easier reference. This is by no means an exhaustive list, if I have missed any, please let me know by emailing me [multilingual.malaysian@gmail.com](mailto:multilingual.malaysian@gmail.com) and I will try to keep this list as up-to-date as possible.
 
 **Chinese-speaking:**
-* [华文小学 ( SJKC ) 教育分享站](https://www.facebook.com/groups/294156912415733) 
 * [大马中小学讨论区](https://www.facebook.com/groups/sjkcmy)
 * [教育资讯分享群](https://www.facebook.com/groups/965203110896756)
 * [KSSR 小学教材分享站](https://www.facebook.com/groups/3860103350697621)

@@ -23,7 +23,11 @@ excerpt: "Resource centre for Bahasa Cina Tahun 2 text book"
 <iframe width="100%" height="550" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1494647833&color=%23b0aa78&auto_play=false&hide_related=false&show_comments=false&show_user=false&show_reposts=false&show_teaser=false"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/sets/srjkc-chinese-year-2" title="SRJKC Chinese Year 2" target="_blank" style="color: #cccccc; text-decoration: none;">SRJKC Chinese Year 2</a></div>
 [Back to Top](#top)
 
-### Pinyin 拼音注音 + English Translation 英文翻译 (PDF File) <a name="pinyin"></a>
+### Pinyin 拼音注音 + English Translation 英文翻译<a name="pinyin"></a>
+**Flipbook Format:**\
+<iframe style="width:400px;height:250px" src="https://online.fliphtml5.com/pjnuy/fgif/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe>
+
+**PDF Format:**\
 <a href="/SRJKC_resources/doc/year2/year2_chapter1.pdf" target="_blank">Chap. 1 第一单元 丰富多彩的校园生活 [pg. 1-5]</a>\
 <a href="/SRJKC_resources/doc/year2/year2_chapter2.pdf" target="_blank">Chap. 2 第二单元 生活多美好 [pg. 6-11]</a>\
 <a href="/SRJKC_resources/doc/year2/year2_chapter3.pdf" target="_blank">Chap. 3 第三单元 温暖的家 [pg. 12-19]</a>\

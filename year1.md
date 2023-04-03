@@ -21,10 +21,10 @@ excerpt: "Resource centre for Bahasa Cina Tahun 1 text book"
 [Back to Top](#top)
 
 ### Pinyin 拼音注音 + English Translation 英文翻译<a name="pinyin"></a>
-##### Flipbook format
+#### Flipbook format:
 <iframe style="width:400px;height:250px" src="https://online.fliphtml5.com/pjnuy/ctos/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe>
 
-##### PDF format
+#### PDF format:
 <a href="/SRJKC_resources/doc/year1/year1_chapter1.pdf" target="_blank">Chap. 1 第一单元 新的开始 [pg. 1 - 5]</a>\
 <a href="/SRJKC_resources/doc/year1/year1_chapter2.pdf" target="_blank">Chap. 2 第二单元 走进教室 [pg. 6 - 11]</a>\
 <a href="/SRJKC_resources/doc/year1/year1_chapter3.pdf" target="_blank">Chap. 3 第三单元 我爱我的家 [pg. 12 - 18]</a>\

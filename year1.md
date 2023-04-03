@@ -21,9 +21,7 @@ excerpt: "Resource centre for Bahasa Cina Tahun 1 text book"
 [Back to Top](#top)
 
 ### Pinyin 拼音注音 + English Translation 英文翻译 (PDF File) <a name="pinyin"></a>
-<iframe style="width:700px;height:400px" src="https://online.fliphtml5.com/pjnuy/ctos/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe>
-
-<script src="//static.fliphtml5.com/web/js/plugin/LightBox/js/fliphtml5-light-box-api-min.js"></script>
+<iframe style="width:400px;height:250px" src="https://online.fliphtml5.com/pjnuy/ctos/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe>
 
 <a href="/SRJKC_resources/doc/year1/year1_chapter1.pdf" target="_blank">Chap. 1 第一单元 新的开始 [pg. 1 - 5]</a>\
 <a href="/SRJKC_resources/doc/year1/year1_chapter2.pdf" target="_blank">Chap. 2 第二单元 走进教室 [pg. 6 - 11]</a>\

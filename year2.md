@@ -24,7 +24,7 @@ excerpt: "Resource centre for Bahasa Cina Tahun 2 text book"
 [Back to Top](#top)
 
 ### Pinyin 拼音注音 + English Translation 英文翻译<a name="pinyin"></a>
-**Flipbook Format:**\
+**Flipbook Format:**
 <iframe style="width:400px;height:250px" src="https://online.fliphtml5.com/pjnuy/fgif/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe>
 
 **PDF Format:**\

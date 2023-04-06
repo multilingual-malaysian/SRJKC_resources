@@ -22,10 +22,10 @@ excerpt: "Resource centre for Bahasa Cina Tahun 3 text book"
 [Back to Top](#top)
 
 ### Pinyin 拼音注音 + English Translation 英文翻译 (PDF File) <a name="pinyin"></a>
-**Flipbook Format:**\
+**Flipbook Format:**
 <iframe style="width:400px;height:250px" src="https://online.fliphtml5.com/pjnuy/wxba/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe>
 
-**PDF Format:**
+**PDF Format:**\
 <a href="/SRJKC_resources/doc/year3/year3_chapter1.pdf" target="_blank">Chap. 1 第一单元 通往未来的路上学的路 [pg. 1-5]</a>\
 <a href="/SRJKC_resources/doc/year3/year3_chapter2.pdf" target="_blank">Chap. 2 第二单元 巧妙的道歉魔豆传心意 [pg. 6-10]</a>\
 <a href="/SRJKC_resources/doc/year3/year3_chapter3.pdf" target="_blank">Chap. 3 第三单元 小动物的智慧鸟儿筑巢 [pg. 11-15]</a>\

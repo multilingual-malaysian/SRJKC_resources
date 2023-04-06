@@ -34,6 +34,11 @@ excerpt: "Resource centre for Bahasa Cina Tahun 3 text book"
 <a href="/SRJKC_resources/doc/year3/year3_chapter10.pdf" target="_blank">Chap. 10 第十单元 美丽的传说 [pg. 58-62]</a>\
 <a href="/SRJKC_resources/doc/year3/year3_chapter11.pdf" target="_blank">Chap. 11 第十一单元 舌尖上的美味 [pg. 63-67]</a>\
 <a href="/SRJKC_resources/doc/year3/year3_chapter12.pdf" target="_blank">Chap. 12 第十二单元 造福人类的发明 [pg. 68-72]</a>\
+<a href="/SRJKC_resources/doc/year3/year3_chapter12.pdf" target="_blank">Chap. 13 第十三单元 汉字真有趣 [pg. 77-83]</a>\
+<a href="/SRJKC_resources/doc/year3/year3_chapter12.pdf" target="_blank">Chap. 14 第十四单元 读故事，学成语 [pg. 84-90]</a>\
+<a href="/SRJKC_resources/doc/year3/year3_chapter12.pdf" target="_blank">Chap. 15 第十五单元 生活处处有惊喜 [pg. 91-95]</a>\
+<a href="/SRJKC_resources/doc/year3/year3_chapter12.pdf" target="_blank">Chap. 16 第十六单元 童话故事会 [pg. 96-100]</a>\
+<a href="/SRJKC_resources/doc/year3/year3_chapter12.pdf" target="_blank">Chap. 17 第十七单元 真正的友情 [pg. 105-109]</a>\
 <a href="/SRJKC_resources/doc/year3/year3_chapter10.pdf" target="_blank">Chap. 18 第十八单元 自然的规律 [pg. 110-116]</a>\
 <a href="/SRJKC_resources/doc/year3/year3_chapter10.pdf" target="_blank">Chap. 19 第十九单元 站在高楼看世界 [pg. 117-121]</a>\
 <a href="/SRJKC_resources/doc/year3/year3_chapter10.pdf" target="_blank">Chap. 20 第二十单元 特别的体验 [pg. 122-128]</a>

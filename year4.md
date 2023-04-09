@@ -30,7 +30,11 @@ excerpt: "Resource centre for Bahasa Cina Tahun 4 text book"
 <a href="/SRJKC_resources/doc/year4/year4_text7.pdf" target="_blank">7 数学王子 [pg. 46-51]</a>\
 <a href="/SRJKC_resources/doc/year4/year4_text8.pdf" target="_blank">8 牵动人心的椰子 [pg. 54-59]</a>\
 <a href="/SRJKC_resources/doc/year4/year4_text9.pdf" target="_blank">9 表弟来了 [pg. 61-66]</a>\
-<a href="/SRJKC_resources/doc/year4/year4_text10.pdf" target="_blank">10 宽大为怀 [pg. 70-73]</a>
+<a href="/SRJKC_resources/doc/year4/year4_text10.pdf" target="_blank">10 宽大为怀 [pg. 70-73]</a>\
+<a href="/SRJKC_resources/doc/year4/year4_text10.pdf" target="_blank">11 卑微里的大力量 [pg. 78-85]</a>\
+<a href="/SRJKC_resources/doc/year4/year4_text10.pdf" target="_blank">12 伽利略的落体实验 [pg. 86-90]</a>\
+<a href="/SRJKC_resources/doc/year4/year4_text10.pdf" target="_blank">13 街头魔术师 [pg. 93-98]</a>\
+<a href="/SRJKC_resources/doc/year4/year4_text10.pdf" target="_blank">14 最美丽的风景 [pg. 99-104]</a>
 
 _Other chapters will be made available soon_\
 [Back to Top](#top)

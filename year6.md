@@ -20,12 +20,14 @@ excerpt: "Resource centre for Bahasa Cina Tahun 6 text book"
 [Back to Top](#top)
 
 ### Pinyin 拼音注音 + English Translation 英文翻译 (PDF File) <a name="pinyin"></a>
-<a href="/SRJKC_resources/doc/year6/year6_text1.pdf" target="_blank">1 动物大迁徙有感 [pg. 2-8]</a>\
-<a href="/SRJKC_resources/doc/year6/year6_text2.pdf" target="_blank">2 草船借箭 [pg. 9-16]</a>\
-<a href="/SRJKC_resources/doc/year6/year6_text3.pdf" target="_blank">3 与众不同的一本书 [pg. 17-24]</a>\
-<a href="/SRJKC_resources/doc/year6/year6_text4.pdf" target="_blank">4 谁拿走了钱袋 [pg. 25-31]</a>\
-<a href="/SRJKC_resources/doc/year6/year6_text5.pdf" target="_blank">5 虫不可貌相 [pg. 32-39]</a>\
-<a href="/SRJKC_resources/doc/year6/year6_text6.pdf" target="_blank">6 暖心小铺 [pg. 42-46]</a>\
+<a href="/SRJKC_resources/doc/year6/year6_text1.pdf" target="_blank">1. 动物大迁徙有感 [pg. 2-8]</a>\
+<a href="/SRJKC_resources/doc/year6/year6_text2.pdf" target="_blank">2. 草船借箭 [pg. 9-16]</a>\
+<a href="/SRJKC_resources/doc/year6/year6_text3.pdf" target="_blank">3. 与众不同的一本书 [pg. 17-24]</a>\
+<a href="/SRJKC_resources/doc/year6/year6_text4.pdf" target="_blank">4. 谁拿走了钱袋 [pg. 25-31]</a>\
+<a href="/SRJKC_resources/doc/year6/year6_text5.pdf" target="_blank">5. 虫不可貌相 [pg. 32-39]</a>\
+<a href="/SRJKC_resources/doc/year6/year6_text6.pdf" target="_blank">6. 暖心小铺 [pg. 42-46]</a>
+<a href="/SRJKC_resources/doc/year6/year6_text7.pdf" target="_blank">7. 母亲的叮咛 [pg. 51-56]</a>
+<a href="/SRJKC_resources/doc/year6/year6_text8.pdf" target="_blank">8. 传递温情的蓝丝带 [pg. 58-61]</a>
 
 _Other PDF files will be made available soon_
 

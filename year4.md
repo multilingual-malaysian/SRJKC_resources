@@ -31,10 +31,12 @@ excerpt: "Resource centre for Bahasa Cina Tahun 4 text book"
 <a href="/SRJKC_resources/doc/year4/year4_text8.pdf" target="_blank">8 牵动人心的椰子 [pg. 54-59]</a>\
 <a href="/SRJKC_resources/doc/year4/year4_text9.pdf" target="_blank">9 表弟来了 [pg. 61-66]</a>\
 <a href="/SRJKC_resources/doc/year4/year4_text10.pdf" target="_blank">10 宽大为怀 [pg. 70-73]</a>\
-<a href="/SRJKC_resources/doc/year4/year4_text10.pdf" target="_blank">11 卑微里的大力量 [pg. 78-85]</a>\
-<a href="/SRJKC_resources/doc/year4/year4_text10.pdf" target="_blank">12 伽利略的落体实验 [pg. 86-90]</a>\
-<a href="/SRJKC_resources/doc/year4/year4_text10.pdf" target="_blank">13 街头魔术师 [pg. 93-98]</a>\
-<a href="/SRJKC_resources/doc/year4/year4_text10.pdf" target="_blank">14 最美丽的风景 [pg. 99-104]</a>
+<a href="/SRJKC_resources/doc/year4/year4_text11.pdf" target="_blank">11 卑微里的大力量 [pg. 78-85]</a>\
+<a href="/SRJKC_resources/doc/year4/year4_text12.pdf" target="_blank">12 伽利略的落体实验 [pg. 86-90]</a>\
+<a href="/SRJKC_resources/doc/year4/year4_text13.pdf" target="_blank">13 街头魔术师 [pg. 93-98]</a>\
+<a href="/SRJKC_resources/doc/year4/year4_text14.pdf" target="_blank">14 最美丽的风景 [pg. 99-104]</a>\
+<a href="/SRJKC_resources/doc/year4/year4_text15.pdf" target="_blank">15 人工智能汽车 [pg. 106-113]</a>\
+<a href="/SRJKC_resources/doc/year4/year4_text16.pdf" target="_blank">16 国庆日记 [pg. 116-120]</a>
 
 _Other chapters will be made available soon_\
 [Back to Top](#top)

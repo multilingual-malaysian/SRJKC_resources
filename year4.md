@@ -36,7 +36,11 @@ excerpt: "Resource centre for Bahasa Cina Tahun 4 text book"
 <a href="/SRJKC_resources/doc/year4/year4_text13.pdf" target="_blank">13 街头魔术师 [pg. 93-98]</a>\
 <a href="/SRJKC_resources/doc/year4/year4_text14.pdf" target="_blank">14 最美丽的风景 [pg. 99-104]</a>\
 <a href="/SRJKC_resources/doc/year4/year4_text15.pdf" target="_blank">15 人工智能汽车 [pg. 106-113]</a>\
-<a href="/SRJKC_resources/doc/year4/year4_text16.pdf" target="_blank">16 国庆日记 [pg. 116-120]</a>
+<a href="/SRJKC_resources/doc/year4/year4_text16.pdf" target="_blank">16 国庆日记 [pg. 116-120]</a>\
+<a href="/SRJKC_resources/doc/year4/year4_text17.pdf" target="_blank">17 盲目的强大 [pg. 122-128]</a>\
+<a href="/SRJKC_resources/doc/year4/year4_text18.pdf" target="_blank">18 框住美景 [pg. 129-134]</a>\
+<a href="/SRJKC_resources/doc/year4/year4_text19.pdf" target="_blank">19 稻香 [pg. 136-143]</a>\
+<a href="/SRJKC_resources/doc/year4/year4_text20.pdf" target="_blank">20 鼓声的召唤 [pg. 145-150]</a>
 
 _Other chapters will be made available soon_\
 [Back to Top](#top)

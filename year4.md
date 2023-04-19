@@ -21,10 +21,10 @@ excerpt: "Resource centre for Bahasa Cina Tahun 4 text book"
 [Back to Top](#top)
 
 ### Pinyin 拼音注音 + English Translation 英文翻译 <a name="pinyin"></a>
-Flipbook Format:
+**Flipbook Format:**
 <iframe style="width:400px;height:250px" src="https://online.fliphtml5.com/pjnuy/rgax/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe>
 
-PDF Format:\
+**PDF Format:**\
 <a href="/SRJKC_resources/doc/year4/year4_text1.pdf" target="_blank">1 踏上学习的征途 [pg. 2-9]</a>\
 <a href="/SRJKC_resources/doc/year4/year4_text2.pdf" target="_blank">2 棋王的心事 [pg. 10-14]</a>\
 <a href="/SRJKC_resources/doc/year4/year4_text3.pdf" target="_blank">3 颂赞温情 [pg. 17-21]</a>\

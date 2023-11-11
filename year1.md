@@ -13,6 +13,7 @@ excerpt: "Resource centre for Bahasa Cina Tahun 1 text book"
   - Workbook reference answers: [List of Facebook posts and Youtube links](#workbook)
 
 <iframe src="https://www.facebook.com/plugins/like.php?href=https://multilingual-malaysian.github.io/SRJKC_resources/year1/&width=174&layout=button_count&action=like&size=large&share=true&height=46&appId" width="174" height="46" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<a href="https://www.buymeacoffee.com/meisin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 46px !important;width: 166px !important;" ></a>
 
 ---
 

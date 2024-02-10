@@ -13,7 +13,6 @@ excerpt: "Resource centre for Bahasa Cina Tahun 5 text book"
   - Textbook Youtube Channels: [List of Youtube links](#videos)
 
 <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fmultilingual-malaysian.github.io%2FSRJKC_resources%2Fyear5%2F&width=174&layout=button_count&action=like&size=large&share=true&height=46&appId" width="174" height="46" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-<a href="https://www.buymeacoffee.com/meisin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 46px !important;width: 166px !important;" ></a>
 
 ---
 
@@ -33,6 +32,7 @@ excerpt: "Resource centre for Bahasa Cina Tahun 5 text book"
 <a href="/SRJKC_resources/doc/year5/year5_text9.pdf" target="_blank">9. 笑谈端午 [pg. 62-68]</a>\
 <a href="/SRJKC_resources/doc/year5/year5_text10.pdf" target="_blank">10. 无声合唱团 [pg. 70-73]</a>\
 <a href="/SRJKC_resources/doc/year5/year5_text11.pdf" target="_blank">11. 诗情画意的世界 [pg. 81-87]</a>
+<a href="/SRJKC_resources/doc/year5/year5_text12.pdf" target="_blank">12. 走入传统马来屋 [pg. 88-91]</a>
 
 _Other chapters will be made available soon_
 

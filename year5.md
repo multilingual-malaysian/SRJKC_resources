@@ -32,7 +32,8 @@ excerpt: "Resource centre for Bahasa Cina Tahun 5 text book"
 <a href="/SRJKC_resources/doc/year5/year5_text9.pdf" target="_blank">9. 笑谈端午 [pg. 62-68]</a>\
 <a href="/SRJKC_resources/doc/year5/year5_text10.pdf" target="_blank">10. 无声合唱团 [pg. 70-73]</a>\
 <a href="/SRJKC_resources/doc/year5/year5_text11.pdf" target="_blank">11. 诗情画意的世界 [pg. 81-87]</a>\
-<a href="/SRJKC_resources/doc/year5/year5_text12.pdf" target="_blank">12. 走入传统马来屋 [pg. 88-91]</a>
+<a href="/SRJKC_resources/doc/year5/year5_text12.pdf" target="_blank">12. 走入传统马来屋 [pg. 88-91]</a>\
+<a href="/SRJKC_resources/doc/year5/year5_text13.pdf" target="_blank">13. 鸡场街里的年轻梦 [pg. 95-100]</a>
 
 _Other chapters will be made available soon_
 

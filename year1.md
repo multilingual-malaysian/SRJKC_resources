@@ -7,7 +7,7 @@ excerpt: "Resource centre for Bahasa Cina Tahun 1 text book"
 ---
 ![HitCount](https://hits.dwyl.com/multilingual-malaysian/SRJKC_resources.svg?style=flat)
 
-<iframe src="https://www.seethestats.com/stats/21027/TotalUsers_3cfa61c17_ctr.html" style="width:120px;height:60px;border:none;" scrolling="no" frameborder="0"></iframe>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fmultilingual-malaysian.github.io%2FSRJKC_resources%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 - [Textbook Audio books 课文朗读](#audio)
 - [Textbook Pinyin 拼音注音 + English Translation 英文翻译](#pinyin)

@@ -5,8 +5,6 @@ feature_text: |
 feature_image: "/SRJKC_resources/assets/images/BC_1_cover.png"
 excerpt: "Resource centre for Bahasa Cina Tahun 1 text book"
 ---
-![HitCount](https://hits.dwyl.com/multilingual-malaysian/SRJKC_resources.svg?style=flat)
-
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fmultilingual-malaysian.github.io%2FSRJKC_resources%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
   
 - [Textbook Audio books 课文朗读](#audio)
@@ -16,7 +14,6 @@ excerpt: "Resource centre for Bahasa Cina Tahun 1 text book"
   - Workbook reference answers: [List of Facebook posts and Youtube links](#workbook)
 
 <iframe src="https://www.facebook.com/plugins/like.php?href=https://multilingual-malaysian.github.io/SRJKC_resources/year1/&width=174&layout=button_count&action=like&size=large&share=true&height=46&appId" width="174" height="46" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-<a href="https://www.buymeacoffee.com/meisin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 46px !important;width: 166px !important;" ></a>
 
 ---
 
@@ -77,3 +74,6 @@ excerpt: "Resource centre for Bahasa Cina Tahun 1 text book"
   - [E Answer Space Jilid 2](https://youtu.be/0BVcgXpZr_4)
 
 [Back to Top](#top)
+
+
+![HitCount](https://hits.dwyl.com/multilingual-malaysian/SRJKC_resources.svg?style=flat)

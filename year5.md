@@ -38,7 +38,9 @@ excerpt: "Resource centre for Bahasa Cina Tahun 5 text book"
 <a href="/SRJKC_resources/doc/year5/year5_text15.pdf" target="_blank">15. 探索生态公园 [pg. 107-113]</a>\
 <a href="/SRJKC_resources/doc/year5/year5_text16.pdf" target="_blank">16. 生命中的烙印 [pg. 119-122]</a>\
 <a href="/SRJKC_resources/doc/year5/year5_text17.pdf" target="_blank">17. 永不磨灭的幸福 [pg. 125-130]</a>\
-<a href="/SRJKC_resources/doc/year5/year5_text18.pdf" target="_blank">18. 棋盘里的智慧 [pg. 132-135]</a>
+<a href="/SRJKC_resources/doc/year5/year5_text18.pdf" target="_blank">18. 棋盘里的智慧 [pg. 132-135]</a>\
+<a href="/SRJKC_resources/doc/year5/year5_text19.pdf" target="_blank">19. 巨石载船 [pg. 138-144]</a>\
+<a href="/SRJKC_resources/doc/year5/year5_text20.pdf" target="_blank">20. 勇于抗争的斗士 [pg. 145-147]</a>
 
 _Other chapters will be made available soon_
 

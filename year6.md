@@ -32,7 +32,8 @@ excerpt: "Resource centre for Bahasa Cina Tahun 6 text book"
 <a href="/SRJKC_resources/doc/year6/year6_text9.pdf" target="_blank">9. 网课新态度 [pg. 65-72]</a>\
 <a href="/SRJKC_resources/doc/year6/year6_text10.pdf" target="_blank">10. 奔驰在路上的汗水 [pg. 73-76]</a>\
 <a href="/SRJKC_resources/doc/year6/year6_text11.pdf" target="_blank">11. 淘气的鞋 [pg. 82-88]</a>\
-<a href="/SRJKC_resources/doc/year6/year6_text12.pdf" target="_blank">12. 没有动物的马戏团 [pg. 89-93]</a>
+<a href="/SRJKC_resources/doc/year6/year6_text12.pdf" target="_blank">12. 没有动物的马戏团 [pg. 89-93]</a>\
+<a href="/SRJKC_resources/doc/year6/year6_text15.pdf" target="_blank">15. 巧儿绣龙 [pg. 111-114]</a>
 
 _Other PDF files will be made available soon_
 

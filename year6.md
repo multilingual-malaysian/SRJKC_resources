@@ -34,7 +34,8 @@ excerpt: "Resource centre for Bahasa Cina Tahun 6 text book"
 <a href="/SRJKC_resources/doc/year6/year6_text11.pdf" target="_blank">11. 淘气的鞋 [pg. 82-88]</a>\
 <a href="/SRJKC_resources/doc/year6/year6_text12.pdf" target="_blank">12. 没有动物的马戏团 [pg. 89-93]</a>\
 <a href="/SRJKC_resources/doc/year6/year6_text14.pdf" target="_blank">14. 细菌也搬家 [pg. 104-107]</a>\
-<a href="/SRJKC_resources/doc/year6/year6_text15.pdf" target="_blank">15. 巧儿绣龙 [pg. 111-114]</a>
+<a href="/SRJKC_resources/doc/year6/year6_text15.pdf" target="_blank">15. 巧儿绣龙 [pg. 111-114]</a>\
+<a href="/SRJKC_resources/doc/year6/year6_text16.pdf" target="_blank">16. 探索尼亚洞 [pg. 120-126]</a>
 
 _Other PDF files will be made available soon_
 

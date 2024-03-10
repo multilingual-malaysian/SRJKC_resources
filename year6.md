@@ -38,7 +38,8 @@ Number of page visits: ![HitCount](https://hits.dwyl.com/multilingual-malaysian/
 <a href="/SRJKC_resources/doc/year6/year6_text15.pdf" target="_blank">15. 巧儿绣龙 [pg. 111-114]</a>\
 <a href="/SRJKC_resources/doc/year6/year6_text16.pdf" target="_blank">16. 探索尼亚洞 [pg. 120-126]</a>\
 <a href="/SRJKC_resources/doc/year6/year6_text17.pdf" target="_blank">17. 游走于两根棍子上的精灵 [pg. 128-131]</a>\
-<a href="/SRJKC_resources/doc/year6/year6_text18.pdf" target="_blank">18. 薪火相传 [pg. 136-139]</a>
+<a href="/SRJKC_resources/doc/year6/year6_text18.pdf" target="_blank">18. 薪火相传 [pg. 136-139]</a>\
+<a href="/SRJKC_resources/doc/year6/year6_text19.pdf" target="_blank">19. 趣谈姓氏 [pg. 144-149]</a>
 
 _Other PDF files will be made available soon_
 

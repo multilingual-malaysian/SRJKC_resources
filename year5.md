@@ -22,6 +22,11 @@ Number of page visits: ![HitCount](https://hits.dwyl.com/multilingual-malaysian/
 [Back to Top](#top)
 
 ### Pinyin 拼音注音 + English Translation 英文翻译 (PDF File) <a name="pinyin"></a>
+**Flipbook Format:**
+<iframe style="width:400px;height:250px" src="https://online.fliphtml5.com/pjnuy/wxba/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe>
+<div style="position:relative;padding-top:0;width:400px;height:250px;"><iframe style="position:absolute;border:none;width:100%;height:100%;left:0;top:0;" src="https://online.fliphtml5.com/pjnuy/ahsc/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe></div>
+
+**PDF Format:**\
 <a href="/SRJKC_resources/doc/year5/year5_text1.pdf" target="_blank">1. 实力会说话 [pg. 3-8]</a>\
 <a href="/SRJKC_resources/doc/year5/year5_text2.pdf" target="_blank">2. 风中的树苗 [pg. 9-12]</a>\
 <a href="/SRJKC_resources/doc/year5/year5_text3.pdf" target="_blank">3. 告别网络游戏的汤姆 [pg. 16-22]</a>\

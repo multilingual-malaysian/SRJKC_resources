@@ -23,7 +23,7 @@ Number of page visits: ![HitCount](https://hits.dwyl.com/multilingual-malaysian/
 
 ### Pinyin 拼音注音 + English Translation 英文翻译 <a name="pinyin"></a>
 **Flipbook Format:**
-<iframe style="width:400px;height:250px" src="https://online.fliphtml5.com/pjnuy/rgax/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe>
+<div style="position:relative;padding-top:max(60%,324px);width:100%;height:0;"><iframe style="position:absolute;border:none;width:100%;height:100%;left:0;top:0;" src="https://online.fliphtml5.com/pjnuy/zvdx/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe></div>
 
 **PDF Format:**\
 <a href="/SRJKC_resources/doc/year4/year4_text1.pdf" target="_blank">1 踏上学习的征途 [pg. 2-9]</a>\

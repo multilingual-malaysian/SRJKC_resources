@@ -5,7 +5,7 @@ feature_text: |
 feature_image: /SRJKC_resources/assets/images/fb_groups.jpg
 ---
 Here's a complication of tools and apps that are available in the market:
-* Pleco
+* <img src="/SRJKC_resources/assets/images/Pleco_Logo.jpg" alt="Pleco App" width="150" height="180">
 * Google Lens
 * PokiBook
 

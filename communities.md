@@ -6,9 +6,8 @@ feature_image: /SRJKC_resources/assets/images/fb_groups.jpg
 ---
 Here's a complication of tools and apps that are available in the market:
 * <img src="/SRJKC_resources/assets/images/Pleco_Logo.jpg" alt="Pleco App" width="150" height="180">
-* Google Lens
-* PokiBook
-
+* <img src="/SRJKC_resources/assets/images/Google_Lens_Icon.svg.png" alt="Google Lens App" width="150" height="180">
+* <img src="/SRJKC_resources/assets/images/pokiBook.jpg" alt="PokiBook" width="150" height="180">
 
 I stumbled upon many like-minded groups on Facebook, here's tabulating them here for easier reference. This is by no means an exhaustive list, if I have missed any, please let me know by emailing me [multilingual.malaysian@gmail.com](mailto:multilingual.malaysian@gmail.com) and I will try to keep this list as up-to-date as possible.
 

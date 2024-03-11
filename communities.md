@@ -10,6 +10,7 @@ Here's a complication of tools and apps that are available in the market:
 <BR CLEAR="left" />
 * <img src="/SRJKC_resources/assets/images/pokiBook.jpg" alt="PokiBook" width="150" height="180" ALIGN="left" /> PokiBook is a Chinese dictionary application based on AI technology. Whether you are a beginner or sophesticated user, you will always find what you need here! With powerful and user-friendly features, PokiBook is dedicated to making Chinese learning EASY and FUN!
 <BR CLEAR="left" />
+----
 
 ## Communities
 I stumbled upon many like-minded groups on Facebook, here's tabulating them here for easier reference. This is by no means an exhaustive list, if I have missed any, please let me know by emailing me [multilingual.malaysian@gmail.com](mailto:multilingual.malaysian@gmail.com) and I will try to keep this list as up-to-date as possible.

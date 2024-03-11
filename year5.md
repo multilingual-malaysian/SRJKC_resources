@@ -25,9 +25,10 @@ Number of page visits: ![HitCount](https://hits.dwyl.com/multilingual-malaysian/
 **Flipbook Format:**
 <div style="position:relative;padding-top:max(60%,324px);width:100%;height:0;"><iframe style="position:absolute;border:none;width:100%;height:100%;left:0;top:0;" src="https://online.fliphtml5.com/pjnuy/ahsc/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe></div>
 
-**PDF Format:**
+**PDF Format:**\
+<!--
 - <a href="https://fliphtml5.com/api/download/download-file?bookId=40960867&type=1" target="_blank">Full compilation (one single PDF file)</a>
-- By Chapters (individual PDF files): \
+- By Chapters (individual PDF files): \-->
 <a href="/SRJKC_resources/doc/year5/year5_text1.pdf" target="_blank">1. 实力会说话 [pg. 3-8]</a>\
 <a href="/SRJKC_resources/doc/year5/year5_text2.pdf" target="_blank">2. 风中的树苗 [pg. 9-12]</a>\
 <a href="/SRJKC_resources/doc/year5/year5_text3.pdf" target="_blank">3. 告别网络游戏的汤姆 [pg. 16-22]</a>\

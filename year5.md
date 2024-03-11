@@ -23,7 +23,6 @@ Number of page visits: ![HitCount](https://hits.dwyl.com/multilingual-malaysian/
 
 ### Pinyin 拼音注音 + English Translation 英文翻译 (PDF File) <a name="pinyin"></a>
 **Flipbook Format:**
-<iframe style="width:400px;height:250px" src="https://online.fliphtml5.com/pjnuy/wxba/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe>
 <div style="position:relative;padding-top:0;width:400px;height:250px;"><iframe style="position:absolute;border:none;width:100%;height:100%;left:0;top:0;" src="https://online.fliphtml5.com/pjnuy/ahsc/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe></div>
 
 **PDF Format:**\

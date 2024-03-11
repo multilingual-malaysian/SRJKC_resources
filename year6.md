@@ -25,7 +25,7 @@ Number of page visits: ![HitCount](https://hits.dwyl.com/multilingual-malaysian/
 **Flipbook Format:**
 <div style="position:relative;padding-top:max(60%,324px);width:100%;height:0;"><iframe style="position:absolute;border:none;width:100%;height:100%;left:0;top:0;" src="https://online.fliphtml5.com/pjnuy/haeh/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe></div>
 
-**PDF Format:**\
+**PDF Format:**
 - <a href="https://fliphtml5.com/api/download/download-file?bookId=87909806&type=1" target="_blank">Full compilation (one single PDF file)</a>
 - By Chapters (individual PDF files): \
 <a href="/SRJKC_resources/doc/year6/year6_text1.pdf" target="_blank">1. 动物大迁徙有感 [pg. 2-8]</a>\

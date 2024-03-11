@@ -3,7 +3,7 @@ title: Tools, Apps and Communities
 feature_text: 
 feature_image: /SRJKC_resources/assets/images/fb_groups.jpg
 ---
-Here's a compilelation of tools and apps that are available in the market: 
+Here's a compilation of tools and apps that are available in the market: 
 * <img src="/SRJKC_resources/assets/images/Pleco_Logo.jpg" alt="Pleco App" width="150" height="180" ALIGN="left" />  Pleco Software (pronounced Pl-ee-ko) provides an English and Chinese Dictionary application for iOS and Android devices. Pleco allows different ways of input, including Pinyin input method, English words, handwriting recognition and optical character recognition.
 <BR CLEAR="left" />
 * <img src="/SRJKC_resources/assets/images/Google_Lens_Icon.svg.png" alt="Google Lens App" width="150" height="180" ALIGN="left" /> Copy and translate text, Step-by-step homework help

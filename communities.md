@@ -1,9 +1,14 @@
 ---
-title: Online Communities
+title: Tools, Apps and Communities
 feature_text: |
-  Like-minded communities...                          .
+  Extra Resources
 feature_image: /SRJKC_resources/assets/images/fb_groups.jpg
 ---
+Here's a complication of tools and apps that are available in the market:
+* Pleco
+* Google Lens
+* PokiBook
+
 
 I stumbled upon many like-minded groups on Facebook, here's tabulating them here for easier reference. This is by no means an exhaustive list, if I have missed any, please let me know by emailing me [multilingual.malaysian@gmail.com](mailto:multilingual.malaysian@gmail.com) and I will try to keep this list as up-to-date as possible.
 

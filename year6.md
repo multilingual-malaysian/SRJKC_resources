@@ -26,6 +26,8 @@ Number of page visits: ![HitCount](https://hits.dwyl.com/multilingual-malaysian/
 <div style="position:relative;padding-top:max(60%,324px);width:100%;height:0;"><iframe style="position:absolute;border:none;width:100%;height:100%;left:0;top:0;" src="https://online.fliphtml5.com/pjnuy/haeh/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe></div>
 
 **PDF Format:**\
+- Full compilation (one single PDF file)
+- By Chapters (individual PDF files):
 <a href="/SRJKC_resources/doc/year6/year6_text1.pdf" target="_blank">1. 动物大迁徙有感 [pg. 2-8]</a>\
 <a href="/SRJKC_resources/doc/year6/year6_text2.pdf" target="_blank">2. 草船借箭 [pg. 9-16]</a>\
 <a href="/SRJKC_resources/doc/year6/year6_text3.pdf" target="_blank">3. 与众不同的一本书 [pg. 17-24]</a>\

@@ -47,6 +47,8 @@ Number of page visits: ![HitCount](https://hits.dwyl.com/multilingual-malaysian/
 <a href="/SRJKC_resources/doc/year6/year6_text19.pdf" target="_blank">19. 趣谈姓氏 [pg. 144-149]</a>\
 <a href="/SRJKC_resources/doc/year6/year6_text20.pdf" target="_blank">20. 走一趟知知港 [pg. 152-155]</a>
 
+<!-- need to change: 古诗4 -->
+
 _Other PDF files will be made available soon_
 
 [Back to Top](#top)

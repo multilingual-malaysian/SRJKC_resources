@@ -21,7 +21,7 @@ Number of page visits: ![HitCount](https://hits.dwyl.com/multilingual-malaysian/
 <iframe width="100%" height="550" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1494750034&color=%23b0aa78&auto_play=false&hide_related=false&show_comments=false&show_user=false&show_reposts=false&show_teaser=false"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/sets/srjkc-chinese-year-6" title="SRJKC Chinese Year 6" target="_blank" style="color: #cccccc; text-decoration: none;">SRJKC Chinese Year 6</a></div>
 [Back to Top](#top)
 
-### Pinyin 拼音注音 + English Translation 英文翻译 (PDF File) <a name="pinyin"></a>
+### Pinyin 拼音注音 + English Translation 英文翻译 <a name="pinyin"></a>
 **Flipbook Format:**
 <div style="position:relative;padding-top:max(60%,324px);width:100%;height:0;"><iframe style="position:absolute;border:none;width:100%;height:100%;left:0;top:0;" src="https://online.fliphtml5.com/pjnuy/haeh/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe></div>
 
